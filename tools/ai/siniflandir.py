@@ -152,8 +152,12 @@ def rapor(a):
             uid, tur, _ = cid.rsplit('-', 2)
             if uid != u['id']:
                 continue
+            if isinstance(liste, str):
+                try: liste = json.loads(liste)
+                except Exception: liste = []
             for e in liste:
-                lab[tur][e['i']] = e
+                if isinstance(e, dict) and isinstance(e.get('i'), int):
+                    lab[tur][e['i']] = e
         res = {}
         for tur, konu_ad in (('neg', tem), ('top', olk)):
             yorumlar = [r for r in h.get(tur, []) if (r.get('text') or '').strip()]
