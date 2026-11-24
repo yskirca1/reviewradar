@@ -53,7 +53,7 @@ def sistem(d, tur):
             'Kurallar: Konu, yorumda gerçekten anlatılıyorsa işaretlenir; tek bir kelimenin geçmesi yetmez '
             '(örn. "fiyatına göre iyi" bir fiyat şikâyeti değildir). Emin değilsen işaretleme. '
             '"alinti" alanına, işaretlediğin konuyu en iyi gösteren, yorumdan BİREBİR kopyalanmış 4-20 kelimelik bir parça yaz; '
-            'yazım hatalarını düzeltme, kelime ekleme. Konu yoksa alinti null olsun.')
+            'yazım hatalarını düzeltme, kelime ekleme. Konu yoksa alinti null olsun. Cevabını YALNIZCA etiketle aracını bir kez çağırarak, listedeki her yorum için bir öğeyle ver.')
 
 
 def arac(d, tur):
@@ -78,7 +78,7 @@ def istekler(d, ham):
                 out.append({'custom_id': f'{uid}-{tur}-{bas}', 'params': {
                     'model': MODEL, 'max_tokens': 4000,
                     'system': [{'type': 'text', 'text': sistem(d, tur), 'cache_control': {'type': 'ephemeral'}}],
-                    'tools': [arac(d, tur)], 'tool_choice': {'type': 'tool', 'name': 'etiketle'},
+                    'tools': [arac(d, tur)], 'tool_choice': {'type': 'auto'},
                     'messages': [{'role': 'user', 'content': f'Ürün: {h.get("meta", {}).get("title", uid)}\n\n{metin}'}]}})
     return out
 
@@ -122,7 +122,9 @@ def topla(a):
         if r.result.type != 'succeeded':
             hata.append(r.custom_id); continue
         blok = next((x for x in r.result.message.content if x.type == 'tool_use'), None)
-        sonuc[r.custom_id] = blok.input.get('etiketler', []) if blok else []
+        if not blok:
+            hata.append(r.custom_id); continue
+        sonuc[r.custom_id] = blok.input.get('etiketler', [])
     (AI / 'etiket').mkdir(exist_ok=True)
     (AI / 'etiket' / f'{a.kategori}.json').write_text(json.dumps(sonuc, ensure_ascii=False), encoding='utf-8')
     print(f'{len(sonuc)} istek alındı, {len(hata)} hata', hata[:10])
