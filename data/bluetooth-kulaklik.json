@@ -145,7 +145,7 @@
  "oneriler": [
   {
    "baslik": "Dayanıklılığı kanıtla, değişim garantisi ver",
-   "metin": "KOBİ ürünlerinde arıza (kısa sürede bozulma, tek tarafın susması, şarj almama) olumsuz yorumlarda %36 oranında; büyük markalarda %22. En sık cümle \"1 ay bile olmadı bozuldu\". Göndermeden önce her kulaklığı test et, 6-12 aylık değişim sözü ver: büyük markaya karşı en güçlü koz bu.",
+   "metin": "KOBİ ürünlerinde olumsuz yorumların %23'ü kısa sürede bozulmadan, %11'i tek tarafın susmasından, %14'ü şarj almamasından. Büyük markalarda bu oranlar sırasıyla %16, %8 ve %2. En sık cümle \"1 ay bile olmadı bozuldu\". Göndermeden önce her kulaklığı test et, 6-12 aylık değişim sözü ver: büyük markaya karşı en güçlü koz bu.",
    "konular": [
     "bozulma",
     "tek",
@@ -155,7 +155,7 @@
   },
   {
    "baslik": "Şarj iddiasını gerçekçi yaz",
-   "metin": "Şarj sorunları (çabuk bitme, şarj almama) KOBİ'lerde %18, büyük markalarda %5. Kutulu ve kutusuz gerçek kullanım süresini test edip yaz; şarj göstergesi doğru yüzdeyi göstermiyorsa müşteri bunu hemen fark ediyor.",
+   "metin": "\"Şarj çabuk bitiyor\" şikâyeti KOBİ'lerde %11, büyük markalarda %6. \"Şarj almıyor\" şikâyeti KOBİ'lerde %14, büyük markalarda %2. Kutulu ve kutusuz gerçek kullanım süresini test edip yaz; şarj göstergesi doğru yüzdeyi göstermiyorsa müşteri bunu hemen fark ediyor.",
    "konular": [
     "pil",
     "sarj"
@@ -164,7 +164,7 @@
   },
   {
    "baslik": "Büyük markanın açığından gir: ses ve oturma",
-   "metin": "Xiaomi ve Huawei'nin olumsuz yorumlarında \"ses az, boğuk, dışarı veriyor\" oranı %31 (KOBİ'de %10), \"kulağa oturmuyor, acıtıyor\" %11 (KOBİ'de %2). Yüksek ses seviyesi, farklı boy silikon uçlar ve görüşmede net mikrofonu öne çıkaran bir KOBİ ürünü burada rakipsiz kalır.",
+   "metin": "Xiaomi ve Huawei'nin olumsuz yorumlarında \"ses az, boğuk, dışarı veriyor\" oranı %38 (KOBİ'de %15), \"kulağa oturmuyor, acıtıyor\" %11 (KOBİ'de %2). Yüksek ses seviyesi, farklı boy silikon uçlar ve görüşmede net mikrofonu öne çıkaran bir KOBİ ürünü burada rakipsiz kalır.",
    "konular": [
     "ses",
     "kulak"
@@ -173,7 +173,7 @@
   },
   {
    "baslik": "Kutuyu eksiksiz gönder",
-   "metin": "Büyük markaların olumsuz yorumlarında \"kutudan kablo ya da parça çıkmadı\" oranı %8. İlanda yazan her aksesuar (kablo, yedek uç, kılavuz) kutuda olmalı; yoksa ilanda açıkça yazılmalı.",
+   "metin": "Büyük markaların olumsuz yorumlarında \"kutudan kablo ya da parça çıkmadı\" oranı %10. İlanda yazan her aksesuar (kablo, yedek uç, kılavuz) kutuda olmalı; yoksa ilanda açıkça yazılmalı.",
    "konular": [
     "eksik"
    ],
@@ -181,7 +181,7 @@
   },
   {
    "baslik": "Puanı hediyeyle değil, ürünle topla",
-   "metin": "KOBİ'lerin önerilen yorumlarında satıcının hediyesine (kılıf, kahve) teşekkür oranı %19, bir üründe %54; büyük markalarda yok denecek kadar az. Bazı olumsuz yorumlar \"hediye için güzel yorum yazdırıyorlar\" diyor. Hediye ilk puanı yükseltiyor ama arıza gelince 1 yıldıza dönüyor ve güveni zedeliyor.",
+   "metin": "Satıcının hediyesine (kılıf, kahve) teşekkür oranı olumlu yorumlarda tüm kategoride %16. Bir üründe %62, bir başkasında %53; büyük markalarda yok denecek kadar az. Bazı olumsuz yorumlar \"hediye için güzel yorum yazdırıyorlar\" diyor. Hediye ilk puanı yükseltiyor ama arıza gelince 1 yıldıza dönüyor ve güveni zedeliyor.",
    "konular": [
     "yorum"
    ],
@@ -191,7 +191,7 @@
   },
   {
    "baslik": "Bağlantıyı test et, uyumluluğu net yaz",
-   "metin": "Bağlantı kopması iki grupta da olumsuz yorumlarda yaklaşık %12 oranında geçiyor. iPhone, Android ve bilgisayarla eşleştirmeyi kısa bir videoyla göster; menzili ve desteklenen cihazları açıkça yaz.",
+   "metin": "Bağlantı kopması olumsuz yorumlarda büyük markalarda %15, KOBİ'lerde %10 oranında geçiyor. iPhone, Android ve bilgisayarla eşleştirmeyi kısa bir videoyla göster; menzili ve desteklenen cihazları açıkça yaz.",
    "konular": [
     "baglanti"
    ],
@@ -222,33 +222,33 @@
    "sikayet": {
     "pil": 0.04,
     "sarj": 0.0,
-    "bozulma": 0.12,
-    "tek": 0.02,
-    "baglanti": 0.08,
-    "ses": 0.48,
-    "mikrofon": 0.07,
-    "kulak": 0.13,
+    "bozulma": 0.04,
+    "tek": 0.05,
+    "baglanti": 0.1,
+    "ses": 0.58,
+    "mikrofon": 0.06,
+    "kulak": 0.18,
     "vaat": 0.02,
-    "farkli": 0.01,
-    "eksik": 0.01,
-    "iade": 0.03,
+    "farkli": 0.0,
+    "eksik": 0.0,
+    "iade": 0.06,
     "dokunmatik": 0.03,
     "yorum": 0.0,
-    "fiyat": 0.07,
-    "kargo": 0.02
+    "fiyat": 0.09,
+    "kargo": 0.03
    },
    "olumlu": {
-    "ses": 0.63,
-    "pil": 0.18,
+    "ses": 0.6,
+    "pil": 0.16,
     "fp": 0.23,
-    "kargo": 0.25,
+    "kargo": 0.3,
     "satici_hediye": 0.0,
-    "hediye_alim": 0.11,
-    "mikrofon": 0.14,
-    "baglanti": 0.02,
-    "rahat": 0.1,
-    "dayaniklilik": 0.11,
-    "orijinal": 0.01
+    "hediye_alim": 0.15,
+    "mikrofon": 0.15,
+    "baglanti": 0.04,
+    "rahat": 0.08,
+    "dayaniklilik": 0.1,
+    "orijinal": 0.03
    },
    "dikkat": [
     "Ses seviyesi düşük bulunuyor; dış sesler rahatça duyuluyor ve müzik bastırılıyor.",
@@ -260,26 +260,137 @@
    ],
    "alinti": [
     {
-     "konu": "Ses az, boğuk, cızırtılı",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "sesi çok kısık dışardaki sesler çok rahat duyuluyor"
+     "metin": "ürünün sesi çok az ayriyeten kullanırken kulağım sakasiz inanılmaz derecede acıyor"
     },
     {
-     "konu": "Kulağa oturmuyor, acıtıyor",
+     "konu": "ses",
      "yildiz": 2,
-     "metin": "şarkı dinlerken kulaklarımı sağır etmeyi seviyorum ve 1. gün 4defa kulağımdan fırladı."
+     "metin": "ses sıkıntılı çok az geliyor dışardayken müzikten çok arabaların sesini dinliyorum"
     },
     {
-     "konu": "Kulağa oturmuyor, acıtıyor",
+     "konu": "kulak",
      "yildiz": 2,
-     "metin": "Ses kalitesi iyi ama aşırı büyük kulağınız küçükse tercih edilmemeli"
+     "metin": "Bu fiyata daha iyi kulaklıklar var sesi dışarı cok veriyor kulaga tam oturmuyor"
     },
     {
-     "konu": "Olumlu: görüşme",
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "kulağın iç kısmı bana aşırı derecede büyük olduğu için iade istedim reddedildi"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "müzik dinlenilmiyor şarkının arkasından sesler geliyor şarkı donuyor cızırtılı geliyor"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "şarjı bittiğinde uyarı vermeden direkt bağlantıyı kesiyor ve ses dışarı gidiyor"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "Bu fiyata daha iyi bir performans beklerdim"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "fiyat performans değil mikrofon leş"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "kunuşmada sesi karşı taraf anlamıyor"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "sonrada uymayan cihaz iadede reddediliyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "teki bozuldu durduk yere memnun değilim"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "bataryası bozuk herhalde direk şarjı bitiyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarjı çabuk bitiyor o yüzden memnun değilim"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 2,
+     "metin": "Arzalı geldi uğraştırmadan teslim aldılar ama çok başarılı bir ürün değil"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "aldıktan 6 ay sonra aniden bozuldu almanızı önermem"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "paketleme aynen bu şekilde sorun olsa yine kabul etmezdinz"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "aktif gürültü önleyici özelliği var yazıyor ama yok"
+    },
+    {
+     "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "ürün çok güzel ses kalitesi aşırı iyi aramalarda da sesi çok güzel iletiyor harikaaaa"
+     "metin": "ses kalitesi çok iyi satıcı firma güvenilir ve en geç 2 gün içinde ulaştırıyor paketleme mükemmel"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "paketleme güzel kargo hızlı ses ve mikrofon kalitesi güzel fiyat performans"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Ses kalitesi gayet güzel. Mikrofon sorunsuz çalışıyor. Paketleme de güzeldi."
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "hem şarjı uzun süre gidiyor hem sesi çok kaliteli iletiyor fiyat performans ürünü"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "Ürünü nişanlım için aldım ses kalitesi şarj süresi falan mükemmel"
+    },
+    {
+     "konu": "Olumlu: mikrofon",
+     "yildiz": 5,
+     "metin": "gürültülü bi ortamda çalışmama rağmen rahatlıkla telefon görüşmesi yapabiliyorum"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "Hayatımda kullandığım en sağlam en kullanışlı kulaklık teşekkürler"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "uyumlu bağlantı kurdum ses kalitesi konuşmalarda iyi benim sesimde ve karşı tarafta sorun yaşanmadı"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "Görseldeki gibi aynısı geldi ve paketleme güzel sağlam bir şekilde elime ulaştı"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "855229283",
@@ -302,35 +413,35 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.01,
-    "sarj": 0.0,
-    "bozulma": 0.2,
+    "pil": 0.05,
+    "sarj": 0.02,
+    "bozulma": 0.18,
     "tek": 0.1,
-    "baglanti": 0.15,
-    "ses": 0.21,
-    "mikrofon": 0.04,
-    "kulak": 0.07,
-    "vaat": 0.06,
+    "baglanti": 0.13,
+    "ses": 0.25,
+    "mikrofon": 0.05,
+    "kulak": 0.04,
+    "vaat": 0.04,
     "farkli": 0.0,
-    "eksik": 0.18,
-    "iade": 0.04,
-    "dokunmatik": 0.03,
+    "eksik": 0.19,
+    "iade": 0.07,
+    "dokunmatik": 0.04,
     "yorum": 0.0,
-    "fiyat": 0.02,
+    "fiyat": 0.03,
     "kargo": 0.06
    },
    "olumlu": {
-    "ses": 0.66,
-    "pil": 0.33,
-    "fp": 0.37,
-    "kargo": 0.22,
-    "satici_hediye": 0.0,
-    "hediye_alim": 0.11,
-    "mikrofon": 0.09,
-    "baglanti": 0.12,
-    "rahat": 0.05,
-    "dayaniklilik": 0.14,
-    "orijinal": 0.02
+    "ses": 0.62,
+    "pil": 0.3,
+    "fp": 0.4,
+    "kargo": 0.27,
+    "satici_hediye": 0.02,
+    "hediye_alim": 0.16,
+    "mikrofon": 0.07,
+    "baglanti": 0.15,
+    "rahat": 0.09,
+    "dayaniklilik": 0.09,
+    "orijinal": 0.04
    },
    "dikkat": [
     "Kutudan şarj kablosu çıkmadığını yazan çok yorum var; olumsuzların yaklaşık beşte biri bu.",
@@ -342,26 +453,182 @@
    ],
    "alinti": [
     {
-     "konu": "Eksik parça / kablo yok",
-     "yildiz": 1,
-     "metin": "Şarj aleti koymamak nasıl bir düşünce yapısı acaba kutunun içine"
-    },
-    {
-     "konu": "Ses az, boğuk, cızırtılı",
+     "konu": "ses",
      "yildiz": 2,
-     "metin": "ses %50'den sonra dışarı çıkıyor ve ötle gürültü engelleme falan hikaye"
+     "metin": "Kulaklık dışarı ses veriyor. Dışarıda kullanmak için uygun değil, insanlar rahatsız olur."
     },
     {
-     "konu": "Kısa sürede bozuldu",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "max 1 ay sonra 1 kulaklık baglanmiyo 4 tane aldık hepsi ayni"
+     "metin": "Son sesi o kadar az ki anca evde bi odada sessiz ortamda kullanabilirsiniz"
     },
     {
-     "konu": "Olumlu: uyumluluk",
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "içinde şart aleti yok genelde kablosuz olur ama eksik gönderilmiş"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 2,
+     "metin": "içinden şarj aletini almışlar. yani 3 gözlü olan kutunun biri boş"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 2,
+     "metin": "benim kulaklığım hemen bozuldu. Sonradan fark ettim içinde garanti belgesi de yokmuş"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 2,
+     "metin": "6 ay sonra kulaklığın tekinde şarj sorunu yaşadım. 20 dk sonra kapanmaya başladı."
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "16 ya geçtim asla bağlanmıyor bağlansın diye xiaominin bi kulaklık uygulaması varmış"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "sonra hiç bir telefona bağlantı yapılamadı kendi telefobum sıfırlandı ondada olmadı"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "İadeye gönderdim 2 haftadırda Analizde duruyor, öylece kaldı."
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "daha alalı iki hafta oldu kulaklığın teki çalışmıyor"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "defolu geldiği için iade etmek zorunda kaldım. Tamir için gönderim kabul etmediler"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 2,
+     "metin": "bana yardımcı ola bilir misiniz kulaklık garantilimi"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "çok geç geldi ve normal 300-400 TL lik bi kulaklığın da yapabileceği bi ses performansı var"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "kargo çok yavaş geliyor ben sipariş veriyorken yarın kapında yazıyordu ama tam bir haftada geldi"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "kutusuyla 36 saat diyor ama ben bi gün zor dayanıyorum"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "kulakligimin birinin şarji direkt %10 oluyor"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 2,
+     "metin": "TELEFON GORUSMESİ YAPARKEN SES GİTMİYOR BİLDİGİN BAGİRARAK KONUSTURUYOR"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "telefonda konuşurken karşı tarafa çok kaliteli bi ses göndermiyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 2,
+     "metin": "kulağımda durmadı sesi de dışarıya veriyor bas ve ses kalitesi pek iyi değil"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "kulagi yara yapiyo kulagimi kanatıyo takmiyorum"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "ürün gürültü engelleyıci diye satılıyor ama böyle bir özelliği yok"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "baglandıgımda gürültü engelleme seçeneğini diye bir şey yoktu"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 1,
+     "metin": "dokunmatik olmadığını bilmiyordum üzerine kulakta takılıyken dokununca duraklamasi gerekiyor"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 2,
+     "metin": "kulaklığa dokununca spoti den şarkı açıyor yada başka bir şeyler"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "biri çalışıyor diğeri çalışmıyor şarj yumasına tam oturmuyor"
+    },
+    {
+     "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "İPhone 11 imde kullanıyorum fiyat ve performans olarak gayet güzel"
+     "metin": "iphone 16 pro ve macbook cihazımda çalıştı ses kalitesi mük kessinlikle f/p siddetle tavsiye"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "tam bir fiyat performans ürünü o kadar güzel ki ses netliği ve kalitesine bayıldım"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "sarji uzun sure yeterli oluyor hatta aldigimdan beri en fazla 3 4 kere sarj etmisimdir"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Şarjı uzun ömürlü fiyat performans ürünü düşünmeden alabilirsiniz"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "ses kalitesini de beğenmis alacak olanlara tavsiye ediyorum bu fiyata kesinlikle alınır"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "Bilgisayarda da telefonda da kullanabiliyorum içinden silikon uçlar çıktı yedek çok beğendim"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "ben koşu yaparken kullanıyorum kulağa iyi tutunuyor"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "aylardır kullanıyorum ama şuan kaybettim ve biraz daha bulamazsam tekrar bundan alacağım"
+    },
+    {
+     "konu": "Olumlu: mikrofon",
+     "yildiz": 5,
+     "metin": "telefon konuşmasındaki ses kalitesi aşırı iyi tam bir fiyat performans ürünü"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "ürün fotoğraftakiyle bire bir geldi çok güzel kutusu fln özenliydi fiyat performans"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "855229295",
@@ -385,33 +652,33 @@
    "ornek_dusuk": 100,
    "sikayet": {
     "pil": 0.09,
-    "sarj": 0.03,
-    "bozulma": 0.25,
-    "tek": 0.11,
-    "baglanti": 0.18,
-    "ses": 0.26,
-    "mikrofon": 0.04,
+    "sarj": 0.04,
+    "bozulma": 0.26,
+    "tek": 0.08,
+    "baglanti": 0.17,
+    "ses": 0.29,
+    "mikrofon": 0.05,
     "kulak": 0.06,
-    "vaat": 0.02,
+    "vaat": 0.03,
     "farkli": 0.01,
-    "eksik": 0.14,
-    "iade": 0.05,
+    "eksik": 0.16,
+    "iade": 0.11,
     "dokunmatik": 0.0,
     "yorum": 0.01,
-    "fiyat": 0.02,
+    "fiyat": 0.03,
     "kargo": 0.01
    },
    "olumlu": {
-    "ses": 0.56,
-    "pil": 0.28,
-    "fp": 0.28,
-    "kargo": 0.27,
+    "ses": 0.47,
+    "pil": 0.23,
+    "fp": 0.3,
+    "kargo": 0.25,
     "satici_hediye": 0.0,
-    "hediye_alim": 0.17,
-    "mikrofon": 0.09,
+    "hediye_alim": 0.13,
+    "mikrofon": 0.08,
     "baglanti": 0.11,
-    "rahat": 0.1,
-    "dayaniklilik": 0.13,
+    "rahat": 0.2,
+    "dayaniklilik": 0.11,
     "orijinal": 0.02
    },
    "dikkat": [
@@ -424,26 +691,172 @@
    ],
    "alinti": [
     {
-     "konu": "Ses az, boğuk, cızırtılı",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "ürün redmi marka olduğu için aldım ancak ses kalitesi berbat bu fiyata daha iyilerini alabilirsiniz"
+     "metin": "ses kalitesi beklediğim gibi değil daha ucuz aletler bundan iyi ses kalitesi var"
     },
     {
-     "konu": "Bağlantı kopuyor",
-     "yildiz": 1,
-     "metin": "Alalı 1 ay oldu ses kesiliyor hiç memnun değilim 200 tlye en ucuz kulaklığı almıştım o bile daha uzun gitti"
+     "konu": "ses",
+     "yildiz": 2,
+     "metin": "dışarıya sesi çok fazla veriyor çok düşükte bile yanındaki duyuyor"
     },
     {
-     "konu": "Yönlendirilmiş yorum şüphesi",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "Sırf yorumum üst sıralar da görünmesi için 5 yıldız verdim!!!! Ben bu ürünü denemeden nasıl anlayacağım!!!! Siz kafayı mı yediniz ?!!!! Sakın almayın ses kalitesi çok kötü!!!"
+     "metin": "6 ay kullandim biri bozuldu 6 ay gectigi icin. garanti bile yardimci olmadi"
     },
     {
-     "konu": "Olumlu: şarj",
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "1 ay sonra hemen bozuldu telefona bağlanmıyordu bile"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "telefona bağlanmıyor bluetoothla garantiye nasıl gönderebilirim"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "artık sürekli bağlantı kopuyor arada bir bağlantı oldu halde"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "Şarz aleti yok. Tek kulak düzgün ama diğer kulak ses çok zayıf."
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 2,
+     "metin": "şarj kablosu çıkmadı içinden satıcı cebe attı galiba kabloyu"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "Ürün arızalı geldi bakalım sonucu merakla bekliyorum inşallah iade alırlar"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "dısarıdan ses duyulduğu ıcın ıade ettim ama iade onaylanmamıs"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "Kullanmaya başladıktan bir sene sonra batarya ömrü bitti sol taraf hiç şarj almıyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "1 sene falan geçtikten sonra kulaklıklardan birinin sarjı 10 dakikada bitiyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "Sol kulaklık çalışmıyor. Durup dururken kulağımda aniden ses kesildi ve çalışmıyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "bir buçuk yıldır kullanıyorum sol kulaklık çalışmıyor ve şarjı çok hızlı bitiyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 2,
+     "metin": "ürün güzel fakat kulağıma uymuyor sürekli düşüyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "yerimde müzik dinliyom bi anda kulağımdan düşüyo"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Kulaklıkla biriyle konuşurken sesim boğuk boğuk gidiyor karşı tarafa."
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Telefon görüşmelerinde ses karşıya çok az gidiyor"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "ürün şarj ediyorum takıyorum şarj yok gösteriyor"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "Tam 1 sene oldu ve sağ kulaklık şarj olmuyor."
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "gürültü engelleme yok yanıltıcı ifade edilmiş sürekli bağlantı kopuyor"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "kırık geldi 2. kez aldım kapağı kapanmıyor heryeri çizik çizik"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "ama çok geç geldi satıcıya hediye aldığımızı ilettigimiz halde erkenden kargoya vermedi"
+    },
+    {
+     "konu": "Olumlu: ses",
+     "yildiz": 4,
+     "metin": "Ses kalitesi çok iyi ama daha fazla fonksiyonları olabilirdi fiyatı iyi kargosu da temizdi"
+    },
+    {
+     "konu": "Olumlu: fp",
      "yildiz": 5,
-     "metin": "FP bir ürün tavsiye ederim. Çalışırken kullanıyorum şarjı iyi gidiyor hiç daha bitiremedim"
+     "metin": "bu fiyata daha iyisi imkansız olamaz hiç düşünmeden alın baslar sanki anfi var gibi"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Kulağa oturuşu güzel. Düşecek hissi vermiyor. Satıcının ambalajlaması gerçekten başarılı."
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "10 saattir kulağımda şarjı hala 30 ses çok net gerçekten bu fiyata mükemmel ürün"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "çok hafif kulağı ağırtmıyor çok çok çok teşekkürler fiyatı da uygun"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "Erkek arkadaşıma hediye aldım çok beğendi çok kaliteli bir ürün fiyat performans mükemmel"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "gayet uyumlu hemen bağlanıyor sarjı çok ıyı gıdıyor ses kalıtesi de iyi"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "Annem makineye atmış yanlışlıkla iki hafta çalışmadı sonra bakıyım dedim çalıştı"
+    },
+    {
+     "konu": "Olumlu: mikrofon",
+     "yildiz": 5,
+     "metin": "hem mikrofonu hem ses kalitesi olsun çevremdeki herkese önerdim"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "Xiaomi cihazlarda kapak açtığınız zaman animasyon ile beraber telefonla bağlantı kuruyor"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "761318970",
@@ -468,32 +881,32 @@
    "sikayet": {
     "pil": 0.04,
     "sarj": 0.0,
-    "bozulma": 0.16,
-    "tek": 0.11,
-    "baglanti": 0.15,
-    "ses": 0.3,
-    "mikrofon": 0.1,
+    "bozulma": 0.14,
+    "tek": 0.09,
+    "baglanti": 0.2,
+    "ses": 0.42,
+    "mikrofon": 0.09,
     "kulak": 0.17,
-    "vaat": 0.01,
+    "vaat": 0.03,
     "farkli": 0.01,
-    "eksik": 0.01,
-    "iade": 0.07,
+    "eksik": 0.03,
+    "iade": 0.2,
     "dokunmatik": 0.01,
-    "yorum": 0.02,
-    "fiyat": 0.04,
-    "kargo": 0.01
+    "yorum": 0.03,
+    "fiyat": 0.07,
+    "kargo": 0.06
    },
    "olumlu": {
-    "ses": 0.7,
-    "pil": 0.23,
-    "fp": 0.18,
-    "kargo": 0.25,
-    "satici_hediye": 0.01,
+    "ses": 0.66,
+    "pil": 0.21,
+    "fp": 0.23,
+    "kargo": 0.27,
+    "satici_hediye": 0.0,
     "hediye_alim": 0.2,
-    "mikrofon": 0.2,
-    "baglanti": 0.11,
-    "rahat": 0.06,
-    "dayaniklilik": 0.1,
+    "mikrofon": 0.23,
+    "baglanti": 0.14,
+    "rahat": 0.1,
+    "dayaniklilik": 0.06,
     "orijinal": 0.02
    },
    "dikkat": [
@@ -502,30 +915,176 @@
     "Arızada garanti ve iade başvurusunun reddedildiğini yazanlar var."
    ],
    "ders": [
-    "Kategorinin en düşük 1-2 yıldız payı (%7). Şikâyetler arızadan çok konfor ve görüşme kalitesinde: sağlamlık kazanılmış, ergonomi kaybediliyor."
+    "Kategorinin en düşük 1-2 yıldız payı (%7). En sık şikâyet sesin az ve boğuk olması (%42); ardından bağlantı kopması ve iade-garanti sorunu geliyor (%20'şer). Marka güveni var ama ses beklentisi karşılanmıyor."
    ],
    "alinti": [
     {
-     "konu": "Mikrofon / telefon görüşmesi",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "Ürünü benim gibi ortalama bir konuşma yapmak için alıyorsanız almayın çünkü karşı taraf sürekli efendim demek zorunda müzik dinlemek istiyorsanız bu müziği sadece sessiz alanda dinletir çünkü sesli yerlerde müzik karışıyor sesi çok az"
+     "metin": "sol kulaklıkta ses az geliyor diye verdim. bakım yaptık diyerek geri gönderdiler"
     },
     {
-     "konu": "Kulağa oturmuyor, acıtıyor",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "Kulağı acıtıyor ve ses kalitesi ortanın altında."
+     "metin": "1 seneyi doldurmadan kulaklıkta sıkıntı oldu. Sesi çok kısık çıkmaya başladı"
     },
     {
-     "konu": "İade ve garanti sorunu",
+     "konu": "baglanti",
      "yildiz": 1,
-     "metin": "kutudan çıktığı anda dokunmatiği bozuk ürün satıp iademi reddettiler tüketici hakem heyetine başvurucağım her yerden duyuracağım hakkımı bırakmıcam"
+     "metin": "Tabletime bağlanıyor ama telefonuma bir türlü bağlanmadı o yüzden iade edicem"
     },
     {
-     "konu": "Olumlu: hediye",
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "ya macbook a ya da ıphone bağlayabiliyorum ikisine aynı anda bağlayamıyorum"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "bu satıcıdan almayın sattıktan sonra muhattab olmuyor fatura telebimi karşılamıyor"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "iade etmek istedim iadeyi ret ettiler"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 2,
+     "metin": "kulağa takılan bölgede belirli bir süre sonra uyuşma ve ağrı oluşturuyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "Kulakta durmuyor, kulaklık kaydırmaz almama rağmen kulağımda durmuyor"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "senesi dolmadan arıza yaptı nereye göndereceğim hakkında bilgi almak istiyorum"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "kasımda aldım temmuzda bozuldu tek taraftan cizirdiyodu garantiye yolladım"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "Önce sol taraf bozuldu daha sonra ikisi de bozuldu ses gelmiyor."
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "servise yolladık sorun yok diyip geri göndermişler."
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Üründe telefon konuşması iyi değil 2 sinide takıp ve sessiz ortamda konuşmanız lazım"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "dışarıdaki sesleri aşırı derecede karşı tarafa iletiyo karşı taraf beni duyamıyor"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "Şarj olayı yalan, uzun gidiyo ama 30-40 saat filan değil"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "İade etmek istiyorum ama iade yapmadılar"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "kargo çok geç geldi. Artı olarak kargo paketi içinden ürünün faturası çıkmadı"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "elektronik bişeyin paketi böyle olmaması gerekiyor çok sqcma"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "Şarjı 1 gün gidiyor garantiye gönderemiyorum reddediyorlar"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "Ürün sadece Huawei cihazlar için geçerli bilginiz olsun"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "bir kulaklığım kayboldu ve satıcıdan TRENDYOL asla memnun değilim asla bana yardımcı olmuyorlar"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 2,
+     "metin": "jarz aleti yok, onu da ucret ödeyip alıyorsunuz. 5 metreden sonra çekmiyor"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 2,
+     "metin": "İstediğim ürün gelmedi yanlış ürün geldi iade ettim"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 1,
+     "metin": "kutudan çıktığı anda dokunmatiği bozuk ürün satıp iademi reddettiler"
+    },
+    {
+     "konu": "Olumlu: ses",
+     "yildiz": 5,
+     "metin": "telefon görüşmesinde ya da facetime da evin her yerinde çok net ses gidiyor ve geliyor"
+    },
+    {
+     "konu": "Olumlu: kargo",
      "yildiz": 4,
-     "metin": "Kız kardeşime hediye aldım sevdi beğenerek kullanıyor tavsiye ederiz"
+     "metin": "kulak içine çok rahat oturuyor alacaklara tavsiye ederim fiyat konusuna gelirsek uygun sayılır"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Tam bir f/p ürünü ses kalitesi çok iyi telefon görüşmelerinde ses çok güzel iletiliyor"
+    },
+    {
+     "konu": "Olumlu: mikrofon",
+     "yildiz": 5,
+     "metin": "telefon görüşmesi de yapabilirsiniz ses karşı tarafa pürüzsüz ve güzel gidiyor"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "10 günden fazla gidiyor sarji telefonla konusurken normal konuşmada ses karsiya net gidiyor"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "sevgilime hediye olarak aldımm çook beğendii ses kalitesi yeterli"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "Telefonum Apple olmasına rağmen hemencecik bağlandı ses kalitesi zaten efsane net"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "kulağımda sağlam durması ses kalitesi gayet güzel tam bir fiyat performans ürünü"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "Ürünü kullanalı neredeyse 1buçuk sene oldu bir aksilik bile yasamadım"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "143889066",
@@ -548,35 +1107,35 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.26,
-    "sarj": 0.06,
-    "bozulma": 0.2,
-    "tek": 0.04,
-    "baglanti": 0.03,
-    "ses": 0.11,
+    "pil": 0.33,
+    "sarj": 0.1,
+    "bozulma": 0.18,
+    "tek": 0.07,
+    "baglanti": 0.04,
+    "ses": 0.16,
     "mikrofon": 0.01,
-    "kulak": 0.02,
+    "kulak": 0.03,
     "vaat": 0.0,
-    "farkli": 0.0,
-    "eksik": 0.02,
-    "iade": 0.02,
+    "farkli": 0.04,
+    "eksik": 0.03,
+    "iade": 0.1,
     "dokunmatik": 0.0,
     "yorum": 0.01,
-    "fiyat": 0.0,
-    "kargo": 0.02
+    "fiyat": 0.03,
+    "kargo": 0.05
    },
    "olumlu": {
-    "ses": 0.53,
-    "pil": 0.14,
-    "fp": 0.19,
-    "kargo": 0.28,
+    "ses": 0.49,
+    "pil": 0.09,
+    "fp": 0.2,
+    "kargo": 0.29,
     "satici_hediye": 0.02,
-    "hediye_alim": 0.24,
-    "mikrofon": 0.02,
-    "baglanti": 0.05,
-    "rahat": 0.05,
-    "dayaniklilik": 0.17,
-    "orijinal": 0.0
+    "hediye_alim": 0.26,
+    "mikrofon": 0.04,
+    "baglanti": 0.07,
+    "rahat": 0.01,
+    "dayaniklilik": 0.18,
+    "orijinal": 0.01
    },
    "dikkat": [
     "En sık şikâyet şarj, kategorideki en yüksek oranla: kutu kendi kendine boşalıyor, gösterge yanlış yüzde gösteriyor.",
@@ -588,26 +1147,162 @@
    ],
    "alinti": [
     {
-     "konu": "Şarj çabuk bitiyor",
+     "konu": "pil",
      "yildiz": 1,
-     "metin": "doğru düzgün şarj olmuyor saatlerce şarjda kaldığı halde. yüzde 50 diyor kullanınca da 20 dk da bitiyor"
+     "metin": "kutuya her taktigimda şarjı hızla iniyor bilemedim yorum güncelliyorum şarj tutmuyor"
     },
     {
-     "konu": "Kısa sürede bozuldu",
+     "konu": "pil",
      "yildiz": 1,
-     "metin": "gerçekten berbat bir ürün 1 ay bile olmadı ve bozuldu kutusunu atmasam iade edicem sakın almayın"
+     "metin": "şarj göstergesi %100 dolu gösterirken 15 dk son baktigimda %10 düşmüş oluyor"
     },
     {
-     "konu": "Ses az, boğuk, cızırtılı",
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "birkaç aylık kullanımdan sonra sarj soketi içine kaçtı satıcı garantiye girmiyor diyerek"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "Bir kulaklık Ne kadar hızlı bozulabilir diye deney yapmak isterseniz mutlaka alın"
+    },
+    {
+     "konu": "ses",
      "yildiz": 2,
-     "metin": "Şarjı hemen bitiyo. Ses kalitesi okey ( fiyatına göre ) Cızırtı yapiyo. Teşekkürler"
+     "metin": "müzik dinlerken pat diye cızırtı sesi geliyor korktum yani arada kesilmeler yaşanıyor"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "birinden az birinden az daha fazla ses geliyor ses dengesi hiç yok"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "şarj edilecek yer bozuk çalışmıyor küçük bir ara kablo gönderiyor o da bozuk"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "aldımdan beri şarz ediyorum hiç açamadım daha ne olduğu belli değil"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "ürünü tamir vb göndermek istediğimde 15 gün geçmiş yazısı alıyorum"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "ürünün kutu içi garantisi yok ve faturasız satıyorlar"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "kulaklığın biri çalışıyor diğeri çalışmiyor ve çalışmayan kulaklık kutusuna koyduğumda şarj da almıyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "sağ taraf gayet normal sol taraf çok derinden geliyordu gönderdim"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "teslim eden kargo şirketi resmen kapıma fırlattı"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "kutusu mıknatılı değil ele bastırman gerek"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "bazen otomatik kutuyu açmasan bile bağlanıyor."
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "telefona kopma olayı oluyor ses gidip geliyor"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "Çok kötü arızalı ürün gönderiyorlar"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "o resimdeki gibi bişey beklemeyin"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "kulaklıklar mıknatısları yerine oturmuyor biraz hızlı hareket edince hemen yerinden çıkıyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "ürun kulaktan rahatlıkla çıkıyor ürunun şarzi çabuk bitiyor iyi değil"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "ürünün hem içeriği eksik dedim göndermişsiniz"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 2,
+     "metin": "telefon görüşmesi yapılırken ses çok kötü bu konuda tavsiye etmem"
     },
     {
      "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "Cok beğendim teşekkür ederim sesinde mükemmel cıkıyor rahat alabilirsiniz tavsiye ediyorum😍"
+     "metin": "sesi çok yüksek ve ful açsanız bile dışarıya ses asla gitmiyor fiyatıda çok uygun"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Kargom elıme ulastı, tam istedgm gbı teşekkr ediyorum ve paketlemesı de güzeldi"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "eşime hediye almıştım bi kaç ay önce çok memnun kaldığımız için bide ablama hediye olarak aldım"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "3 4 aydirda kullanıyorum kulaklıkta hiç bozulma olmadı ve hemen telefona kolaylıkla bağlanıyor"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "4 yıldır kullanıyorum çok güzel suda kaçtı ama hiçbir şey olmadı"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "şarzı hemen bitmiyor ses kalitesi çok gzl knsma yaparken gzl knsma yapılıyor"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "kulaklık çok iyi gecikme falan yok"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
+     "yildiz": 5,
+     "metin": "Satıcının hediye paketini cinsiyete göre ayarlaması çok hoş bı davranış"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "kulağımı hiç raharsız etmiyor kutusu küçük ztn"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "314585747",
@@ -631,33 +1326,33 @@
    "ornek_dusuk": 100,
    "sikayet": {
     "pil": 0.04,
-    "sarj": 0.08,
-    "bozulma": 0.21,
-    "tek": 0.08,
-    "baglanti": 0.12,
-    "ses": 0.11,
+    "sarj": 0.16,
+    "bozulma": 0.14,
+    "tek": 0.11,
+    "baglanti": 0.11,
+    "ses": 0.19,
     "mikrofon": 0.05,
-    "kulak": 0.02,
-    "vaat": 0.05,
-    "farkli": 0.01,
-    "eksik": 0.04,
-    "iade": 0.04,
-    "dokunmatik": 0.01,
-    "yorum": 0.01,
-    "fiyat": 0.03,
-    "kargo": 0.0
+    "kulak": 0.01,
+    "vaat": 0.04,
+    "farkli": 0.15,
+    "eksik": 0.06,
+    "iade": 0.1,
+    "dokunmatik": 0.02,
+    "yorum": 0.04,
+    "fiyat": 0.05,
+    "kargo": 0.01
    },
    "olumlu": {
-    "ses": 0.53,
-    "pil": 0.12,
-    "fp": 0.17,
-    "kargo": 0.29,
-    "satici_hediye": 0.34,
-    "hediye_alim": 0.09,
-    "mikrofon": 0.02,
+    "ses": 0.5,
+    "pil": 0.09,
+    "fp": 0.2,
+    "kargo": 0.28,
+    "satici_hediye": 0.48,
+    "hediye_alim": 0.1,
+    "mikrofon": 0.01,
     "baglanti": 0.03,
     "rahat": 0.01,
-    "dayaniklilik": 0.13,
+    "dayaniklilik": 0.09,
     "orijinal": 0.09
    },
    "dikkat": [
@@ -666,30 +1361,186 @@
     "Birkaç ay içinde bozulma ve tek taraftan ses gelmemesi sık."
    ],
    "ders": [
-    "Önerilen yorumların üçte biri kılıf hediyesine teşekkür ediyor. Tekrar alan müşteri ise kaliteyi önceki partiyle kıyaslıyor; ses düşerse sadık müşteri 1 yıldıza dönüyor."
+    "Önerilen yorumların %48'i kılıf hediyesine teşekkür ediyor. Tekrar alan müşteri ise kaliteyi önceki partiyle kıyaslıyor; ses düşerse sadık müşteri 1 yıldıza dönüyor."
    ],
    "alinti": [
     {
-     "konu": "Yönlendirilmiş yorum şüphesi",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "yorumum üste gözüksün diye beş yıldız veriyorum. alalı iki ay oldu ve kulaklıktan ses gelmiyor. birisi bozuk. almayın"
+     "metin": "bağlantısı Çok kötü mesela ben salondayken yan odaya geçtiğimde bağlantısı direkt kesiliyor"
     },
     {
-     "konu": "Ses az, boğuk, cızırtılı",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "ses kalitesi berrbatt geçen sene almıştım çok memnundum ama ikinci alışım korkunç sesi çok boğuk"
+     "metin": "istediğim ses ve bas kalitesi yok ses kısık geliyor memnun kalmadım şarj olmuyor"
     },
     {
-     "konu": "Bağlantı kopuyor",
+     "konu": "sarj",
      "yildiz": 1,
-     "metin": "içki kotu gerçekten verdıgım paraya yazık telefona bagladıktan 10 dk sonra kendı kendıne bağlantıyı kesiyor"
+     "metin": "ne kutudan şarj oluyor ne de kutusu şarj oluyor sese zaten lafım yok boğuk ses geliyor"
     },
     {
-     "konu": "Olumlu: orijinaline benzetme",
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "kulaklık kutusu şarj almamaya başladı başka kablo, priz denedim resetledim olmadı"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 2,
+     "metin": "kılıf sade olmasin demiştim benimle ne alıp veremediğiniz var da sade gönderdiniz"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 2,
+     "metin": "ben yeşil kılıf istemiştim sizde tamam demiştiniz ona rağmen kırmızı gönderdiniz"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "6 aylık ömürü var sonra bozuluyor iadenizi de kabul etmiyorlar değişim yapmıyorlar"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "1 ay olmadan bozuldu şarj ışıgı yaniyo şarj etmiyo"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "sol kulaklık bozuk çıktı sağ bağlanmakta zorlanmıyorken sol bir türlü bağlanmıyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "alali iki ay olmadi surekli de kullanmiyorum sag kulaklik vefat etti sagolsun"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "bağlantıyı kestiğim zaman birdaha bağlanmıyor anca şarja takmam gerekiyor"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "telefona bagladıktan 10 dk sonra kendı kendıne bağlantıyı kesiyor"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "Bozuk ürün gönderip iadeyi de kabul etmiyor değişim diye de daha kötü eksik şarj kablosu olmayan ürün gönderiyor"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "kılıf falan göndermediler halbuki yazmıştım"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "bu şarz ucunu nereye takacağım bilemedim"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 2,
+     "metin": "sadece mikrofonda sorun var birisine sesli mesaj atınca ses çok derinden geliyor"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Telefon konuşması yapılmıyor yenisini istiyorum"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "Как одноразовые стаканы дешевые не качественные деньги на ветер"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarjı aniden bitiyor şarjdan çıkardığın gibi yüzdesi düşüyor tek taraf çalışıyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "kulaklıklar şarj tutmuyor. Zaten iade ile uğraşamayacağım"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "iade ettım para iadesi yapmadılar… neymiş cihazı açmısım"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 2,
+     "metin": "anc özelliği yok onun dışında güzel"
+    },
+    {
+     "konu": "yorum",
+     "yildiz": 1,
+     "metin": "alalı iki ay oldu ve kulaklıktan ses gelmiyor. birisi bozuk."
+    },
+    {
+     "konu": "yorum",
+     "yildiz": 1,
+     "metin": "sol kulaklıktan ses gelmemeye başladı"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 2,
+     "metin": "kulaklığın ismi değiştirilemiyor dokunmatığe tıklarken sorun çıkıyor ve güç ışığı bazen yanmıyo"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 2,
+     "metin": "tek dokunuşla telefon aramalarını kapatıyor kulağına ittirirken kapanıyor ve zamanla ses kalitesi azaldı"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "çok özensiz poşet gibi istediğim kılıfla ilgisi yok özellikle belirtmeme rağmen"
+    },
+    {
+     "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "Tek kelime bayıldım bu zamana kadar hic bir sorun yaşamadım orjinalini aratmıyor cok begendım 👏🏻❤️"
+     "metin": "hızlı kargolandı yanında hediye gönderilen kılıfın da kalitesi ve rengi de çok güzeldi"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
+     "yildiz": 5,
+     "metin": "bu fiyata bu kalite bence daha fazlasını hak ediyo kızıma almıştim"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 4,
+     "metin": "çok başarılı paketlenmiş ve gayet güzeldi şarjı, yedek lastikleri ve kılıfı ile muhteşemdi"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "fiyatına göre çok kaliteli ses kalitesi olsun ürün kalitesi olsun orjinal air poddan farkı yok"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "Erkek arkadaşım'a aldım çok memnun oldu çok beğendi güzel paketlemeniz için"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "şarj baya uzun gidiyor ses kalitesi mükemmel dışarıya ses vermiyor"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "hala ilk günki gibi süper hiçbir arızası ses kısılması cızırtı vs bir şey olmadı"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "Ben yanlışlıkla orijinal AirPods Pro mu almışım ? Bu nasıl bir kalite ?"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "233129679",
@@ -712,34 +1563,34 @@
    "onerilen_dusuk": 1,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.07,
-    "sarj": 0.08,
+    "pil": 0.08,
+    "sarj": 0.13,
     "bozulma": 0.17,
-    "tek": 0.04,
-    "baglanti": 0.06,
-    "ses": 0.07,
-    "mikrofon": 0.02,
+    "tek": 0.08,
+    "baglanti": 0.08,
+    "ses": 0.16,
+    "mikrofon": 0.03,
     "kulak": 0.0,
     "vaat": 0.02,
-    "farkli": 0.01,
+    "farkli": 0.02,
     "eksik": 0.0,
-    "iade": 0.0,
-    "dokunmatik": 0.0,
-    "yorum": 0.01,
-    "fiyat": 0.02,
-    "kargo": 0.01
+    "iade": 0.04,
+    "dokunmatik": 0.02,
+    "yorum": 0.03,
+    "fiyat": 0.05,
+    "kargo": 0.0
    },
    "olumlu": {
     "ses": 0.4,
-    "pil": 0.15,
-    "fp": 0.3,
-    "kargo": 0.22,
+    "pil": 0.13,
+    "fp": 0.31,
+    "kargo": 0.21,
     "satici_hediye": 0.0,
-    "hediye_alim": 0.24,
-    "mikrofon": 0.02,
-    "baglanti": 0.01,
-    "rahat": 0.09,
-    "dayaniklilik": 0.19,
+    "hediye_alim": 0.28,
+    "mikrofon": 0.03,
+    "baglanti": 0.02,
+    "rahat": 0.03,
+    "dayaniklilik": 0.17,
     "orijinal": 0.01
    },
    "dikkat": [
@@ -752,26 +1603,142 @@
    ],
    "alinti": [
     {
-     "konu": "Şarj olmuyor / şarj almıyor",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "bir hafta kulanmadım bile şarj almıyor bozuk çıktı"
+     "metin": "kısa bor süre sonra çalışmamaya başladı şarj almadı bu fiyata asla değmez"
     },
     {
-     "konu": "Şarj olmuyor / şarj almıyor",
-     "yildiz": 1,
-     "metin": "Çok minik ve çok güzel fakat bana geldiğinde şarjı olmuyordu geri iade ettim"
-    },
-    {
-     "konu": "Şarj çabuk bitiyor",
+     "konu": "bozulma",
      "yildiz": 2,
-     "metin": "ses kalitesi çok düşük ve şarjı çok çabuk bitiyor 2 saat anca deyaniyor bence kullanışlı değil"
+     "metin": "3 gun kullanmadım hemen kapandı bir daha acilmadi"
     },
     {
-     "konu": "Olumlu: uzun kullanım",
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "iade ettim iademi bile onaylamıyorlar bir hafta oldu iade edeli hala onaylanmadı"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 2,
+     "metin": "bass tarzı şarkıları kötü veriyo ki geneli bass lı şarkılar çok tizz li çıkıyo"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "aldigim gunun ertesi gunu sarj olmuyor daha ilk sarj edisim paraniza yazik"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "2 saatten fazla suredir şarjda kulaklık ama hala kırmızı ışık yanıyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarjı çok çabuk bitiyor bazen sol durup dururken kapanıyor bazen sağ"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "çok çabuk şarjı bitmesi dışında sorun yok"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "şuan sağ kulaklıktan çok az ses geliyor ve hiç düşmedi hasar almadı"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "yaklaşık 5 dakika çalıştırdım ondan sonra tek kulaklık çalışmadı"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "2 kez şarj edebildim bağlantısında sorun olmaya başladı kutusunda ışığı yanmıyor"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "Kulaklık sürekli git gel yapıyor begenmedim ve bir haftadır hiç çalışmıyor"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "hemen kapanıyor geceleri performansı iyi değil fiyati çok yükselmiş ayrica"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Sadece filim ve music icin guzel konuwma cokk cokk cokk kotuu"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 2,
+     "metin": "telefon konuşmasında hiç iyi değil ses bozuk uzaktan geliyor"
+    },
+    {
+     "konu": "yorum",
+     "yildiz": 1,
+     "metin": "Ürünü şöyle güzel böyle güzel diyenlerin ağzına lahmacun küreğiyle vuracaksın"
+    },
+    {
+     "konu": "yorum",
+     "yildiz": 1,
+     "metin": "Kesinlikle iyi yorumu haketmeyen bir ürün"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 2,
+     "metin": "Iphoneda şarjı ne kadar var diye nasıl takip edeceğiz"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "farklı ürün geldi ve bazı yazan özellikleri taşımıyor"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 1,
+     "metin": "kulaklığa dokunduğum anda telefonumdan gemini açılıyor"
+    },
+    {
+     "konu": "Olumlu: ses",
+     "yildiz": 5,
+     "metin": "ses kalitesi çok iyi ve en sevdiğim yanı o kadar kibar küçük ve güzel ki"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "fiyatı gerçekten çok uygun ve aldım baya oldu kullanalı şarjı da cok iyi Gidiyor"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
      "yildiz": 4,
-     "metin": "kendime daha önceden almıştım hâlâ kullanıyorum şimdide kardeşime aldım gayet memnunuz"
+     "metin": "kendime daha önceden almıştım hâlâ kullanıyorum şimdide kardeşime aldım"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "hızlı gönderi için teşekkürler kızıma aldım çok beğendi ses kalitesi çok iyi"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "Alalı 3 ay oldu 3 aydır kullanıyorum gayet güzel ses kalitesi güzel bozulmuyor"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "şarjı da iyi gidiyor teşekkür ederim kargo da çok hızlıydı"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "şarji 3 ğûne kadar gotyor kendime aldim simdide esime alyorum"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "661738189",
@@ -794,66 +1761,162 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.05,
-    "sarj": 0.11,
-    "bozulma": 0.43,
-    "tek": 0.11,
-    "baglanti": 0.2,
-    "ses": 0.08,
-    "mikrofon": 0.03,
-    "kulak": 0.02,
-    "vaat": 0.0,
-    "farkli": 0.01,
-    "eksik": 0.0,
-    "iade": 0.01,
+    "pil": 0.06,
+    "sarj": 0.17,
+    "bozulma": 0.42,
+    "tek": 0.15,
+    "baglanti": 0.22,
+    "ses": 0.11,
+    "mikrofon": 0.02,
+    "kulak": 0.0,
+    "vaat": 0.01,
+    "farkli": 0.06,
+    "eksik": 0.01,
+    "iade": 0.12,
     "dokunmatik": 0.0,
-    "yorum": 0.0,
-    "fiyat": 0.04,
-    "kargo": 0.0
+    "yorum": 0.02,
+    "fiyat": 0.05,
+    "kargo": 0.01
    },
    "olumlu": {
-    "ses": 0.5,
-    "pil": 0.04,
+    "ses": 0.49,
+    "pil": 0.03,
     "fp": 0.17,
-    "kargo": 0.24,
-    "satici_hediye": 0.54,
-    "hediye_alim": 0.12,
-    "mikrofon": 0.02,
+    "kargo": 0.25,
+    "satici_hediye": 0.62,
+    "hediye_alim": 0.13,
+    "mikrofon": 0.03,
     "baglanti": 0.05,
-    "rahat": 0.04,
-    "dayaniklilik": 0.03,
+    "rahat": 0.01,
+    "dayaniklilik": 0.01,
     "orijinal": 0.03
    },
    "dikkat": [
-    "Kısa sürede bozulma kategorinin en yüksek oranında: olumsuzların %43'ü bundan.",
+    "Kısa sürede bozulma kategorinin en yüksek oranında: olumsuzların %42'si bundan.",
     "Telefon biraz uzaklaşınca ya da hareket edince bağlantı kopuyor.",
     "Şarj kutusu şarj olmuyor; tek kulaklığın sustuğu yazılıyor."
    ],
    "ders": [
-    "Önerilen yorumların yarısından fazlası hediyeye teşekkür ediyor, olumsuzların %43'ü kısa sürede bozulmadan. Hediye ilk izlenimi kurtarıyor, ürün ömrünü kurtarmıyor."
+    "Önerilen yorumların yarısından fazlası hediyeye teşekkür ediyor, olumsuzların %42'si kısa sürede bozulmadan. Hediye ilk izlenimi kurtarıyor, ürün ömrünü kurtarmıyor."
    ],
    "alinti": [
     {
-     "konu": "Kısa sürede bozuldu",
-     "yildiz": 1,
-     "metin": "Mayıs ayında aldım çok az kullanmama rağmen hemen bozuldu"
+     "konu": "bozulma",
+     "yildiz": 2,
+     "metin": "1 yıl olmadan bir kulağı bozuldu garanti kapsamında yapılmasını ya da değişimini istiyorum"
     },
     {
-     "konu": "Bağlantı kopuyor",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "müzik dinlerken bi anda bağlantı koptu ve birdaha bağlanmadı sıfırlamaya denedim olmadı 300 tl niz boşa gider ve hiç düşmedi"
+     "metin": "gerçekten tek bir düşürmeyle kırıldı ve harbi sert bi şekilde de düşmedi şimdi teki kaldı"
     },
     {
-     "konu": "Şarj olmuyor / şarj almıyor",
+     "konu": "baglanti",
      "yildiz": 1,
-     "metin": "Kutusu şarj olmuyor. Kesinlikle almayın verdiğiniz paraya yazık günah. Bozuk ürün satıyor. Kesinlikle almayın"
+     "metin": "ses kesiliyor kendi kendine şarkı değişiyor ve bunu bildirmeme rağmen kimse ilgilenmedi"
     },
     {
-     "konu": "Olumlu: satıcının hediyesi",
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "Bağlanma sorunu yaşıyorum resetleme yapmama rağmen daha 2 haftalık bir kulaklık"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "Kutusu şarj olmuyor. Kesinlikle almayın verdiğiniz paraya yazık günah."
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "şarj kutusu bozuk şarj almıyor kulaklıklar kabloyla oluyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "2 gün sağ kulaklığı çalışmamaya başladı 3. Gün kulaklık kendi kendine bağlantıdan çıkıp"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "sabah uyandım ve kulaklığımın bir tanesinin çalışmadığını fark ettim. Hiç ses gelmiyor!"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 2,
+     "metin": "Sol taraftan cızırtı sesi geliyor ve sürekli bağlantıdan kopup duruyor"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "sadece 1 gün şarj ederek kullanabildim akşamında şarjı bitti sonra Bluetooth’a bağlanmadı ve şarj almamaya başladı"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "6 saattir şarjda yüzde 30 tek doldu şaka mısınız"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "hem şarji hemde ses kalitesi kötüleşti"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 2,
+     "metin": "kutusunu siyah istemiştim gri geldi ve sol kulaktan cızırtı sesi geliyor iade"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 2,
+     "metin": "2tanesi mor kılıf olsun demiştik fotoğraf takı mor renk gelmedi"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Arama yapınca berbqt bir kulaklık"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "neden 116 tl kargo parası istiyorsunuz ücretsiz kargo yazıyordu"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
      "yildiz": 5,
-     "metin": "Bir tane almıştım çok memnunum bir tane daha aldım hediyeniz ıcın de çok teşekkür ederim"
+     "metin": "istediğim renkteki kılıfı koyduğunuz için ve hediyeleriniz için teşekkürler"
+    },
+    {
+     "konu": "Olumlu: ses",
+     "yildiz": 5,
+     "metin": "ses kalitesi mükemmel satıcı firmada çok ilgili hediyeleriniz içinde çok teşekkür ediyorum"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "paketleme çok özenliydi yanında telefon tutucu göndermişler teşekkür ederim"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "fiyatına göre alınabilecek en iyi ürün ayrıca gönderdikleri hediye için teşekkür ederim"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "Oğluma aldım çok beğendi ayrıca hediyeniz için çok teşekkür ederim"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "telefonum iphone 13 baglantida hicbir problem yok ses kalitesi de net ve guzel"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "Bu kulaklığı 5.alışım ve hepsi sapasağlam geldi"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "672471753",
@@ -876,38 +1939,38 @@
    "onerilen_dusuk": 1,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.08,
-    "sarj": 0.13,
-    "bozulma": 0.39,
-    "tek": 0.13,
-    "baglanti": 0.13,
-    "ses": 0.1,
-    "mikrofon": 0.03,
-    "kulak": 0.03,
-    "vaat": 0.0,
-    "farkli": 0.05,
+    "pil": 0.04,
+    "sarj": 0.2,
+    "bozulma": 0.29,
+    "tek": 0.16,
+    "baglanti": 0.11,
+    "ses": 0.2,
+    "mikrofon": 0.01,
+    "kulak": 0.01,
+    "vaat": 0.03,
+    "farkli": 0.12,
     "eksik": 0.02,
-    "iade": 0.04,
+    "iade": 0.16,
     "dokunmatik": 0.02,
-    "yorum": 0.03,
+    "yorum": 0.0,
     "fiyat": 0.03,
-    "kargo": 0.0
+    "kargo": 0.01
    },
    "olumlu": {
-    "ses": 0.39,
-    "pil": 0.09,
-    "fp": 0.2,
+    "ses": 0.38,
+    "pil": 0.04,
+    "fp": 0.22,
     "kargo": 0.31,
-    "satici_hediye": 0.41,
+    "satici_hediye": 0.53,
     "hediye_alim": 0.15,
-    "mikrofon": 0.02,
+    "mikrofon": 0.01,
     "baglanti": 0.02,
-    "rahat": 0.03,
-    "dayaniklilik": 0.06,
-    "orijinal": 0.06
+    "rahat": 0.01,
+    "dayaniklilik": 0.1,
+    "orijinal": 0.07
    },
    "dikkat": [
-    "Olumsuzların yaklaşık %40'ı kısa sürede bozulmadan söz ediyor; \"1 ay kullandım çöp oldu\" yorumu sık.",
+    "Olumsuzların %29'u kısa sürede bozulmadan söz ediyor; \"1 ay kullandım çöp oldu\" yorumu sık.",
     "Şarj almayan ve tek tarafı çalışmayan ürün; kutuda kulaklığın biri eksik gelen sipariş var.",
     "Yıllardır alanlar bu partinin öncekilerden kötü olduğunu yazıyor."
    ],
@@ -916,26 +1979,137 @@
    ],
    "alinti": [
     {
-     "konu": "Kısa sürede bozuldu",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "ürün elimize geldi 1 ay kullandım çöp oldu almayin tavsiye etmem👎"
+     "metin": "ilk önce sağ kulaklık bozuldu. Bluetooth bağlanmadı sonra şarj olmadı"
     },
     {
-     "konu": "Tek taraf çalışmıyor",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "Bana gönderilen üründe airpodsun teki yoktu bu yüzden geri iade oluşturma kararı aldım."
+     "metin": "sol kulaklığın birden bağlantısı kesildi ve soldan ses gelmiyor"
     },
     {
-     "konu": "Şarj olmuyor / şarj almıyor",
+     "konu": "sarj",
      "yildiz": 1,
-     "metin": "kesinlikle çok kötü şarj olmuyor hiçbir şekilde daha şarja takar takmaz bozuldu yanmıyor ışığı"
+     "metin": "kulaklıklar şarj almıyor kutunun ışığı yanmıyor ve şimdide bluetooth’a bağlanmıyor"
     },
     {
-     "konu": "Olumlu: satıcının hediyesi",
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "sorun yok denilip iade edildi yine şarj almıyor ve kimse bir çözüm sunmuyor"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 2,
+     "metin": "ses kalitesi baslı ve boğuk ayarlanabilir mi diye kontrol ettim"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "ses kalitesi sıfır cızırılar geliyor iademi de kabul etmediler"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "tek kulaklığı çalışmıyodu defalarca kez yazdım yardım istedim kimse adam akıllı cevap bile vermedi"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "Sag kulaklık birden kesildi ve bozuldu galıba lütfen yenısını gonderın"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "yerine getirdiğiniz ürün aynı değil ses kalitesi o kadar kötü ki"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "yanlis ve farkli urun gonderiyor fakat iade kabul etmiyor"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "şarja taktım ama çalışmıyor herhangi bir zarar birşey de görmedi"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "telefon bile bunu kulaklık olarak algılamıyor kablosu çok kötü"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "Şarj ediyorum doluyor şarjdan çekiyorum kesiliyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarjı hemen bitiyor ses kalitesi çok kötü"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 2,
+     "metin": "bu sefer konum vs özelliği maalesef yok çıkmadı"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "Bana gönderilen üründe airpodsun teki yoktu"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Yalnız mikrofon çok berbat kimle konuşursam sesin kötü geliyor anlaşılmıyor diyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "gerçekten çok iyi kılıf tam oturmuyor onun dısında 10/10"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "Hediye kirik geldi ilki saglamdi"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
      "yildiz": 5,
-     "metin": "Satıcıdan da üründen de çok memnun kaldım çok özenli paketlenmişti hediye kahve için de teşekkür ederim🙏"
+     "metin": "yanında kahve ve kılıf hediyeniz içinde çok teşekkür ederim fiyatı çok Uygun"
+    },
+    {
+     "konu": "Olumlu: ses",
+     "yildiz": 5,
+     "metin": "kılıfıda istediğimi göndermişler ve lahve hediyeniz içinde yaroca tşk ederim"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Sorunsuz çalışıyor ve ayrıca ses kalitesi mükemmel. Şarj sorunu da yok."
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "ses kalitesini cok begendim ki yüksek ses bagimlisiyim beni tatmin etti"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "cidden göründüğü gibi ve çok kaliteli anneme hediye aldim çok beğendi"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "aldığımdan beri ne ses gitmesi oldu ne bişeyi gayet güzel kullanımlı"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "kulaklıgın paketlemesi resmen apple kalitesiydi kesinlikle bayıldım"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "218495477",
@@ -958,35 +2132,35 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.12,
-    "sarj": 0.04,
-    "bozulma": 0.17,
-    "tek": 0.05,
-    "baglanti": 0.06,
-    "ses": 0.1,
-    "mikrofon": 0.04,
-    "kulak": 0.01,
-    "vaat": 0.03,
+    "pil": 0.09,
+    "sarj": 0.13,
+    "bozulma": 0.12,
+    "tek": 0.07,
+    "baglanti": 0.03,
+    "ses": 0.07,
+    "mikrofon": 0.03,
+    "kulak": 0.02,
+    "vaat": 0.04,
     "farkli": 0.01,
-    "eksik": 0.02,
+    "eksik": 0.04,
     "iade": 0.04,
     "dokunmatik": 0.01,
     "yorum": 0.0,
-    "fiyat": 0.02,
+    "fiyat": 0.05,
     "kargo": 0.01
    },
    "olumlu": {
-    "ses": 0.48,
-    "pil": 0.15,
-    "fp": 0.27,
-    "kargo": 0.36,
+    "ses": 0.44,
+    "pil": 0.11,
+    "fp": 0.29,
+    "kargo": 0.37,
     "satici_hediye": 0.02,
     "hediye_alim": 0.11,
-    "mikrofon": 0.05,
-    "baglanti": 0.0,
-    "rahat": 0.07,
-    "dayaniklilik": 0.1,
-    "orijinal": 0.0
+    "mikrofon": 0.07,
+    "baglanti": 0.02,
+    "rahat": 0.04,
+    "dayaniklilik": 0.04,
+    "orijinal": 0.02
    },
    "dikkat": [
     "Üç ile altı ay arasında bozulduğunu yazanlar var.",
@@ -998,26 +2172,167 @@
    ],
    "alinti": [
     {
-     "konu": "Kısa sürede bozuldu",
-     "yildiz": 2,
-     "metin": "ürünü ilk kullanmaya başladığımda hiçbir sorunu yoktu ama altıncı aydan sonra hiç çalışmadı almak isteyenler için önermiyorum."
-    },
-    {
-     "konu": "Şarj çabuk bitiyor",
-     "yildiz": 2,
-     "metin": "Fiyat performans ürünü ama şarjı 1 2 saatte bitiyor iş görür"
-    },
-    {
-     "konu": "Eksik parça / kablo yok",
+     "konu": "sarj",
      "yildiz": 1,
-     "metin": "üründen 2 tane almıştık.Bahsedilen yedek pedler yok, kılavuz yok ve gelen kablo şarj etmiyor neyse tamam diyorum kargo paketi ise ezilmiş yırtılmış yine tamam diyorum kutuyu açıyorum kulaklıklar pis yine tamam diyorum şarjı doldurup özellikleri deniyorum.Powerbank özelliği çalışmıyor. Keşke biraz daha özen gösterseniz.İkisinde de aynı sorun var."
+     "metin": "Sadece %26 sarj var gözüküyor ama kulaklıkları taktığımda sarj etmyor."
     },
     {
-     "konu": "Olumlu: hediye",
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "kutunun şarjı 50 den 0 a indi malasef düzenleme şuanda şarj olmuyor"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "ürün elime yetiştiği günden beri çaılışmıyor tavsiye etmiyorum"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 2,
+     "metin": "1 tanesi bozuk çıktı diğeride kendiliğinden bozuldu hoparlörü"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "şarjı 3 saat içerisinde bitiyor daha hızlı bittiği vakit de var"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarjı hemen bitiyor ürünü değiştirmişler satıcıda ilgilenmedi"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "tek kulağindan daha az ses geliyo diğerinden fazla"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "sadece tek tarafı şarj ediyor temassızlık var"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "Ses kalitesi çok kötü sürekli Bluetooth’tan atıyor verilen paraya değmez"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "sesli biraz az şarjı da çok yavaş oluyor"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "100-200 daha ekleyip en azından daha düzgün bişe alın"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "üstüne biraz daha koyun iyisini alın"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "it doesn’t work as they write in description"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "flaşı yok ben alirken o ozellikte yaziordu"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "Bahsedilen yedek pedler yok, kılavuz yok ve gelen kablo şarj etmiyor"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 2,
+     "metin": "2 yastik kılıfı çıkıyor 4 değil bilginize"
+    },
+    {
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "Ürün bozuk geldi iadeyi reddettiler"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "Bilgisayara Yada Başka Cihazlara Bağlanırken Eleştirme Ve Zor Bağlanması"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 2,
+     "metin": "konuşurken ses anlaşılmıyor powerbank özelliği ise boş bişey"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "kendi sesin karşıya boğuk bir şekilde gidiyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 2,
+     "metin": "kulakda durmuyo şarzi iyi gidiyo"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "istediğim renkte ve dizaynda gelmedi başka ürün geldi"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 1,
+     "metin": "ben dokunmatik yuzunden begennedim siz bilirsiniz"
+    },
+    {
+     "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "Eşime hediye olarak aldım çok beğendi çok kullanışlı kargo özenli paketlenmisti çok teşekkür ederim 💓"
+     "metin": "200 tlye alınabilecek en güzel kulaklık diyebilirim paketleme çok güzeldi ve hızlı kargo"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Kargom zamanında be güzel paketlenmiş elime ulaştı fiyata göre ses kalitesi"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Ürünü yaklaşık 5 aydır kullanıyorum gerçekten fiyat performans ürünü diyebilirim."
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "efsane şarjı çok iyi ses kalitesi çok iyi bu fiyata mükemmel hediye almistim begenildi"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "Eşime hediye olarak aldım çok beğendi çok kullanışlı kargo özenli paketlenmisti"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "hayatıma kolaylık ve rahatlık geldi"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "1 yıldır kullanıyorum ve çok sevrrek kullanıyorum ses yüksekli"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
+     "yildiz": 5,
+     "metin": "yanında pubg parmaklığı hediye geldi oğlum beğenerek kullanıyor"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "Telefonuma tanıttım oldukça kolay oldu"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "666158167",
@@ -1041,34 +2356,34 @@
    "ornek_dusuk": 100,
    "sikayet": {
     "pil": 0.05,
-    "sarj": 0.0,
-    "bozulma": 0.35,
-    "tek": 0.12,
-    "baglanti": 0.08,
-    "ses": 0.13,
-    "mikrofon": 0.0,
+    "sarj": 0.02,
+    "bozulma": 0.28,
+    "tek": 0.16,
+    "baglanti": 0.06,
+    "ses": 0.16,
+    "mikrofon": 0.01,
     "kulak": 0.0,
-    "vaat": 0.02,
-    "farkli": 0.01,
+    "vaat": 0.01,
+    "farkli": 0.02,
     "eksik": 0.0,
-    "iade": 0.04,
+    "iade": 0.1,
     "dokunmatik": 0.01,
-    "yorum": 0.01,
-    "fiyat": 0.02,
+    "yorum": 0.0,
+    "fiyat": 0.04,
     "kargo": 0.01
    },
    "olumlu": {
-    "ses": 0.54,
+    "ses": 0.53,
     "pil": 0.11,
-    "fp": 0.3,
-    "kargo": 0.24,
+    "fp": 0.33,
+    "kargo": 0.28,
     "satici_hediye": 0.02,
-    "hediye_alim": 0.16,
-    "mikrofon": 0.0,
-    "baglanti": 0.03,
-    "rahat": 0.05,
-    "dayaniklilik": 0.12,
-    "orijinal": 0.01
+    "hediye_alim": 0.2,
+    "mikrofon": 0.01,
+    "baglanti": 0.05,
+    "rahat": 0.04,
+    "dayaniklilik": 0.04,
+    "orijinal": 0.02
    },
    "dikkat": [
     "Bir ile beş ay arasında tek taraftan ses azalıyor ya da tamamen kesiliyor.",
@@ -1080,26 +2395,147 @@
    ],
    "alinti": [
     {
-     "konu": "Tek taraf çalışmıyor",
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "2. gün çalışmadı bı anda ses gelmedi ışık yanmadı iade ettim ve hala param yatirilmadi"
+    },
+    {
+     "konu": "bozulma",
+     "yildiz": 1,
+     "metin": "bir defa yere hafifce düstü ve direkt kırıldı tek kulaklık kablosu koptu içindeki"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "2 yıl garantili diye aldığım ürün garantiye göndermek istediğimde kargo ücreti ödemek gerekiyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "İlk aldığım kulaklığın sol tarafından ses gelmiyor diğer aldığım kulaklıkta sağ taraftan gelmiyor"
+    },
+    {
+     "konu": "ses",
      "yildiz": 2,
      "metin": "Üç ay olmadı ses azalmaya başladı gayet de düzgün kullandım,sol kulaklıktan ses daha da azaldı"
     },
     {
-     "konu": "Kısa sürede bozuldu",
+     "konu": "ses",
      "yildiz": 1,
-     "metin": "Daha alalı bir ay oldu sağ taraf çalışmıyor kendi kendine bozuldu sesi çıkmıyor sağ tarafın"
+     "metin": "dışarı çok ses geliyor yarıya kadar açmama rağmen üstelik sol kulağımdakinden az ses gelmeye başladı"
     },
     {
-     "konu": "Kısa sürede bozuldu",
+     "konu": "iade",
      "yildiz": 1,
-     "metin": "Güncelliyorum bir defa yere hafifce düstü ve direkt kırıldı tek kulaklık kablosu koptu içindeki"
+     "metin": "iade ettiğim halde ürünü tekrardan bana yolladılar ve paramı alamadım"
     },
     {
-     "konu": "Olumlu: fiyat-kalite",
+     "konu": "iade",
+     "yildiz": 1,
+     "metin": "neden param iade edilmiyor tüketici hakları na başvurdum"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 2,
+     "metin": "sesde sürekli kopmalar oluyo ve dinleme kalitenizi baya düşürüyo"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "sürekli bağlantı kesiliyor ve çok sinir bozucu"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 2,
+     "metin": "sarji cok cabuk bitiyor sadece onun disinda bi sıkıntı yok"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "20 dakika şarj tutuyor, ses kalitesi = fiyat"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "bence pek kullanışlı değil daha iyilerini alın boşa para harcamayın"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "470 liram çöpe gitti dokunmatiği neresinde belli değil sesi az"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "görseldeki ürün gelmedi baska alt markası bilmem ne ne saçmalık"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 2,
+     "metin": "Telefonla konuşulmuyor ses çok az geliyor ve çok kötü gidiyor"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "ürünün açıklama kısmında müşteriyi yanıltıcı açıklamalar var"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "paketi bu şekilde geldi inşallah ses sistemi güzeldir"
+    },
+    {
+     "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "sorunusuz elime ulaştı paketlenmesi gerçekten iyidi ürün göründüğü gibi bu fiyata bu kalite beğendim baya"
+     "metin": "ses kalitesi gayet iyi şarjı da gayet uzun süre yetiyor tam bir fiyat performans ürünü"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Fiyat performans ürünü. Son derece güzel, ses kalitesi de gayet iyi."
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "paketlenmesi gerçekten iyidi ürün göründüğü gibi bu fiyata bu kalite beğendim baya"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "kızıma yılbaşı hediyesi aldım fiyati uygun gayet kullanışlı begendik"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "uzun süredir kullanıyorum şarj süresi de uzun ve kullanışlı"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "Telefonuma uydu tesekkurler cok memnun kaldım"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 4,
+     "metin": "Kulağıma tam oturdu, ses kalitesi de güzel."
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "aylar oldu anca yorum yapabildim hala kullanıyorum"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
+     "yildiz": 5,
+     "metin": "resimdeki nin aynısını gönderdiler kılıf hediyesi içinde"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "gerçekten ürün orjinal apple ile aynı"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "819066262",
@@ -1122,66 +2558,243 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "pil": 0.2,
-    "sarj": 0.11,
-    "bozulma": 0.34,
-    "tek": 0.1,
-    "baglanti": 0.22,
+    "pil": 0.22,
+    "sarj": 0.17,
+    "bozulma": 0.24,
+    "tek": 0.07,
+    "baglanti": 0.18,
     "ses": 0.13,
     "mikrofon": 0.08,
-    "kulak": 0.03,
-    "vaat": 0.06,
-    "farkli": 0.01,
+    "kulak": 0.05,
+    "vaat": 0.04,
+    "farkli": 0.06,
     "eksik": 0.01,
-    "iade": 0.06,
-    "dokunmatik": 0.06,
-    "yorum": 0.1,
-    "fiyat": 0.05,
+    "iade": 0.26,
+    "dokunmatik": 0.09,
+    "yorum": 0.14,
+    "fiyat": 0.06,
     "kargo": 0.0
    },
    "olumlu": {
-    "ses": 0.5,
-    "pil": 0.09,
-    "fp": 0.17,
-    "kargo": 0.29,
-    "satici_hediye": 0.2,
+    "ses": 0.47,
+    "pil": 0.05,
+    "fp": 0.2,
+    "kargo": 0.34,
+    "satici_hediye": 0.24,
     "hediye_alim": 0.02,
-    "mikrofon": 0.06,
+    "mikrofon": 0.09,
     "baglanti": 0.03,
     "rahat": 0.03,
-    "dayaniklilik": 0.06,
+    "dayaniklilik": 0.03,
     "orijinal": 0.07
    },
    "dikkat": [
     "Şarj bir saat bile dayanmıyor; bağlantı sürekli kopuyor.",
-    "Olumsuz yorumların %10'u satıcının hediye karşılığı güzel yorum yazdırdığını söylüyor.",
+    "Olumsuz yorumların %14'ü satıcının hediye karşılığı güzel yorum yazdırdığını söylüyor.",
     "Dokunmatik kendi kendine durduruyor; ANC özelliğinin düzgün çalışmadığı yazılıyor."
    ],
    "ders": [
-    "KOBİ'ler içinde en düşük 1-2 yıldız payı (%12). Ama olumsuzların %10'u yorumların hediyeyle yönlendirildiğini söylüyor; düşük oranın bir kısmı buradan geliyor olabilir."
+    "KOBİ'ler içinde en düşük 1-2 yıldız payı (%12). Ama olumsuzların %14'ü yorumların hediyeyle yönlendirildiğini söylüyor; düşük oranın bir kısmı buradan geliyor olabilir."
    ],
    "alinti": [
     {
-     "konu": "Yönlendirilmiş yorum şüphesi",
+     "konu": "iade",
      "yildiz": 1,
-     "metin": "Satıcı size hediye verecem ve kurulumunu gösterecem yalanıyla güzel yorum yaptırıyor fakat kulaklık kötü. Öyle abartıldığı gibi felan değil sırf yorum yapın hediye gönderecez diye yazılıyor o yorumlar. Saçım bile değse kulaklığa şarkı kapanıyor. İki kulaklık eşit şarj almıyor."
+     "metin": "4–5 gün boyunca ürünü ellerinde tuttular, bu kadar uzun inceleme yapıldı ama sonuç olarak iadeyi reddettiler"
     },
     {
-     "konu": "Şarj çabuk bitiyor",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "çok kötü almayın şarjı 10 dk dayanmıyor"
+     "metin": "kulaklık şarj kutusunun içinde patladı baya kötü ve hiç dayanıklı değil"
     },
     {
-     "konu": "Bağlantı kopuyor",
+     "konu": "bozulma",
      "yildiz": 1,
-     "metin": "Durmadan bağlantı sorunu yaşıyorum ve kuyusunun şarjı bitince kulakların şarjı olsa bile kullanıyorum"
+     "metin": "ne satıcı ne de Trendyol ne iade ne de garanti desteği sağlıyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarj çok hızlı bitiyor, 2 saatte tamamen tükeniyor gibi uyarı veriyor"
+    },
+    {
+     "konu": "pil",
+     "yildiz": 1,
+     "metin": "şarjı hemen bitiyor , bağlanmıyor bazen, kendi kendine kapanıyor"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "15 gün oldu ve şarj göstergesi çalışmıyor ayrıca bağlanmıyor almayın"
+    },
+    {
+     "konu": "baglanti",
+     "yildiz": 1,
+     "metin": "Telefon görüşmesi sırasında kulaklık neden bağlantıyı kesiyor"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "kulaklığın kutusu şarj olmamaya başladı aşırı felaket uzun sürüyor"
+    },
+    {
+     "konu": "sarj",
+     "yildiz": 1,
+     "metin": "ÜRÜN ŞARJ OLMUYOR Bİ ZAMANDAN SONRA BOZULUYOR ASLA ALMAYIN"
+    },
+    {
+     "konu": "yorum",
+     "yildiz": 1,
+     "metin": "beş yıldız ver, olumlu şeyler yaz,sana kullanım linkini ,hediyeni gönderelim"
+    },
+    {
+     "konu": "yorum",
+     "yildiz": 1,
+     "metin": "Kurulum linki ve sürpriz hediye vereceklerini söylüyorlar ,karşılığında da 5 yıldız vermenizi istiyorlar"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 2,
+     "metin": "Ses kalitesi kötü ses gelmiyor ve şarjı çok çabuk bitiyor"
+    },
+    {
+     "konu": "ses",
+     "yildiz": 1,
+     "metin": "sol kulaklık cızırtı yapıyor Bluetooth bazen bağlanmıyor"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 1,
+     "metin": "kendi kendine dokunmati en ufak saçımın telinle bile durduruyor oynatmayı"
+    },
+    {
+     "konu": "dokunmatik",
+     "yildiz": 1,
+     "metin": "başımı çevirsen duruyor mükemmel bir ürün sinir krizi garantili"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "Ürünün mikrofonu çok kötü karşı taraf bütün dış sesleri alıyor"
+    },
+    {
+     "konu": "mikrofon",
+     "yildiz": 1,
+     "metin": "telefonla konuşma şansınız yok karsı taraf sizi duymuyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 2,
+     "metin": "henüz 1 ay dolmadan sağ kulaklık çalışmamaya başladı şarjı dolmuyor ve ses gelmiyor"
+    },
+    {
+     "konu": "tek",
+     "yildiz": 1,
+     "metin": "Ürün bozuk geldi sol kulaklık şarj almıyor anc özelliği düzgün çalışmıyor"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "içindeki şarj telleri yamulmuş kurulumunu bile yapamadım"
+    },
+    {
+     "konu": "farkli",
+     "yildiz": 1,
+     "metin": "kutu desen açılmış ve geri kapatılıp gönderilmiş"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "Bence gereksiz pahalı kesinlikle daha ucuza aynı işlevi gören bir muadil alabilirsiniz"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "Kalitesine göre pahalı bir ürün"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "kulaklarım ağrıyor şu an ve dokunmatik olması sürekli sesin kesilmesine sebep oluyor"
+    },
+    {
+     "konu": "kulak",
+     "yildiz": 1,
+     "metin": "kulağımın iç kısmına büyük gelmişti. bir tanesi ayrıldı elimde kaldı"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "kesinlikle gürültü engelleyici özelliği yok, ve sürekli bağlantı kesiliyor"
+    },
+    {
+     "konu": "vaat",
+     "yildiz": 1,
+     "metin": "aktif gürültü engelleme çok iyi değil yok denecek kadar kötü"
+    },
+    {
+     "konu": "eksik",
+     "yildiz": 1,
+     "metin": "şarj kablosu bozuk çıktı,satıcı göndereceğini söyledi ama hiçbir şekilde gönderim sağlamadı"
     },
     {
      "konu": "Olumlu: ses",
      "yildiz": 5,
-     "metin": "Çok beğenerek aldığım ürün ses kalitesi çok güzel ikinci siparişim bu gerçekten on numara tavsiye ederim ☺️"
+     "metin": "Ses kalitesi , malzeme kalitesi , baglantisi super, telefon konusma sesi gayet basarili"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "paketlemesi ve ürünün kalitesi çok iyidi içinden kulaklık kılıfı da çıktı kargo çok hızlıydı"
+    },
+    {
+     "konu": "Olumlu: satici_hediye",
+     "yildiz": 5,
+     "metin": "içindeki kılıfta çok iyi oldu, olmasaydı onada ekstra para ödeyecektik, hem ekonomik hemde kaliteli"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Müzik performansı ve arama esnasındaki ses kalitesi tam anlamıyla mükemmel"
+    },
+    {
+     "konu": "Olumlu: mikrofon",
+     "yildiz": 5,
+     "metin": "orijinalden hic bir farki yok diyebilirim bu fiyata bu performans mukemmel"
+    },
+    {
+     "konu": "Olumlu: orijinal",
+     "yildiz": 5,
+     "metin": "kulaklık kaliteli orjinalden farksız istediğim gibi"
+    },
+    {
+     "konu": "Olumlu: pil",
+     "yildiz": 5,
+     "metin": "kullanışlı ve şarjı iyi dayanıyor"
+    },
+    {
+     "konu": "Olumlu: baglanti",
+     "yildiz": 5,
+     "metin": "İPhone kullanıyorum ve hemen bağlandı orijinal air prodan farkı yok nerdeyse"
+    },
+    {
+     "konu": "Olumlu: rahat",
+     "yildiz": 5,
+     "metin": "kulağa tam oturuyor bas sesi felan mükemmel bir ürün"
+    },
+    {
+     "konu": "Olumlu: dayaniklilik",
+     "yildiz": 5,
+     "metin": "çok sağlam güzel sorunsuz bir şekilde çalışıyor"
+    },
+    {
+     "konu": "Olumlu: hediye_alim",
+     "yildiz": 5,
+     "metin": "ona doğum günü hediyesi olarak bu kulaklığı aldım"
     }
-   ]
+   ],
+   "yontem": "claude"
   }
- ]
+ ],
+ "yontem": "claude"
 }

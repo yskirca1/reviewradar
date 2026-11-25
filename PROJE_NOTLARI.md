@@ -2,9 +2,18 @@
 
 > Bu dosya, projeyi yeni bir Claude oturumunda (ya da yeni bir hesapta) kaldığı yerden devam ettirmek için yazıldı.
 > Yeni oturumda ilk mesaj: **"yskirca1/kobi-yorum-radari deposundaki PROJE_NOTLARI.md dosyasını oku, projeye devam edelim."**
-> Son güncelleme: 21 Kasım 2026 (v=22 bitirme turu: yeni görünüm lacivert-kehribar ve Fira Sans, telefonda kısalan sayfalar, dayanıklılık, metin okuması, UI UX Pro Max kural denetimi; `v22-bitirme` dalında; 12 kategori)
+> Son güncelleme: 25 Kasım 2026 (v=23: şal, sweatshirt ve bluetooth kulaklıkta konular Claude API ile; `v23-ai` dalında; 12 kategori)
 
-## 0. Devir notu (21 Kasım 2026): v22 bitirme turu
+## 0. Devir notu (25 Kasım 2026): v23, Claude API ile konu sınıflandırma
+
+- **Neden:** kullanıcının Ultra planından gelen $200 API kredisi (14 Aralık 2026'da sona eriyor). Regex sözlükleri 1-2 yıldızlı yorumların %26-32'sini hiçbir konuya bağlayamıyordu.
+- **Araçlar:** `tools/ai/siniflandir.py` (gonder/durum/topla/rapor: ham `rv_<id>.json` → Batch API, model claude-sonnet-5-5, 25 yorumluk istekler, mevcut konu kimlikleri; alıntı birebir kontrolü) ve `tools/ai/uygula.py` (aday → `data/<kat>.json`; `--metin` ile dikkat/ders/öneri metinleri Claude ile yeni rakamlara göre güncellenir, her yüzde veriden hesaplanan değerlerle eşleşmezse yazılmaz). Not: bu modellerde `tool_choice: tool` desteklenmiyor, `auto` kullanılıyor.
+- **Yapılan:** şal (8/12 ürün), sweatshirt (12/12), bluetooth kulaklık (12/12). Konusuz 1-2 yıldızlı yorum: şal %31→%12, sweatshirt %26→%11, kulaklık %32→%21. Alıntılar: şikâyet konusu başına en çok 2, olumlu konu başına en çok 1 (4-5 yıldız). Metinler ayrıca Opus ile veriye karşı denetlendi; 3 sözel çelişki elle düzeltildi (Aker Elegance, Tudors haki ve öneri, Huawei ders).
+- **Veri alanları:** kategori `yontem: "claude"`, ürün `yontem: "claude"`. Şalın 4 ürünü (Armine x2, Aker, Modakaşmir Aya) ham dosyası olmadığı için hâlâ sözlük oranlarında, `yontem` alanı yok. Yöntem sayfası ve yazdırma notu `yontem`a göre yazıyor.
+- **Ham dosyalar:** bilgisayarda `Documents\Claude\ReviewRadar\veri\` (Documents senkronize olduğu için Claude'un dosya köprüsü "hardlink" diye okumuyor; aktarım Google Drive `rr_ham` klasörü üzerinden yapıldı). Diğer 9 kategorinin ham yorumları hiçbir yerde yok; yeniden toplanacak (uygulama tarayıcısı + `toplama.js`; bulut ortamından Trendyol'a erişilemiyor).
+- **Sıradaki:** 9 kategori + şalın 4 ürünü yeniden topla, aynı hatla işle; sonra yeni kategoriler. Canlıya gönderim kullanıcı onayıyla.
+
+## 0b. Devir notu (21 Kasım 2026): v22 bitirme turu
 
 - **Ne:** site sahibi yeni özellik değil "son hal" istedi (spec: `docs/superpowers/specs/2026-11-21-bitirme-turu-design.md`). İki kararı kendisi verdi: bitirme turu yapılacak ve site UI UX Pro Max skill'inin önerdiği yeni görünüme geçecek. Hiçbir rakam, oran, alıntı ya da hesap yöntemi değişmedi; `data/` ve `tools/` dokunulmadı.
 - **Nerede:** `v22-bitirme` dalı (main'e birleştirme ve canlıya gönderim site sahibinin onayıyla). `?v=22`.

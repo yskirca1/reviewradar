@@ -126,7 +126,7 @@
  "oneriler": [
   {
    "baslik": "Beden tablosunu boy ve kiloyla ver",
-   "metin": "Olumsuz yorumlarda beden ve kalıp sorunu oranı %32: dar, bol, \"oversize değil\", yıkayınca çekme ya da yanlış beden. Olumlu yorumlarda kendi boy-kilo-bedenini yazanların oranı %19; müşteri bu bilgiyi arıyor. Ürün sayfasına \"170 cm, 65 kg → M\" tarzı bir tablo ve mankenin ölçülerini koy.",
+   "metin": "Olumsuz yorumlarda beden ve kalıp sorunları öne çıkıyor: kalıp dar %14, kalıp bol %13, yanlış beden %12, \"oversize değil\" %4, yıkayınca çekme %4. Olumlu yorumlarda kendi boy-kilo-bedenini yazanların oranı %22; müşteri bu bilgiyi arıyor. Ürün sayfasına \"170 cm, 65 kg → M\" tarzı bir tablo ve mankenin ölçülerini koy.",
    "konular": [
     "dar",
     "bol",
@@ -139,7 +139,7 @@
   },
   {
    "baslik": "Tüylenmeyi yıkamadan önce çöz",
-   "metin": "Tek başına en sık şikâyet tüylenme (%18). Bu şikâyetlerin yaklaşık yarısı ilk yıkamalardan sonra yazılmış. Tüylenme testinden geçmiş kumaş seç; içi polarlıysa ürünle birlikte yıkama kartı gönder (ters çevir, 30°, kurutma makinesi yok).",
+   "metin": "Tek başına en sık şikâyet tüylenme (%19). Bu şikâyetlerin yaklaşık yarısı ilk yıkamalardan sonra yazılmış. Tüylenme testinden geçmiş kumaş seç; içi polarlıysa ürünle birlikte yıkama kartı gönder (ters çevir, 30°, kurutma makinesi yok).",
    "konular": [
     "tuylenme"
    ],
@@ -147,7 +147,7 @@
   },
   {
    "baslik": "Kumaşı fotoğrafta abartma, kalınlığını yaz",
-   "metin": "KOBİ ürünlerinde \"ince, kalitesiz kumaş\" şikâyeti büyük markaların yaklaşık üç katı (%18 ve %6). Kalın görünen fotoğraf ince ürünle buluşunca 1 yıldız geliyor. İplik sayısını ya da gramajı yaz, yakın çekim kumaş fotoğrafı ekle.",
+   "metin": "KOBİ ürünlerinde \"ince, kalitesiz kumaş\" şikâyeti büyük markaların yaklaşık dört katı (%24 ve %6). Kalın görünen fotoğraf ince ürünle buluşunca 1 yıldız geliyor. İplik sayısını ya da gramajı yaz, yakın çekim kumaş fotoğrafı ekle.",
    "konular": [
     "ince"
    ],
@@ -155,7 +155,7 @@
   },
   {
    "baslik": "Doğru bedeni, doğru ürünü gönder",
-   "metin": "Büyük markaların olumsuz yorumlarında yanlış beden ya da ürün gönderimi oranı %13: S yerine XL, füme yerine bej, hatta başka marka. Paketlemede etiket kontrolü basit ama güçlü bir ayrışma noktası.",
+   "metin": "Büyük markaların olumsuz yorumlarında yanlış beden ya da ürün gönderimi oranı %14: S yerine XL, füme yerine bej, hatta başka marka. Paketlemede etiket kontrolü basit ama güçlü bir ayrışma noktası.",
    "konular": [
     "yanlis"
    ],
@@ -163,7 +163,7 @@
   },
   {
    "baslik": "Renkler arasında kalıbı ve kumaşı eşitle",
-   "metin": "Aynı modelin farklı renkleri farklı şikâyet alıyor: Grimelange'ın aynı modelinde tüylenme vanilya renkte %26, siyahta %51; Tudors'un siyahı dar, hakisi bol geliyor, bordosu boya akıtıyor; 3'lü setlerde parçalar farklı kalıpta. Müşteri bunu \"tutarsız\" diye okuyor. Her renk ve üretim partisinde ölçü, kumaş ve renk haslığı kontrolü yap; renk tonunu gün ışığında, filtresiz çek.",
+   "metin": "Aynı modelin farklı renkleri farklı şikâyet alıyor: Grimelange'ın aynı modelinde tüylenme vanilya renkte %27, siyahta %57; Tudors'un siyahında dar kalıp şikâyeti %24, hakisinde %5, bordosu boya akıtıyor; 3'lü setlerde parçalar farklı kalıpta. Müşteri bunu \"tutarsız\" diye okuyor. Her renk ve üretim partisinde ölçü, kumaş ve renk haslığı kontrolü yap; renk tonunu gün ışığında, filtresiz çek.",
    "konular": [
     "tuylenme",
     "dar",
@@ -173,7 +173,7 @@
   },
   {
    "baslik": "Hediye alıcısını hedefle",
-   "metin": "Önerilen yorumlarda eş, sevgili ya da çocuk için hediye alımı oranı %23 (Tudors'ta yaklaşık yarısı). Hediye notu, kolay beden değişimi ve hediye paketi bu kitleyi kazanır; ama paket söz verildiyse mutlaka gönderilmeli.",
+   "metin": "Önerilen yorumlarda eş, sevgili ya da çocuk için hediye alımı oranı %25 (Tudors'ta yaklaşık yarısı). Hediye notu, kolay beden değişimi ve hediye paketi bu kitleyi kazanır; ama paket söz verildiyse mutlaka gönderilmeli.",
    "konular": [],
    "sevilenler": [
     "hediye"
@@ -202,31 +202,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.21,
-    "dar": 0.23,
-    "bol": 0.07,
-    "yanlis": 0.2,
-    "cekme": 0.05,
-    "renk": 0.01,
+    "tuylenme": 0.18,
+    "dar": 0.24,
+    "bol": 0.05,
+    "yanlis": 0.17,
+    "cekme": 0.04,
+    "renk": 0.02,
     "gorsel": 0.02,
-    "ince": 0.05,
+    "ince": 0.04,
     "oversize": 0.0,
     "defo": 0.03,
-    "dikis": 0.11,
+    "dikis": 0.1,
     "kargo": 0.03,
     "fiyat": 0.1
    },
    "olumlu": {
-    "kalite": 0.46,
-    "sicak": 0.2,
-    "beden": 0.43,
-    "boykilo": 0.29,
-    "hediye": 0.5,
-    "renk": 0.06,
-    "fp": 0.09,
-    "kargo": 0.13,
-    "gorsel": 0.02,
-    "salas": 0.02
+    "kalite": 0.54,
+    "sicak": 0.17,
+    "beden": 0.41,
+    "boykilo": 0.31,
+    "hediye": 0.51,
+    "renk": 0.04,
+    "fp": 0.08,
+    "kargo": 0.14,
+    "gorsel": 0.08,
+    "salas": 0.04
    },
    "dikkat": [
     "Kalıp dar: olumsuz yorumların neredeyse dörtte biri bir, hatta iki beden büyük almayı öneriyor.",
@@ -239,26 +239,142 @@
    ],
    "alinti": [
     {
-     "konu": "Kalıp dar / küçük",
+     "konu": "dar",
      "yildiz": 2,
-     "metin": "Kendi bedenizin en az 2 beden fazlasını sipariş edin. Aşırı küçük ve dar"
+     "metin": "asiri dar kalip geldi oladi boydan L soyledik ona ragmen kucuk geldi"
     },
     {
-     "konu": "Tüylenme / tiftiklenme",
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "M giyiyorum yorumlara bakarak L söyledim aşırı küçük geldi"
+    },
+    {
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Sweat içine beyaz bir şey giyince siyah tüy bırakıyor. Beyaz tshirt’ün üstüne giydim mahvoldu"
+     "metin": "içi çok tüyle insan vucu ıslak şekilde giydimi veya terli giyildimi cildinizi sim siyah ediyor"
     },
     {
-     "konu": "Yanlış beden / ürün gönderildi",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Hediye aldım M beden sipariş etmiştim S yolladılar ve M bedenin fiyatını arttırmışlar yazık yani"
+     "metin": "yıkadıktan sonra elbise fırçası ile içinin tüylerini temizlemeye çalıştım ben fırçayı sürdükçe tüy çıkıyor"
     },
     {
-     "konu": "Olumlu: beden bilgisi",
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "M beden sipariş etmiştim S yolladılar ve M bedenin fiyatını arttırmışlar"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "hem sweatshirt yerine gömlek, hem de xl yerine m beden göndermişler"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "Ürünün dikişleri ve kalıbı çok kötü, kesinlikle vücuda oturmuyor ve orantısız"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "yaka kısmındaki fermuar kısmının dikişi kaba yapılmış eğrelti duruyor"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "Keşke aldığımdan sonra indirim olmasaydı pişmanım"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "ürün görseldeki gibi değil maalesef kesimini hiç beğenmedim"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "biri çok bol biri çok dar biri normal geldi"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "bir beden büyük almama rağmen çekti tüyler dökülüyor hiçbir işe yaramaz"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "ilk yıkamada 1 beden küçüldü ona göre alın"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "Pamuklu diye aldım naylon geldi"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "ilk siparişim yırtık geldi ikinci sipariş gayet normal geldi"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "kargocu zile bir kere basti ve ürünü merdivene fırlattı"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "45 gün sonra kargo teslimi harika"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "Gelen ürünle alakası yok istediğim ürün fotodaki gibi gelen ürün kopşonlu"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "Ürünü oğlum için aldım...beden L tam oldu (Oğlum 1.80 boy ve 78 kg)....Emeği geçenlere teşekkürler"
+     "metin": "Dokusu kumaşı mükemmel çok kaliteli kesinlikle bu fiyata alınabilecek en iyi ürün"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Eşime aldım çok begendı bir beden büyük aldım çok yakıstı ve dokusu çok güzel kaliteli"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "tam beden alın ben eşime aldım 180 boy 88 kg L beden tam oldu üzerine"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "L beden 180 cm 83 kg tam oldu kalın güzel kaliteli"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "Ürün cok güzel yumuşacık tavsiye ederim tam benden alabilirsiniz"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "1 günde geldi malı çok kaliteli denildiği gibi slim fit giyiniyorsanız M giyen biri L almalı"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "bu kadar iyi beklemiyordum parasının hakkını veriyor"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "Ürün görseldekinin aynısı tam beden, kusursuz,sağlam ve hızlı geldi"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 4,
+     "metin": "Rengini ve kalitesini beğendim tam beden alabilirsiniz"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "778486825",
@@ -281,31 +397,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 97,
    "sikayet": {
-    "tuylenme": 0.24,
+    "tuylenme": 0.3,
     "dar": 0.03,
-    "bol": 0.06,
+    "bol": 0.09,
     "yanlis": 0.07,
-    "cekme": 0.03,
-    "renk": 0.08,
-    "gorsel": 0.02,
-    "ince": 0.01,
-    "oversize": 0.0,
-    "defo": 0.09,
-    "dikis": 0.05,
-    "kargo": 0.02,
-    "fiyat": 0.02
+    "cekme": 0.04,
+    "renk": 0.29,
+    "gorsel": 0.01,
+    "ince": 0.06,
+    "oversize": 0.01,
+    "defo": 0.13,
+    "dikis": 0.09,
+    "kargo": 0.04,
+    "fiyat": 0.01
    },
    "olumlu": {
-    "kalite": 0.43,
-    "sicak": 0.2,
-    "beden": 0.36,
-    "boykilo": 0.3,
-    "hediye": 0.51,
-    "renk": 0.24,
-    "fp": 0.07,
-    "kargo": 0.11,
+    "kalite": 0.58,
+    "sicak": 0.17,
+    "beden": 0.42,
+    "boykilo": 0.31,
+    "hediye": 0.53,
+    "renk": 0.2,
+    "fp": 0.08,
+    "kargo": 0.12,
     "gorsel": 0.04,
-    "salas": 0.02
+    "salas": 0.05
    },
    "dikkat": [
     "İçteki polar siyah renkteki gibi tüy bırakıyor; bu renkte ayrıca tüylerin altına giyilen atleti kırmızıya boyadığı yazılıyor.",
@@ -313,30 +429,151 @@
     "Aynı siparişteki iki ürünün tonu farklı gelebiliyor; yırtık ya da defolu ürün şikâyeti de var."
    ],
    "ders": [
-    "Aynı modelin üç rengi aynı puanı alıyor ama şikâyetleri farklı: bordoda boya akıtma öne çıkıyor. Koyu renklerde renk haslığı testi şart."
+    "Aynı modelin üç rengi benzer puanı alıyor ama şikâyetleri farklı: bordoda boya akıtma öne çıkıyor. Koyu renklerde renk haslığı testi şart."
    ],
    "alinti": [
     {
-     "konu": "Tüylenme / tiftiklenme",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "İçi çok tüy veriyor atlet kıpkırmızı oldu"
+     "metin": "hep içindeki tüyler dökülüp duruyor tıkanmasına rağmen aynı atlet kıpkırmızı oluyor"
     },
     {
-     "konu": "Renk görseldekinden farklı",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Bu renk çamaşır yıkarken rengini attı çamaşırlar ı mahvetti"
+     "metin": "aletimin her tarafı poların tüyleriyle doldu, yıkadıktan sonra yine aynı"
     },
     {
-     "konu": "Renk görseldekinden farklı",
-     "yildiz": 1,
-     "metin": "kumaş kalitesi guzel ama 2 adet aldim birinin rengi digerine gore soluk acikbordo biri koyu bordoikisi aynigelmedi uzgunum"
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "Fotoğrafta koyu gözüküyor diye sipariş verdim ama açık olduğu için beğenmedim"
     },
     {
-     "konu": "Olumlu: dayanıklılık",
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "2 adet aldim birinin rengi digerine gore soluk acikbordo biri koyu bordo"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "Ürün kusurlu geldi. Gönderirken hiç kontrol edilmemiş. Ayrıca kaliteli değil"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "ilkinde küçük yırtık vardı ikinciye aldım onunda beyaz lekelenme var"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "o kadar büyük ki l beden de almıştım aralarında hiç bir fark yok"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "kalıbı büyük geliyor içi de çok tüy bırakıyor kıyafetleri"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "bordonun fermuar kısmı bozuk, kahverenginin de sağ kol tarafının dikimi hatalı"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "Kolunun biri diğerinden kısa, böyle özensiz sorumsuz bişey görmedim"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 2,
+     "metin": "iki beden bordo istedim biri kırmızı biri bordo geldi"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "Yanlış beden geldi ben s istedim bana l gönderildi"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "daha 1 hafta oldu alalı bu duruma geldi"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "neredeyse 1 beden çekti ve felaket derecede tüylenme yaptı"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 2,
+     "metin": "ilk yıkamada kolları çekti ve rengi değişti"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "ürün aşırı dar bu yüzden iade ettim"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "Bu bordonun kalıbı dar geldi"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "Ürün aynı mağazadakilerle bir değil"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "2 yıl önce farklı bi rengini aldık defalarca yıkadık hala iyi durumda bu ürününde rengi çok güzel teşekkürler"
+     "metin": "dokusu kumaşı yumuşacık içi şardonlu sıcacık tutar. Görseldekinin aynısı renkleride efsanee"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "hediye aldım ben beğendim hediye sahibi de beğendi, kargo hızlıydı, paketleme güzeldi"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "Başka renklerini de aldık çok beğendik teşekkür ederim tam kalıp bu arada"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "185 boy 85 kg L beden aldım. Ürün bedenime tam oturdu."
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "dün sipariş verdim bugün geldi kargoda paketlemede çok iyiydi"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "Çok yumuşak ve çok kaliteli duruyor. 165 cm 67 kiloya s beden tam oldu."
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "paketleme de gayet iyiydi ürünü gönül rahatlığıyla alabilirsiniz ben eşime aldımm"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Gerçekten harika bu kadar iyi beklemiyordum parasının hakkını veriyor"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "Kalıbı duruşu çok güzel. Tam beden oldu."
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "tam göründüğü gibi tudors kalitesi eşime aldım çok beğendi."
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "777723112",
@@ -359,14 +596,14 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 61,
    "sikayet": {
-    "tuylenme": 0.21,
+    "tuylenme": 0.28,
     "dar": 0.05,
-    "bol": 0.08,
-    "yanlis": 0.08,
+    "bol": 0.05,
+    "yanlis": 0.15,
     "cekme": 0.05,
-    "renk": 0.02,
-    "gorsel": 0.02,
-    "ince": 0.07,
+    "renk": 0.16,
+    "gorsel": 0.03,
+    "ince": 0.08,
     "oversize": 0.0,
     "defo": 0.07,
     "dikis": 0.08,
@@ -374,47 +611,178 @@
     "fiyat": 0.02
    },
    "olumlu": {
-    "kalite": 0.49,
-    "sicak": 0.21,
+    "kalite": 0.58,
+    "sicak": 0.19,
     "beden": 0.26,
-    "boykilo": 0.16,
-    "hediye": 0.49,
-    "renk": 0.28,
-    "fp": 0.05,
-    "kargo": 0.07,
-    "gorsel": 0.07,
-    "salas": 0.03
+    "boykilo": 0.2,
+    "hediye": 0.53,
+    "renk": 0.24,
+    "fp": 0.06,
+    "kargo": 0.06,
+    "gorsel": 0.11,
+    "salas": 0.1
    },
    "dikkat": [
-    "Kalıp siyah renkten farklı: aynı bedende haki rengin daha bol geldiği yazılıyor, bir beden küçük almak öneriliyor.",
+    "Kalıp şikâyeti siyah renkten farklı: siyahta dar kalıp şikâyeti %24, hakide %5. Hakide renk farkı (%16) daha öne çıkıyor.",
     "Tüylenme bu renkte de en sık şikâyet; polar parçacıklar tişörte yapışıyor.",
     "Yaka uzun ve kalın; fermuarın sakala takıldığını söyleyen yorumlar var. Yanlış beden gönderimi de sık."
    ],
    "ders": [
-    "Aynı model, aynı beden, farklı renk: kalıp tutmayınca müşteri \"bedenler tutarsız\" diyor. Renkler arasında ölçü kontrolü yapılmalı."
+    "Aynı model, aynı beden, farklı renk: kalıp şikâyetleri renkten renge değişiyor. Renkler arasında ölçü kontrolü yapılmalı."
    ],
    "alinti": [
     {
-     "konu": "Kalıp bol / büyük",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Aynı sweatin bordosunu da aldım ama bedeni farklı oldu ikisi de M ama yeşil olan büyük oldu bir beden küçük almanızı öneririm Yeşil renk için bedenler birbirini tutmuyor bu kötü bir durum"
+     "metin": "iç kısımlardan sürekli pamukları dökülüyor aşırı boya bırakıyor teninize kadar boyası işliyor"
     },
     {
-     "konu": "Tüylenme / tiftiklenme",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Giymeden yıkandı ve tüm kıyafetler tüylendi. Devamlı tüy atıyor içersinden."
+     "metin": "ürünün içi yıkanmasına rağmen muhteşem pamuk yapıyor içini giydiğiniz atlet tişört rezil oluyor"
     },
     {
-     "konu": "Dikiş, fermuar, yaka, kol",
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "İlk yıkamadan sonra rengi soluyor ve igrwnc bir hal aliyor"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "Aşırı boya veriyor. İlk kullanımda iç çamaşıra renk geçti."
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "m bedeni söyledim koyu yeşil geldi L bedeni de alim dedim onun rengi fıstık yeşil di"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "Siparişim xL sizin gündersiğiniz Medyum sipariş yurdişina geldi"
+    },
+    {
+     "konu": "ince",
      "yildiz": 2,
-     "metin": "fermuarin uç kısmı her seferinde sakalımdan bir parca koparıyor, fermuar kalitesi iyi değil ya da kontrol edilmemiş."
+     "metin": "Kumaşı kalitesiz 2 kere yıkandı bi garip oldu"
     },
     {
-     "konu": "Olumlu: kalın kumaş",
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "baya inceydi bu sebeple iade ettim"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "bir kolu uzun bir kolu Kısaydı geri kalan iki tanesi Onların da dikişini beğenmedim"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "fermuarin uç kısmı her seferinde sakalımdan bir parca koparıyor"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "Yırtık defolu ürün gönderilmiş tudors tecrübesi kötü oldu."
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "iki yerinde yağ lekesi gibi bir leke ile yollanmış"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "Dhl kargo firması gel al noktasına bırakıp teslimat adresine bırakmadı."
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "eksik ürün gönderdiler ve talepte bulunmama rağmen temin etmediler"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "Kalıbı dar 4xl beden hiç 4xl gibi değil"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "kolları kısa geldi iade ettik"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "ürün sweat gibi değilde kapşonlu polar gibi, büyük duruyor"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "ikisi de M ama yeşil olan büyük oldu"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "ilk yıkamada neredeyse 1 beden çekti ve felaket derecede tüylenme yaptı"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "Ürün 2. Yıkama dan sonra çekti küçüldü"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "ana kalitesi göründüğü gibi değil"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "gayet güzel kumaşı kalın sağlam geldi kış için ideal beğendim"
+     "metin": "kargo da hizliydi guzel paketlemislwr tavsiye ederim rengi falan da ayni gozuktugu gibi"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "inanılmaz kaliteli ve fiyatı da çok iyi kesinlikle alın tam kalıp kendi bedenini aldım"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "Normalde M giyiyorum ama bunda L beden aldım çok iyi oldu"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "Ürünün rengi kalitesi çok güzel bence aldığı parayı sonuna kadar hak ediyor"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "oğluma aldım 2xl tam oldu. 190 boy 90 kilo kumaşı kalitesi harika"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 4,
+     "metin": "Yumuşacık güzel, iki beden arasında kalanlar bilginiz olsun bir nebze bol bi sweat"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "1’65 boy 75 kilo eşim M beden aldım tam oldu"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 4,
+     "metin": "bol sevmeyenler bir beden küçük almalı"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Gayet güzel fiyat performans oğluma aldım çok beğendi"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "338581269",
@@ -437,31 +805,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.17,
-    "dar": 0.03,
-    "bol": 0.22,
-    "yanlis": 0.16,
+    "tuylenme": 0.18,
+    "dar": 0.02,
+    "bol": 0.24,
+    "yanlis": 0.17,
     "cekme": 0.01,
-    "renk": 0.13,
-    "gorsel": 0.16,
-    "ince": 0.1,
-    "oversize": 0.0,
-    "defo": 0.13,
-    "dikis": 0.02,
-    "kargo": 0.06,
-    "fiyat": 0.05
+    "renk": 0.2,
+    "gorsel": 0.14,
+    "ince": 0.07,
+    "oversize": 0.03,
+    "defo": 0.11,
+    "dikis": 0.03,
+    "kargo": 0.02,
+    "fiyat": 0.07
    },
    "olumlu": {
-    "kalite": 0.3,
-    "sicak": 0.33,
-    "beden": 0.4,
+    "kalite": 0.39,
+    "sicak": 0.36,
+    "beden": 0.37,
     "boykilo": 0.26,
-    "hediye": 0.08,
-    "renk": 0.23,
-    "fp": 0.1,
+    "hediye": 0.09,
+    "renk": 0.16,
+    "fp": 0.12,
     "kargo": 0.06,
-    "gorsel": 0.07,
-    "salas": 0.43
+    "gorsel": 0.09,
+    "salas": 0.45
    },
    "dikkat": [
     "Kalıp çok bol: \"en küçük beden bile büyük\" yorumu yaygın, bir beden küçük almak öneriliyor.",
@@ -469,31 +837,162 @@
     "Aynı ilanda başka satıcılar da var; etiketi farklı, başka markalı ürün geldiği yazılıyor."
    ],
    "ders": [
-    "Olumsuz yorumların %40'ı ilandaki başka satıcılardan; önerilen ilk 100 yorumda bu oran %1. Aynı ürünü birçok satıcı satınca kontrol kayboluyor ve markanın puanı düşüyor.",
+    "Olumsuz yorumların önemli bir kısmı ilandaki başka satıcılardan geliyor; önerilen yorumlarda bu pay çok daha az. Aynı ürünü birçok satıcı satınca kontrol kayboluyor ve markanın puanı düşüyor.",
     "Renk adı ile fotoğraf aynı tonu göstermeli; \"füme\" yazıp açık gri göndermek iade yerine sessiz 1 yıldız getiriyor."
    ],
    "alinti": [
     {
-     "konu": "Renk görseldekinden farklı",
+     "konu": "bol",
      "yildiz": 2,
-     "metin": "hiç gözüktüğü gibi değil ne oversize bi ürün ne de rengi füme tamamen farklı açık gri bi renk geldi hevesle beklemiştim bide cok üzüdüm"
+     "metin": "asla mankende ki gibi durmuyo kendi bedeniniz den muhakkak küçük alın"
     },
     {
-     "konu": "Yanlış beden / ürün gönderildi",
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "Asla boyu fotoğraftaki gibi değil.S aldım aşırı uzun oldu"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "fotoğrafta görüp almak istediğim ürünle bu ürünün rengi arasındaki farka bakar mısınız"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "Ürün fotoğraftaki gibi aynı renkte değil. gelen ürün daha açik tonda maalesef"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 2,
+     "metin": "Alt tarafta aşırı dokùlme oluyor ve içine ne giyerseniz hepsi bu tùyler içinde kaliyor"
+    },
+    {
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "sözde madmext marka yollayacaklardı warn diye bir markanın ürününü yollamışlar. Fotoğraflarda madmextin ürünlerinin fotoğraflarını koymuşlar ama hiç öyle gelmedi. oversize bekliyordum fakat düz t-shirt gibi bir şey geldi. kuzenime doğum günü hediyesi için hem ona hemde kendime almıştım maalesef iade olucak"
+     "metin": "iç kısmı pamukcuklar halinde dökülüyor diğer kıyafetlerde topak oluyor"
     },
     {
-     "konu": "Kalıp bol / büyük",
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "madmex markasina ait olmayan dikiş hatali ürün gönderilmiş ve iademde yapilmadi"
+    },
+    {
+     "konu": "yanlis",
      "yildiz": 2,
-     "metin": "en küçük bedeni bile aşırı bol ben iade ettim"
+     "metin": "kenarı yırtık geldi rengide açık gri fotograftakiyle aynı renk degildi"
     },
     {
-     "konu": "Olumlu: salaş duruş",
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "aldığım şeyle alakası yok kapşonlu bişey istesem kapşonlu alırdım"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "altındaki lastik fazla belli asla fotoğrafta göründüğü gibi değil"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "Ürün geldiğinde hasarlı geldi arkasına sanki çamaşır suyu sürülmüş gibi pembelikler oluşmuş"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "Bu kadar zahmete girip lekeli ürün göndermek kadar saçma bir iş olamaz"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "çok kalitesiz ilk başta fark edilmiyor sadece bir kez yıkadım ve topuk topuk oldu"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "Kalitesi aşırı kötü başka bir satıcı tarafından gönderilmiş ürün"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "Ben sipariş verdikten sonra 80 TL birden düştü"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "beğenmedim bu fiyata asla alınacak ürün değil"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "kolunda söküklük vardı gittikçe açılır bir şekildeydi"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "ürün geniş falan değil çok beğenmedim"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "ben 2 tane siparis etmistim 1 tane yollamislar ve benden 2 sweat parasi aldilar"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "kargom bir haftadır inceleniyor niye iade edilmiyor acaba"
+    },
+    {
+     "konu": "Olumlu: salas",
      "yildiz": 5,
-     "metin": "Mükemmel kendi bedenimi almama rağmen istediğim gibi salaş oldu"
+     "metin": "oversize durmasını istiyorsanız bir beden büyük alın mükemmel duruyor yumuşacık üç iplik"
+    },
+    {
+     "konu": "Olumlu: kalite",
+     "yildiz": 5,
+     "metin": "Çok kaliteli gönül rahatlığıyla alınabilir salaş kendi bedeninizi alabilirsiniz"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "tamamiyle salas ve baya guzel kardesimde begendi ona da siparis verdik"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "Dokusu yumuşacık ve sıcak tutuyor. Oversize beden yani büyük almak isterseniz"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "M beden aldım ben 165boy 54kiloyum oversize oldu ama tok duruşlu kaliteli bir sweatshirt"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "bu rengini aldım tam görseldekiyle bire bir benzemiyor ama çok güzel kalitesi vs"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "L beden aldım oversize istediğim için tam istediğim gibi oldu"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "kızıma aldım kalitesi güzel çok beğendi oversize kendi bedenizi alabilirsiniz"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "gorundugu gibi geldi indirimde alin arkadaslar pembesini ve beyazini da aldim cok kaliteli"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "içi polarlı sıcacık tutuyor ve çok kaliteli duruyor"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "343388614",
@@ -517,30 +1016,30 @@
    "ornek_dusuk": 100,
    "sikayet": {
     "tuylenme": 0.04,
-    "dar": 0.15,
-    "bol": 0.09,
-    "yanlis": 0.1,
+    "dar": 0.14,
+    "bol": 0.08,
+    "yanlis": 0.07,
     "cekme": 0.03,
-    "renk": 0.05,
-    "gorsel": 0.07,
-    "ince": 0.32,
-    "oversize": 0.02,
-    "defo": 0.08,
-    "dikis": 0.03,
-    "kargo": 0.02,
-    "fiyat": 0.01
+    "renk": 0.04,
+    "gorsel": 0.12,
+    "ince": 0.37,
+    "oversize": 0.05,
+    "defo": 0.07,
+    "dikis": 0.06,
+    "kargo": 0.03,
+    "fiyat": 0.03
    },
    "olumlu": {
-    "kalite": 0.28,
-    "sicak": 0.25,
-    "beden": 0.19,
-    "boykilo": 0.08,
-    "hediye": 0.12,
-    "renk": 0.27,
-    "fp": 0.2,
+    "kalite": 0.35,
+    "sicak": 0.24,
+    "beden": 0.16,
+    "boykilo": 0.1,
+    "hediye": 0.14,
+    "renk": 0.26,
+    "fp": 0.23,
     "kargo": 0.1,
-    "gorsel": 0.07,
-    "salas": 0.11
+    "gorsel": 0.13,
+    "salas": 0.18
    },
    "dikkat": [
     "Fotoğrafta kalın ve pofuduk görünen ürünün ince geldiği şikâyeti en sık sorun.",
@@ -553,26 +1052,162 @@
    ],
    "alinti": [
     {
-     "konu": "İnce / kalitesiz kumaş",
+     "konu": "ince",
      "yildiz": 2,
-     "metin": "Fotoğraftan yola çıkarak böyle pofuduk bir şey bekliyordum bi geldi incecik rengi falan güzel ama beklentimin çok altında"
+     "metin": "bir beden büyük almama rağmen kolları aşırı küçük sözde bir de oversize"
     },
     {
-     "konu": "Görseldeki gibi değil",
+     "konu": "ince",
      "yildiz": 2,
-     "metin": "Abi sweat güzel fln ama burda gözüktuguyle alakası yok o ipleri fln yok mesela ici yumusacik ama çok güzel siz bilirsiniz"
+     "metin": "çok kaliteli bir şey değil rengi de baskısı da içi şardonlu değil"
     },
     {
-     "konu": "Kalıp dar / küçük",
+     "konu": "dar",
      "yildiz": 2,
-     "metin": "kumaş kalitesi ama bedenler standartlara uygun değil tüm gardolabım xl ama burdan aldığım xl nedense m gibi geldi"
+     "metin": "1 beden küçük alınabilir dilimine de özen gösterilseymiş süper"
     },
     {
-     "konu": "Olumlu: renk ve fiyat",
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "L beden ( kendi bedenim) söyledim ama üstüme emanet gibi durdu"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "Görseldeki ürünle gelen ürünün alakası yok defolu geldi ve sadece baskısı aynı incecik bir şey"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "burda gözüktuguyle alakası yok o ipleri fln yok"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "Boyu çok uzun geldi beğenmedik resmen mini sweat elbise iade edicem"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "Çok büyük, hafif, kalitesi yüksek değil, iki iplik işte"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "kumalının içi kışlık , dışı 2 iplik gibi duruyor"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "I buy s size but they give me xl it’s very bad"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "defolu olmasa gerçekten beğendiğim bir ürün olmuştu"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "Ürün defolu gelmeseydi fiyatına göre çok iyi"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "bir iki sefer giyildi dikiş atmaya parçalanmaya başladı maalesef"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "iplikleri cikmis ustundeki yazisi silinmis şekilde geldi"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "normal salaş olması için bi beden büyük alabilirsiniz"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 1,
+     "metin": "cok tuylenme toplanma yaptı degmez yani"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "hiç göründü gibi değil rengi çok soluk geldi malı çok kötü"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "L-XL almama rağmen S-M gibi durdu.Oversize olmadı."
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 2,
+     "metin": "çekiyor ve kısalıyor L beden aldım olmuyor şuan"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "Ben hediye paketi isyemiştim ama gelmemiş"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "üstüne biraz daha ekleyip daha iyi bir şey alınabilir"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "Harika renk harika kumaş fiyatın üstünde performans artı ikinci ürün indirimi vardı daha uyguna geldi tam kışlık bir ürün 165 boy 73 kilo XL çok şık durdu"
+     "metin": "fiyatı uygundu ve o yüzden kötü gelir sanıyordum aksine cok güzel ve kaliteli geldi"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 4,
+     "metin": "salaş olsun istiyorsanız bir beden büyük tercih edebilirsiniz"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "yumuşacık kendi bedenimi aldım s/m olarak geldi çok güzel oldu tam oversze istediğim gibi durdu"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 4,
+     "metin": "fiyat performans bi ürün günlük kullanım için uygundur oğluma ve kendime aldım"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "Oversize dursun istiyosanız bir beden büyük alın ben öyle yaptım çok güzel oldu.İçi de yumuşacık"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "M aldım ve ürün gayet güzel tam bedeninjzi alabilirsin çok rahat ve çok güzel sıcak tutuyo"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Öğrencime hediye olarak aldık severek giyiyor oldukça da kaliteli duruyor"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "Resimdeki gibi geldi oversize kesim tam beden alınabilir bu fiyata çok iyi içi polarlı"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "boyum 1.55 ve s beden aldım kalıbı büyük duruyor giydim ve çok güzel oldu salaş bol sevenler"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Ürünüm elime ulaştı paketleme iyidi satıcıya teşekkürler"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "848077903",
@@ -595,31 +1230,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.08,
-    "dar": 0.15,
-    "bol": 0.12,
-    "yanlis": 0.05,
-    "cekme": 0.02,
+    "tuylenme": 0.04,
+    "dar": 0.21,
+    "bol": 0.11,
+    "yanlis": 0.17,
+    "cekme": 0.07,
     "renk": 0.05,
-    "gorsel": 0.04,
-    "ince": 0.26,
-    "oversize": 0.0,
-    "defo": 0.01,
-    "dikis": 0.04,
-    "kargo": 0.05,
-    "fiyat": 0.04
+    "gorsel": 0.09,
+    "ince": 0.42,
+    "oversize": 0.05,
+    "defo": 0.04,
+    "dikis": 0.03,
+    "kargo": 0.09,
+    "fiyat": 0.03
    },
    "olumlu": {
-    "kalite": 0.36,
-    "sicak": 0.22,
-    "beden": 0.12,
-    "boykilo": 0.03,
-    "hediye": 0.13,
-    "renk": 0.23,
-    "fp": 0.26,
-    "kargo": 0.14,
-    "gorsel": 0.06,
-    "salas": 0.11
+    "kalite": 0.46,
+    "sicak": 0.21,
+    "beden": 0.11,
+    "boykilo": 0.04,
+    "hediye": 0.15,
+    "renk": 0.25,
+    "fp": 0.29,
+    "kargo": 0.13,
+    "gorsel": 0.08,
+    "salas": 0.15
    },
    "dikkat": [
     "Kumaş ince; setteki renkler arasında fark var: krem daha kalın, siyah ve kahve daha ince bulunuyor.",
@@ -627,30 +1262,166 @@
     "Sette eksik parça ya da yanlış beden gelen siparişler var."
    ],
    "ders": [
-    "1-2 yıldız payı kategorinin en yükseği (%38). Çok ucuz set alıcıyı çekiyor ama ince kumaş ve renkler arası fark puanı düşürüyor."
+    "1-2 yıldız payı kategorinin en yüksek oranı (%38). Çok ucuz set alıcıyı çekiyor ama ince kumaş ve renkler arası fark puanı düşürüyor."
    ],
    "alinti": [
     {
-     "konu": "İnce / kalitesiz kumaş",
-     "yildiz": 2,
-     "metin": "Krem rengi hariç siyah ve kahverengi çok ince keşke ikisi krem gibi olsaydı ama kremle diyecek laf yok yine de orta yani çok şahane değildi"
-    },
-    {
-     "konu": "Kargo gecikmesi / eksik ürün",
-     "yildiz": 2,
-     "metin": "Yalnızca 2 adet geldi siyah içi tüylü güzel ama bej çok ince ve basit kumaşı var beğenmedim. Ama siyah harika ama neden eksik??"
-    },
-    {
-     "konu": "Kalıp bol / büyük",
+     "konu": "ince",
      "yildiz": 1,
-     "metin": "bedeni çok büyük geldi iade ettim 156 boy 61 kilo"
+     "metin": "yıkadıkça kumaşı değişiyor ve çok kısa tesettürlü kişileri asla önermiyorum kalçayı kapatmıyor"
     },
     {
-     "konu": "Olumlu: fiyat",
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "kumaşlarının kalınlığı ve bedenleri farklı bej olan en kalını ve siyah olan en ince"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "boyu kısa taytlarin üstün giymek için almıştım ama malesef ki kısa geldi"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "two of the three sweet shirts came without packaging and it small"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "Bedenler uyuşmuyor, boy ve kollar kısa geliyor bir beden büyük aldım yine aynı."
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 2,
+     "metin": "üçünün bedenide birbirini tutmuyor ikisinin bedeni fena değil biri küçücük"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "s almama rağmen çok büyüktüler, hem de kumaş kalitesi iyi değil"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "beden ya çok büyük ya çok kısa kalitesi inanılmaz kötü"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "SİYAH OLANIN KOLUNDA DELİK VAR KAHVERENGİ OLAN RENGİ VE KUMAŞI KÖTÜ"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "gör indiği gibi deyil kaliteli bişey beklemeyin"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "üç tane istedim birtane geldi kaliteli ama da iki parça gelmemiş"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "Aynı şehirden gelmesine rağmen geç geldi ürün çok ince"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "düşük derece olmasına rağmen çektiiiii küçücük 38 bedenlik bana oldu"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "yıkattım kahverengi olan poşet gibi büzüştü giyilecek gibi değiller"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "Görselde düz gibi görünüyor renkleri ama kırçıllı renkli olarak geldi."
+    },
+    {
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "renkleri okadar iyi değil ama fiyatına göre alınır kalın değil"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "3 tanesinden 1 tanesinde sorun çıkıyor"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "Yakası büzüştürülerek dikilmiş,evde dahi giyilebilecek bir şey değildi"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "Yakası çok kapalı. Evde giymeye uygun. ama boynu çok sıktı"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "indirimde diye aldım ama almaz olsaydım"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "kaliteleri iyi gibi ama 700 tl etmez"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "bu fiyata bu kalite değer kızlarıma aldım çok beğendiler tavsiye ederim hem renkleri hem kumaşı güzel"
+     "metin": "tam beden alabilirsiniz oversize durmasını istersenizde bir beden büyük alabilirsiniz"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "çok ince değil içi güzel kesinlikle bu fiyata bunlar gibisini bulmanız imkansız"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "En sevdiğim renkleri tek set halinde bulduğum için inanılmaz sevindim"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "hem yumuşacık hem de rengine bayıldım harika bedenim tam üzerime oturdu"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Eşim için almıştım severek giyiyor tüylenme çekme yapmadi gayet kaliteliler"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "bir beden büyük aldım salaş olması için tam istediğim gibi oldu"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Hızlı teslimat ve güzel paketlemeniz için teşekkür ederim"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "tam bedenime göre içi de göründüğü gibi sıcak tutuyor"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "renkleri aynı gelir mi diye şüphem vardı fakat bire bir aynısı geldi ve çok hızlı geldi"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "158 boy 46 kilo tam oldu"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "466787620",
@@ -673,34 +1444,34 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.33,
+    "tuylenme": 0.31,
     "dar": 0.09,
     "bol": 0.06,
-    "yanlis": 0.01,
+    "yanlis": 0.02,
     "cekme": 0.01,
-    "renk": 0.14,
-    "gorsel": 0.13,
-    "ince": 0.15,
+    "renk": 0.18,
+    "gorsel": 0.1,
+    "ince": 0.18,
     "oversize": 0.08,
     "defo": 0.03,
-    "dikis": 0.03,
+    "dikis": 0.02,
     "kargo": 0.05,
-    "fiyat": 0.01
+    "fiyat": 0.0
    },
    "olumlu": {
-    "kalite": 0.39,
-    "sicak": 0.38,
-    "beden": 0.15,
-    "boykilo": 0.09,
-    "hediye": 0.27,
-    "renk": 0.13,
-    "fp": 0.16,
-    "kargo": 0.15,
-    "gorsel": 0.06,
-    "salas": 0.05
+    "kalite": 0.47,
+    "sicak": 0.37,
+    "beden": 0.17,
+    "boykilo": 0.15,
+    "hediye": 0.29,
+    "renk": 0.09,
+    "fp": 0.18,
+    "kargo": 0.14,
+    "gorsel": 0.08,
+    "salas": 0.09
    },
    "dikkat": [
-    "Tüylenme kategorideki en yüksek oranda: yorumların çoğu ilk yıkamadan sonra tiftiklendiğini söylüyor.",
+    "Tüylenme bu üründe en sık şikâyet (%31): yorumların çoğu ilk yıkamadan sonra tiftiklendiğini söylüyor.",
     "Krem görünen renk sütlü kahve ya da daha koyu geliyor.",
     "\"Oversize\" yazmasına rağmen düz kalıp olduğu, bol durmadığı yazılıyor."
    ],
@@ -710,26 +1481,152 @@
    ],
    "alinti": [
     {
-     "konu": "Tüylenme / tiftiklenme",
-     "yildiz": 1,
-     "metin": "Rejenere iplikten üretilmiş. Umarım yıkamayla tüylenmez dedim ve tüylendi. 3-5 yıkamaya tüyleniyor"
-    },
-    {
-     "konu": "Renk görseldekinden farklı",
+     "konu": "tuylenme",
      "yildiz": 2,
-     "metin": "Urun gayet guzel ama renginin fotograftakiyle alakası yok, gorselde krem rengi verilmis ama gelen urun sutlu kahve tam bir hayal kirikligi dogum gunu hediyesi almistim"
+     "metin": "ilk yıkamadan sonra rengi atı ve tiftiklendi rengi isi fotoğraftakine göre koyu"
     },
     {
-     "konu": "Oversize değil",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "oversize felan olduğu yok normal şekil hatta bi büyük alın oversizde diye bir beden küçük istedim kücücük oldu iade 👎🏿"
+     "metin": "Çok tüy atıyor yıkadıkça dahada tüyleniyor çok kalitesiz bir ürün"
     },
     {
-     "konu": "Olumlu: sıcak ve yumuşak",
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "renginin fotograftakiyle alakası yok, gorselde krem rengi verilmis ama gelen urun sutlu kahve"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "üründeki renkle alakası yok ve daha koyu daha kalın ve çok topaklanıyo"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "kumaşı çok iyi değil rengi biraz puturlu geldi"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "sadece beklediğim üç iplik kalınlıkta değildi"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "Fotoğraftakiyle alakası bile yok gelen ürünün hiç beğenmedim"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "görselde olan gelmedi sadece krem rengi birşey geldi"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "XL siparişi verdim ama gelen şey S beden gibi oldu"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "ürünü 1 boy büyük aldım fakat yine çok dar geldi"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 1,
+     "metin": "oversize felan olduğu yok normal şekil hatta bi büyük alın"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "Görüntüdeki gibi salas durmuyo normal düz kesim"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "s beden aldım çok bol ürün açıklama da bunun belirtilmesi gerekiyor"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "göründüğü gulibi değil m beden aldım çuval gibi iade edicem"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "ürünün 1 tanesi geliyo ve 1 tanesi gelmiyo"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "Hem geç geldi hem de lekeli geldi"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "2 tane sipariş ettim 1 tane geldi gelenin de cep kısmında kahverengi bir leke vardı"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "kolunda defo olan ürün göndermişler iade ettim hemen"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "hem küçüldü hemde pamuklandı nokta nokta aşırı dandik kumaşı var"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "ürüne bayildim içi yumusacik ve çok sicak tutuyor ve kendi bedeninizi alin"
+     "metin": "Ürünün kalitesi gerçekten çok iyi alırsanız pişman olmayacaginiz bir ürün. kargo hızlı ve özenliydi"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "Gerçekten sıcak tutuyor çok beğendim. Kalınlığı da fazla yumuşacık"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Nişanlıma aldım çok beğendi yumoş yumoş kesinlikle almalısınız"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "normalde medium giyiyorum ama 3 rengi de large aldım biraz bol durması için"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "TAM İSTEDİĞİM BEDEN BİDE ÜRÜN KALİTELİ"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "oğluma aldım L beden boy 177 çok beğendik kaliteli polarlı görseldekiyle aynı"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "kısa zamanda ve güzel paketlenerek gelmiş kendi bedeninizi alın"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "Rengi ve kalitesi çok güzel oğluma aldım ve çok beğendi"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "bol dursun diye xl aldim cooooookkkkk guzel durdu"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "görseldeki gibi sağlam kaliteli hızlı teslimat için de teşekkürler.."
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "839417686",
@@ -752,31 +1649,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.26,
-    "dar": 0.12,
-    "bol": 0.11,
-    "yanlis": 0.1,
-    "cekme": 0.11,
-    "renk": 0.06,
-    "gorsel": 0.02,
-    "ince": 0.22,
-    "oversize": 0.02,
-    "defo": 0.09,
-    "dikis": 0.11,
-    "kargo": 0.06,
-    "fiyat": 0.04
+    "tuylenme": 0.27,
+    "dar": 0.18,
+    "bol": 0.08,
+    "yanlis": 0.11,
+    "cekme": 0.1,
+    "renk": 0.08,
+    "gorsel": 0.06,
+    "ince": 0.23,
+    "oversize": 0.05,
+    "defo": 0.07,
+    "dikis": 0.05,
+    "kargo": 0.07,
+    "fiyat": 0.06
    },
    "olumlu": {
-    "kalite": 0.38,
-    "sicak": 0.39,
-    "beden": 0.36,
-    "boykilo": 0.29,
+    "kalite": 0.48,
+    "sicak": 0.36,
+    "beden": 0.33,
+    "boykilo": 0.28,
     "hediye": 0.05,
-    "renk": 0.14,
-    "fp": 0.08,
-    "kargo": 0.05,
-    "gorsel": 0.03,
-    "salas": 0.28
+    "renk": 0.07,
+    "fp": 0.09,
+    "kargo": 0.06,
+    "gorsel": 0.04,
+    "salas": 0.2
    },
    "dikkat": [
     "Yıkamada çekme ve tüylenme birlikte geliyor; \"ilk yıkamada mahvoldu\" yorumu sık.",
@@ -789,26 +1686,172 @@
    ],
    "alinti": [
     {
-     "konu": "Tüylenme / tiftiklenme",
+     "konu": "tuylenme",
      "yildiz": 2,
-     "metin": "Ürün ilk geldiğinde çok güzel diyorsunuz ama 1 yıkamada ( 30 derece ) kumaşın ön yüzü aşırı tüylendi. Piling sorunu var sadece evde giyilebilir"
+     "metin": "içi acayip derecede tüy bırakıyo.Pantolonumun swete denk gelen yeri mahvoldu"
     },
     {
-     "konu": "İnce / kalitesiz kumaş",
-     "yildiz": 2,
-     "metin": "Aynı ürünü daha önce de almıştım,kalitesi düşmüş.Ürün özelliklerini açıklama kısmında değiştirmeseler de etiketde yazılana bakılırsa pamuk oranı düşmüş,polyester artmış.Dokununca da anlaşılıyor,incecik kalmış.Vücuda değen kısım polyester.Kalitenin düşmesindense fiyatın artmasına razıyım.Sağlıklı ürünü tercih ederim.Kalıp güzel."
-    },
-    {
-     "konu": "Renk görseldekinden farklı",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Rengi kesinlikle beyaz değil krem bildiğimiz"
+     "metin": "İlk yıkamada tiftiklendi 4-5 yıkama sonrası da sanırım kumaş lot farkından"
     },
     {
-     "konu": "Olumlu: beden bilgisi",
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "siyahını alarak aynı kalitede diye beyaz rengini de sipariş verdim ama aynı çıkmadı."
+    },
+    {
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "pamuk oranı düşmüş,polyester artmış.Dokununca da anlaşılıyor,incecik kalmış."
+    },
+    {
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "kesimleri birbirinden oldukça farklı, bedeni olması gerektiği gibi durdu ama kolları kısa"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 1,
+     "metin": "S beden xs gibi geldi bana ya da yıkadım 30°’de çekti mi bilemiyorum"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "L sipariş verdim s beden gönderdiler sevkiyat aşırı yavaş günlerce teslimat bekledim"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "satıcı s beden almama rağmen Xl göndermiş zaten oversize olduğu için çok büyük oldu"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 1,
+     "metin": "birinci yıkamada çekti şuan giyilmeyecek halde"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 2,
+     "metin": "İlk yıkamada çektiği için puan kırdım."
+    },
+    {
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "Minyonsanız büyük gelir.Kolları yığıldı.Poları beklediğimden ince iade ettim."
+    },
+    {
+     "konu": "bol",
+     "yildiz": 2,
+     "metin": "çok büyük bide etikette xs yazıyor üründe m yazıyor vede gerçekten büyük"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "görseldeki ürün beyaz ama bana gelen ürün sarı gibi bir renk oldu"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "rengi fotoğrafta göründüğü gibi değil baya sarı"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "ama lekeli göndermişlerdi leke çıkarıcı sıkıp yıkayınca geçti"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "fakat defolu iade talebi olusturdun malesef"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "eksik olarak geldi siparişim ücret iadesini yaptılar tedarik edilemiyor diye fiyatını arttırıp koymuşlar siteye"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "Kargoya birbucuk hafta sonra vermemis olsalardi bes yildiz."
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "Omuz detayları farklı bu dümdüz sweatshirt ancak fotoğrafta dikiş detayları var"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "5-6 gün içinde 100 liradan zam gelmiş neredeyse tüm söyledğim siparişlere"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 1,
+     "metin": "Oversize bekledim ama asla değil baya çekti sonradan"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 1,
+     "metin": "Oversize yazıyor ve üzerimde küçük durdu bol değil"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "Yaka dikişleri o kadar kötü ki yakası büzülmüş duruyor."
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "L beden de iki kol arasında boy farkı vardı"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "Çok güzel, yumaşacık bir sweet. 176 boy 54 kilo M tam oldu"
+     "metin": "Kumaş kalitesi , dikişleri çok güzel. çok bol sevmediğim için xs beden aldım tam oldu"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 4,
+     "metin": "1.73 boy 54 kilo m beden tercih ettim tam istediğim gibi oldu rengi göründüğü gibi"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "Tam oldu 🖐️ teşekkürler 🖐️ S beden aldım 🖐️ 156 boy 50 kilo"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "70 kg L almıştım çok büyük oldu, sonrasında değiştirip M aldım iyiki almışım"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "Salaş olsun diye m aldım 7 aylık hamile olduğum halde bol duruyo sevdim"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 4,
+     "metin": "İçi şardonlu. Performans ürünü. Fiyat olarak performans ürünü"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "Dokusu rengi tam istediğim gibi içi pamuklu dikişleri duruşu da çok güzel"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "Paketleme mükemmel ürün elime tertemiz ve sorunsuz ulaştı. Görseldekiyle birebir aynı."
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Kuzenime hediye aldım çok beğendi salaş bi ürün ve malı çok kaliteli"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "804799946",
@@ -831,62 +1874,183 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.51,
-    "dar": 0.05,
-    "bol": 0.05,
-    "yanlis": 0.02,
-    "cekme": 0.02,
-    "renk": 0.02,
-    "gorsel": 0.01,
-    "ince": 0.1,
-    "oversize": 0.02,
+    "tuylenme": 0.57,
+    "dar": 0.03,
+    "bol": 0.08,
+    "yanlis": 0.07,
+    "cekme": 0.04,
+    "renk": 0.15,
+    "gorsel": 0.03,
+    "ince": 0.13,
+    "oversize": 0.07,
     "defo": 0.02,
     "dikis": 0.07,
-    "kargo": 0.04,
-    "fiyat": 0.01
+    "kargo": 0.06,
+    "fiyat": 0.05
    },
    "olumlu": {
-    "kalite": 0.38,
+    "kalite": 0.49,
     "sicak": 0.3,
-    "beden": 0.29,
-    "boykilo": 0.26,
+    "beden": 0.38,
+    "boykilo": 0.33,
     "hediye": 0.06,
-    "renk": 0.17,
-    "fp": 0.18,
-    "kargo": 0.03,
-    "gorsel": 0.03,
-    "salas": 0.25
+    "renk": 0.12,
+    "fp": 0.2,
+    "kargo": 0.05,
+    "gorsel": 0.04,
+    "salas": 0.21
    },
    "dikkat": [
-    "Tüylenme kategorinin en yüksek oranında: olumsuz yorumların yarısı ilk yıkamalarda tiftiklendiğini söylüyor.",
+    "Tüylenme kategorinin en yüksek oranında (%57): olumsuz yorumların yarısından fazlası ilk yıkamalarda tiftiklendiğini söylüyor.",
     "Diğer renklerini alanlar siyahın daha düşük kalitede olduğunu, dışının sert ve polyester karışımlı durduğunu yazıyor.",
     "Yaka zamanla açılıyor ve bozuluyor; boyu kısa, kolları kısa bulunuyor."
    ],
    "ders": [
-    "Aynı modelin vanilya renginde tüylenme %26, siyahta %51. Renk ve üretim partisi değişince kumaş da değişiyorsa müşteri bunu hemen fark ediyor."
+    "Aynı modelin vanilya renginde tüylenme %27, siyahta %57. Renk ve üretim partisi değişince kumaş da değişiyorsa müşteri bunu hemen fark ediyor."
    ],
    "alinti": [
     {
-     "konu": "Tüylenme / tiftiklenme",
+     "konu": "tuylenme",
      "yildiz": 1,
-     "metin": "Bu sweatlerin her rengini aldım ve sürekli kullanıyorum ama siyah rengi diğerleri gibi kaliteli kumaşta değil 2 yıkamada tiftiklendi giyilecek gibi değil. Ama diğer renklerinde hiçbir sorun yaşamadım çok güzel"
+     "metin": "İlk yıkamada tüylendi. Ters yıkayıp astım ve odanın içi tamamen siyah tüy toz ile kaplandı."
     },
     {
-     "konu": "İnce / kalitesiz kumaş",
+     "konu": "tuylenme",
+     "yildiz": 1,
+     "metin": "3 kere yıkanmasına rağmen içindeki tüyler aşırı dökülüyor. atlete ve tene yapışıyor."
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "bir kere yıkamadan sonra renkleri attı ve tiftiklendi"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "Bir yıkamada ürünün yaka kısımlarında solma oldu"
+    },
+    {
+     "konu": "ince",
      "yildiz": 2,
-     "metin": "beklediğim kadar kaliteli değil. dışı sert polyester karışımlı olduğu belli. biraz terletiyor"
+     "metin": "dışı sert polyester karışımlı olduğu belli. biraz terletiyor"
     },
     {
-     "konu": "Dikiş, fermuar, yaka, kol",
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "yanında beyaz da almıştım yeşil rengini göndermişler?"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "garip bir kesimi var kızlar almayın yana doğru geniş her yeri pot duruyor"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "kalıpları çok büyük omuzları hiç oturmadi çok kötü bir kalıbı var"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "S sipariş verdiğim sweat L gelince üzücü olabiliyor."
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "siyah sweatshirt yerine bunu yollamak nedir"
+    },
+    {
+     "konu": "oversize",
      "yildiz": 2,
-     "metin": "Ürünün yaka kısmı çok açık güzel durmuyor, zamanla daha çok acıldı yaka kısmı."
+     "metin": "Ürün yeterince oversize kesime sahip değil büyük beden alınca boyu kötü oluyor"
     },
     {
-     "konu": "Olumlu: beden bilgisi",
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "çünkü kolları kısa ve aşırı dar boyu zaten belin bir tık altı"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "Çok kötü bir Sweat ya boynu ağzınıza çıkıyor düz kesim gibi saçma sapan bir kalıp"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "Ürünün yaka kısmı çok açık güzel durmuyor, zamanla daha çok acıldı"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 2,
+     "metin": "ürün geç geldi 3 hafta boyunca bekledimm"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 2,
+     "metin": "yıkanınca baya bi çekti bu yüzden bu rengi iade ettim"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "Değişik bir kalıp ve duruşu var beğenmedim"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "Fotoğraftaki gibi değil bir garip duruyor"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "indirimde aldım çok güzel içi polarlı sıcacık tutuyor 1.62 cm 51 kg biraz daha oversize durması için m aldım"
+     "metin": "Bu fiyata bu kalitede ürün beklemiyordum. O kadar kaliteli ki kalın ve sıcacık tutuyor."
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "s beden aldım hafif oversize durdu tam istediğim gibi içi de yumuşacık"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "170 boy 65 kg M beden aldim tam istedigim gibi ne cok yapışık ne cok bol hafif oversize durdu"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "içide yumuşak iyi ılıtıyor bu fiyata bu kalite çok iyi rengide canlı"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "S giyiyorum m aldım oversize oldu. Bu fiyata şahane bir ürün"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Gerçekten parasını sonuna kadar hak ediyor kargolama on numara"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "oversize ürün bedeninizi alabilirsiniz indirimde yakaladım kalınlığı da duruşu da çok başarılıydı"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Kendi bedeninizi alabilirsiniz. Kaliteli ve makul fiyat."
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "cabuk gonderi icin tesekkur ederim"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 5,
+     "metin": "göründüğü gibi oversize olması için 2 beden büyük oldım istediğim gibi oldu"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "856685071",
@@ -910,30 +2074,30 @@
    "ornek_dusuk": 100,
    "sikayet": {
     "tuylenme": 0.09,
-    "dar": 0.19,
+    "dar": 0.23,
     "bol": 0.03,
-    "yanlis": 0.07,
-    "cekme": 0.12,
+    "yanlis": 0.12,
+    "cekme": 0.15,
     "renk": 0.01,
-    "gorsel": 0.02,
-    "ince": 0.16,
-    "oversize": 0.02,
-    "defo": 0.1,
+    "gorsel": 0.04,
+    "ince": 0.24,
+    "oversize": 0.04,
+    "defo": 0.11,
     "dikis": 0.07,
     "kargo": 0.04,
-    "fiyat": 0.0
+    "fiyat": 0.01
    },
    "olumlu": {
-    "kalite": 0.29,
-    "sicak": 0.14,
-    "beden": 0.19,
-    "boykilo": 0.08,
-    "hediye": 0.28,
-    "renk": 0.1,
-    "fp": 0.29,
-    "kargo": 0.15,
-    "gorsel": 0.02,
-    "salas": 0.03
+    "kalite": 0.38,
+    "sicak": 0.13,
+    "beden": 0.15,
+    "boykilo": 0.1,
+    "hediye": 0.35,
+    "renk": 0.12,
+    "fp": 0.31,
+    "kargo": 0.14,
+    "gorsel": 0.06,
+    "salas": 0.04
    },
    "dikkat": [
     "3'lü sette parçaların bedeni ve kalıbı birbirinden farklı gelebiliyor.",
@@ -946,26 +2110,162 @@
    ],
    "alinti": [
     {
-     "konu": "Kalıp dar / küçük",
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "Bedenler normal standart beden ölçüleri ile kesinlikle alakasız"
+    },
+    {
+     "konu": "ince",
      "yildiz": 2,
-     "metin": "3 kazağında kalıbı farklı siyah çok dar lacivert biraz bol gri olan salaş dahada bol ama 3 ü de s beden aldım iç pamukları vücutta yıkanmasına rağmen toz şeklinde yapışıyor"
+     "metin": "Çok ince geldi ama güzel içindeki yün çok dökülüyor"
     },
     {
-     "konu": "Defolu / lekeli / yırtık geldi",
+     "konu": "dar",
      "yildiz": 1,
-     "metin": "hediye gönderdim biri tiftiklenmiş birinin kolunda defo var kalitesi çok kötüymüş çok utandım bunları duyunca uzak yere gönderdiğim için iade süreci geçti yoksa iade edecektim"
+     "metin": "ürünün bedeni xl ye göre çok küçüktü 15 günde elime ulaştı"
     },
     {
-     "konu": "Yıkayınca çekiyor",
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "xl olduğu halde küçük geldi makinada yıkadım hemen çekti"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 2,
+     "metin": "yıkama sonucu ile babama aldığım bana , kendime aldığım kardeşime devredildi"
+    },
+    {
+     "konu": "cekme",
+     "yildiz": 2,
+     "metin": "Kurutma makinesinde ekstremli küçüldü ama iş görür günü kurtarır"
+    },
+    {
+     "konu": "yanlis",
      "yildiz": 1,
-     "metin": "eşim için aldım ( 1.80 - 83kg ) xl aldık fakat ilk yıkamada çekti. iade etmedik ben kullanıyorum."
+     "metin": "Ürünlerin bedenleri farklı farklı geldi gri harici kalitesi orta derece"
     },
     {
-     "konu": "Olumlu: fiyat performans",
+     "konu": "yanlis",
+     "yildiz": 2,
+     "metin": "siyah çok dar lacivert biraz bol gri olan salaş dahada bol"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 2,
+     "metin": "birinin fermuar kısmı kırılmıştı göründüğü gibi de kalın değil"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "birisinde kalemle çizik var birisinde yırtık"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 1,
+     "metin": "biri tiftiklenmiş birinin kolunda defo var kalitesi çok kötüymüş"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 2,
+     "metin": "ozellikle siyah ve lacivelt tos topluyor"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "dikiş hataları mevcut ve yıkandıkça tüy topluyo özellikle siyah ve lacivert olan"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 1,
+     "metin": "Ya yakası yamuk geldi, ya kol kısmında kusurlu problem vardı."
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "ürün asla göründüğü gibi değil kumaş ve duruş olarak diyorum"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "Resimde Çok fazla kalın olarak görünüyor ama öyle. değil"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "XL aldım o bile oversize olmadi."
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "2 ürün yırtık cıktı !!! Kusurlu bu yüzden iade ediyorum"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "Kargo 8 günde geldi. Kalitesi güzel değil."
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "Kalıpları büyük bir beden küçük söylenmeli. Ama alt kısmı lastikli. O kısmı da daralıyor."
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "Boyutları çok büyük m giyiyorsan xs söylemen lazım"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "ürün kalitesi gerçekten çok iyi, bu fiyata bu kalite bulmak zor. satıcıya kaliteden dolayı ve kargo firmasına sorunsuz teslim ve hızlı korgodan dolayı sonsuz teşekkürler..."
+     "metin": "fiyatına göre baya kaliteli ve iyi ayrıca PTT kargo olması da ayrı bir ayrıcalık"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "fiyat performans ürünü içi polarlı resmen teşekkür ederim paketlemesi de güzeldi"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "3lu olması harika fiyat çok uygun ve çok kaliteli eşim için sipariş verdim"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 4,
+     "metin": "Tam beden alınabilir kumaş olarak fiyat performansına uygun"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "kendim de giyiyorum eşim de giyiyor biz çok beğendik özenle paketlenmiş"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "gsyet guzel yumuşak bi kumasi var ben m beden aldim oversize olmasi için gayet guzel"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "5 yıldız az gelir aşırı aşırı güzel özellikle siyah olan"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "78 kiloyum m beden tam kalıp hızlı kargo içinde teşekkür ederim"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 4,
+     "metin": "ürün güzel beklediğim gibi geldi almak isteyenlere tavsiye ederim fiyatına göre çok iyi"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 4,
+     "metin": "kesinlikle kendi bedeninizi alın, zaten geniş kalıp."
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "137159223",
@@ -988,31 +2288,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 100,
    "sikayet": {
-    "tuylenme": 0.04,
-    "dar": 0.26,
-    "bol": 0.17,
-    "yanlis": 0.09,
+    "tuylenme": 0.07,
+    "dar": 0.28,
+    "bol": 0.28,
+    "yanlis": 0.17,
     "cekme": 0.0,
-    "renk": 0.0,
-    "gorsel": 0.02,
-    "ince": 0.16,
-    "oversize": 0.02,
+    "renk": 0.03,
+    "gorsel": 0.07,
+    "ince": 0.18,
+    "oversize": 0.05,
     "defo": 0.02,
-    "dikis": 0.09,
+    "dikis": 0.15,
     "kargo": 0.01,
-    "fiyat": 0.02
+    "fiyat": 0.09
    },
    "olumlu": {
-    "kalite": 0.31,
-    "sicak": 0.12,
-    "beden": 0.43,
-    "boykilo": 0.25,
-    "hediye": 0.09,
-    "renk": 0.02,
-    "fp": 0.09,
-    "kargo": 0.02,
-    "gorsel": 0.01,
-    "salas": 0.27
+    "kalite": 0.43,
+    "sicak": 0.14,
+    "beden": 0.2,
+    "boykilo": 0.3,
+    "hediye": 0.1,
+    "renk": 0.01,
+    "fp": 0.11,
+    "kargo": 0.07,
+    "gorsel": 0.02,
+    "salas": 0.41
    },
    "dikkat": [
     "Kalıp tutarsız: bir kısmı dar ve oversize olmadığını, bir kısmı aşırı büyük geldiğini yazıyor.",
@@ -1024,26 +2324,152 @@
    ],
    "alinti": [
     {
-     "konu": "İnce / kalitesiz kumaş",
-     "yildiz": 2,
-     "metin": "Benim aldığın ilk sweatahirt çok güzeldi daha sonra 3 kez daha aldım ve her aldığımda daha da kötü geldi hem beden olarak hem yamuk yumuk örmelerle ve üstüne üstlük siyah bi yazılı şekilde geldi bunu alacaksanız haberiniz olsun. Poşeti baya bi kontrol edip açmadan iade edersiniz."
-    },
-    {
-     "konu": "Kalıp bol / büyük",
-     "yildiz": 2,
-     "metin": "kumaşı gayet iyi ama aşırı büyük xl almıştım ben xl-xxl geldi ama aşırı büyük alırken küçük beden alın"
-    },
-    {
-     "konu": "Yanlış beden / ürün gönderildi",
+     "konu": "dar",
      "yildiz": 1,
-     "metin": "Sweat yerine yarım kol t shirt geldi, kesinliklw önermiyorum"
+     "metin": "Asla göründüğü gibi değil kalıpları aşırı küçük Xl söyledim s beden kalıbında geldi"
     },
     {
-     "konu": "Olumlu: beden bilgisi",
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "erkekler için yada omuzları daha dik olanlar için çok daha ideal bir ürün"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "m/l beden olmasına rağmen aşırı büyük . Özellikle omuzlar aşırı büyük ama kolları dar şekilsiz"
+    },
+    {
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "cok kaba ve kilolu gostefiyo cok kalin bir beden kucuk alsanizda oyle durur"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "Fiyatı neden uygun olduğu belli oldu kalitesi diğerleri gibi değil"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 1,
+     "metin": "aynısının gri rengini aldığımda kalındı ama bu incecik geldi"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "yanlış ürün göndermişsiniz düzeltme 2. kez sipariş ediyorum yanlış ürün"
+    },
+    {
+     "konu": "yanlis",
+     "yildiz": 2,
+     "metin": "2xl söyledim xl-2xl geldi pek istediğim bollukta olmadı"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "heryerinden çıkan iplikler kol boyunun farklı olması kumaşının incelmesi"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "cep kısmı yitik geliyor ayrica 1 beden küçük alınmalı"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 1,
+     "metin": "Fiyatına göre kalitesi pek iyi değil"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "Asla 650 TL edecek bir Sweet değil"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 1,
+     "metin": "iç şardonu çok dökülüyor bütün bedene yapışıyor hiç fiyatının kalitesi değil"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 2,
+     "metin": "Hemen tiftiklenebilecek bir kumaşı var dokunduğunuz an anlıyorsunuz zaten"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "bu diğerlerinden daha farklı ve güzel durmuyor"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "kalıbı kötü dümdüz fotoğraftaki gibi değil"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "Oversize değil ama kalın bi beden büyük alın"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "Yeterince oversize değil. 193cm 85kg xl"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 1,
+     "metin": "boyası çıktı kaç kez yıkamamıza rağmen"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "ürün gerçekten çok güzel ama defolu geldi elime"
+    },
+    {
+     "konu": "Olumlu: kalite",
+     "yildiz": 4,
+     "metin": "oversize olması cok güzel, bir beden kücük olacak sekilde rahatlıkla alabilirsiniz"
+    },
+    {
+     "konu": "Olumlu: salas",
      "yildiz": 5,
-     "metin": "çok beğendim 160 boyuna 50 kiloyum benim bedenimdeyseniz kesinlikle en küçük bedenini alın yeterince bol oluyor"
+     "metin": "ben normalde m beden giyiyorum ama s beden aldım ve gayette bol durdu"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "ben 46 kiloyum S beden aldım xs/s beden geldi ama cidden kalıpları tam oversize"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "kendi bedenimi aldim tam istedigim gibi oldu kalite olarak da cok iyi"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "ürün mükemmel yumuşacık diğer kaliteli markalar ile aynı hissi veriyor"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "fiyatini hakediyor tavsiye ederim harika kalitede ve kalibi cok guzel"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "sevgilimle kendime aldım cok begendik ikimizede oversize oldu"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "özenli paketleme güzel ürün hızlı kargo teşekkür ederim"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "benim boyum 1.60 kilom 45 bol durdu tam istediğim gibi"
     }
-   ]
+   ],
+   "yontem": "claude"
   },
   {
    "id": "839407439",
@@ -1066,31 +2492,31 @@
    "onerilen_dusuk": 0,
    "ornek_dusuk": 96,
    "sikayet": {
-    "tuylenme": 0.04,
+    "tuylenme": 0.03,
     "dar": 0.1,
-    "bol": 0.21,
-    "yanlis": 0.08,
+    "bol": 0.36,
+    "yanlis": 0.22,
     "cekme": 0.0,
-    "renk": 0.01,
-    "gorsel": 0.03,
-    "ince": 0.1,
+    "renk": 0.15,
+    "gorsel": 0.08,
+    "ince": 0.14,
     "oversize": 0.01,
-    "defo": 0.04,
-    "dikis": 0.02,
+    "defo": 0.06,
+    "dikis": 0.14,
     "kargo": 0.02,
-    "fiyat": 0.02
+    "fiyat": 0.04
    },
    "olumlu": {
-    "kalite": 0.35,
-    "sicak": 0.24,
-    "beden": 0.27,
-    "boykilo": 0.22,
-    "hediye": 0.21,
-    "renk": 0.16,
-    "fp": 0.1,
-    "kargo": 0.07,
-    "gorsel": 0.03,
-    "salas": 0.18
+    "kalite": 0.45,
+    "sicak": 0.25,
+    "beden": 0.13,
+    "boykilo": 0.25,
+    "hediye": 0.24,
+    "renk": 0.18,
+    "fp": 0.11,
+    "kargo": 0.13,
+    "gorsel": 0.08,
+    "salas": 0.37
    },
    "dikkat": [
     "XS-S gibi çift bedenler çok bol geliyor; bir kısmı ise oversize olmadığını yazıyor.",
@@ -1098,30 +2524,167 @@
     "Taşlar yıkamada kararıyor ve dökülüyor; açıklamadaki pamuk oranının etiketle tutmadığı yazılıyor."
    ],
    "ders": [
-    "Açıklamadaki malzeme bilgisi etiketle aynı olmalı; \"%100 pamuk\" yazıp %75 göndermek güveni bozuyor."
+    "Açıklamadaki malzeme bilgisi etiketle aynı olmalı; yüksek pamuk oranı yazıp etikette daha düşük oran göndermek güveni bozuyor."
    ],
    "alinti": [
     {
-     "konu": "İnce / kalitesiz kumaş",
+     "konu": "bol",
      "yildiz": 2,
-     "metin": "arkadaşımla aynı sweatten aldık onunki kalın kalıbı gayet guzel benimki incecik geldi böyle sweat mi olur hic begenmedim"
+     "metin": "kolları resmen direğime geldi xs/s almıştım oysaki son derece orantısız"
     },
     {
-     "konu": "Yanlış beden / ürün gönderildi",
-     "yildiz": 2,
-     "metin": "%100 pamuk yazmissiniz fakat etikette görebildigim kadariyla %75 pamuk yaziyor üstüne üstlüj etiketi kesmissiniz umarim yanlislikla olan bir seydir🙏🏻"
+     "konu": "bol",
+     "yildiz": 1,
+     "metin": "çok kalitesiz kolları aşırı bol ama altı dar taytlarla giyilmez"
     },
     {
-     "konu": "Kalıp bol / büyük",
-     "yildiz": 2,
-     "metin": "XS/S olmasına rağmen aşırı büyük geldi büyük olması dışında güzel fakat iade"
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "Ben pembe almıştım beyaz göndermişsiniz indirimli aldığım için iade de edemiyorum"
     },
     {
-     "konu": "Olumlu: sıcak tutuyor",
+     "konu": "yanlis",
+     "yildiz": 1,
+     "metin": "xs s dememe ragmen m l gondermisler boyu cok uzun asla gorundugu gibi degil"
+    },
+    {
+     "konu": "renk",
+     "yildiz": 2,
+     "metin": "rengi de güzel gelmedi iade ettim herkes neden bu kadar sevmiş kumaşı da incecik"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "şimdi aldığım fazla inceydi ve xs-s almama ramen m-l gibiydi"
+    },
+    {
+     "konu": "ince",
+     "yildiz": 2,
+     "metin": "benimki incecik geldi böyle sweat mi olur hic begenmedim"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "taşları dökülüyor ama çok az şapkası çok küçük olduğu için puan kırdım"
+    },
+    {
+     "konu": "dikis",
+     "yildiz": 2,
+     "metin": "bunun alti ona göre daha dar cok begenemedim durusunu"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "bedeni göründüğü gibi değil oversizeliği daha uzun ve daha dar"
+    },
+    {
+     "konu": "dar",
+     "yildiz": 2,
+     "metin": "S beden aldım cok kısa geldi tesettüre uygun değil"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 2,
+     "metin": "%100 pamuk yazmissiniz fakat etikette görebildigim kadariyla %75 pamuk yaziyor"
+    },
+    {
+     "konu": "gorsel",
+     "yildiz": 1,
+     "metin": "ben görseldeki ürünü sipariş ettim böyle saçma sapan bişi geldi"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "üzerindeki taş ların çoğu siyahllaştı .lutfen hasarlı ürünü tedarik ediniz"
+    },
+    {
+     "konu": "defo",
+     "yildiz": 1,
+     "metin": "lekeli geldi iade ettim. kaliplar asiri buyuk"
+    },
+    {
+     "konu": "fiyat",
+     "yildiz": 2,
+     "metin": "750 TL’lik bir Sweet değil ortalama bir ürün beğenmedim"
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 1,
+     "metin": "Aşırı tüy bırakıyor ve çok büyük kalıbı. iade."
+    },
+    {
+     "konu": "tuylenme",
+     "yildiz": 1,
+     "metin": "ilk giymede HER YERİ tüylendi"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "ürün teslim edildi olarak gözüküyor ama elime asla ulaşmadı"
+    },
+    {
+     "konu": "kargo",
+     "yildiz": 1,
+     "metin": "ürünler kargoda karışti yanlış gitmiş"
+    },
+    {
+     "konu": "oversize",
+     "yildiz": 2,
+     "metin": "Kalibi oversize degil normal kalip"
+    },
+    {
+     "konu": "Olumlu: kalite",
      "yildiz": 5,
-     "metin": "Çook güzel bir ürün rengi falan çok tatlı kendi bedeninizi almanızı tavsiye ederim ürün o kadar sıcak tutuyo ki anlatamam kısacası alın aldırın"
+     "metin": "164 boy 50 kilo xs s bedeni aldım zaten oversize bir sweat olduğu icin cok rahat oldu"
+    },
+    {
+     "konu": "Olumlu: salas",
+     "yildiz": 5,
+     "metin": "çok güzel geldi duruşu çok iyi rahat bir sweatshirt istediğim gibi geldi"
+    },
+    {
+     "konu": "Olumlu: sicak",
+     "yildiz": 5,
+     "metin": "rengi de tam pamuk şeker gibiii fiyatını kesinlikle hakediyor kargo çabucak 3 günde geldi"
+    },
+    {
+     "konu": "Olumlu: boykilo",
+     "yildiz": 5,
+     "metin": "163 boyundayım kilomda 48 ve bana tam oldu duruşu kalıbı her şeyi çok güzel kumaşıda cok iyi"
+    },
+    {
+     "konu": "Olumlu: hediye",
+     "yildiz": 5,
+     "metin": "Arkadaşıma doğum günü hediyesi olarak aldım gayet güzel yumuşacık kaliteli"
+    },
+    {
+     "konu": "Olumlu: renk",
+     "yildiz": 5,
+     "metin": "rengi çok güzel bedenimize de uygun geldi L beden söyledik biraz salaş olmasını istedik"
+    },
+    {
+     "konu": "Olumlu: beden",
+     "yildiz": 5,
+     "metin": "2 günde elimize ulaştı çok güzel kaliteli biz begendik parasını sonuna kadar hak ediyor"
+    },
+    {
+     "konu": "Olumlu: kargo",
+     "yildiz": 5,
+     "metin": "ürünüm kısa sürede elime ulastı.Kalitesi çok güzel yumuşacık"
+    },
+    {
+     "konu": "Olumlu: fp",
+     "yildiz": 5,
+     "metin": "Kızım çok beğendi. Fiyat performans ürünü. Ön baskısı çok güzel"
+    },
+    {
+     "konu": "Olumlu: gorsel",
+     "yildiz": 4,
+     "metin": "Görselle aynısı çok kaliteli kızm severek giyiyor teşekkür ederiz"
     }
-   ]
+   ],
+   "yontem": "claude"
   }
- ]
+ ],
+ "yontem": "claude"
 }

@@ -1,4 +1,4 @@
-// v22 kimlik: lacivert ana renk, kehribar birincil çağrı, Fira Sans, kırmızı ve yeşil yerinde, eski tema kayıtları, sürüm ?v=22.
+// v22 kimlik: lacivert ana renk, kehribar birincil çağrı, Fira Sans, kırmızı ve yeşil yerinde, eski tema kayıtları, sürüm ?v=23.
 const resolve = (v) => `(()=>{const p=document.createElement('i');p.style.color='var(${v})';document.body.appendChild(p);const c=getComputedStyle(p).color;p.remove();return c})()`;
 
 export default async function ({ browser, base: BASE, check }) {
@@ -21,7 +21,7 @@ export default async function ({ browser, base: BASE, check }) {
   check('kimlik: kırmızı ve yeşil yerinde', neg === 'rgb(168, 69, 47)' && like === 'rgb(47, 107, 43)', `${neg} ${like}`);
 
   const src = await pg.eval(`document.querySelector('script[src*="app.js"]').src`);
-  check('sürüm: ?v=22', src.endsWith('v=22'), src);
+  check('sürüm: ?v=23', src.endsWith('v=23'), src);
 
   await pg.goto('about:blank', 50); await pg.goto(BASE + '#/kategori/termos', 1500);
   const pr = await pg.eval(resolve('--color-primary')), body = await pg.eval(`getComputedStyle(document.body).color`);

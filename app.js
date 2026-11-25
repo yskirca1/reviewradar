@@ -174,7 +174,7 @@
   function catAnswer(c) {
     const t = c.tema[0], L = esc(locName(c.ad));
     if (!c.top.ornek) return { form: 'okunmadi', html: `${L} 1-2 yıldızlı yorum okunmadı; şikâyetler hesaplanamadı.` };
-    if (!t || !(t.tum > 0)) return { form: 'sikayet-yok', html: `${L} okunan 1-2 yıldızlı yorumlarda sözlükteki şikâyetlerin hiçbiri geçmiyor.` };
+    if (!t || !(t.tum > 0)) return { form: 'sikayet-yok', html: `${L} okunan 1-2 yıldızlı yorumlarda listedeki şikâyet konularının hiçbiri geçmiyor.` };
     const s = share(t.tum);
     return { form: 'standart', s, t, html: `${L} 1-2 yıldızlı ${perText(s, true)} aynı şikâyet var: ${tNeg(t.unlem.replace(/!$/, ''))}.` };
   }
@@ -225,7 +225,7 @@
       const x = g.worse[0];
       return { form: 'zayif-nokta', t: x.t, v: x.v, a: x.a, big: `Zayıf noktası: ${tNeg(x.t.ad)}.`, sub: `1-2 yıldızlı yorumlarının ${pct(x.v)}${sfxLoc(pct(x.v))} geçiyor; kategoride ${pct(x.a)}.${tail}` };
     }
-    if (!f) return { form: 'sikayet-yok', big: 'Okunan 1-2 yıldızlı yorumlarında sözlükteki şikâyetlerin hiçbiri geçmiyor.', sub: tail.trim() };
+    if (!f) return { form: 'sikayet-yok', big: 'Okunan 1-2 yıldızlı yorumlarında listedeki şikâyet konularının hiçbiri geçmiyor.', sub: tail.trim() };
     if (g) return { form: 'belirgin-fark-yok', t: f, v: f.v, a: f.tum, big: `En sık şikâyeti: ${tNeg(f.ad)}.`, sub: `1-2 yıldızlı yorumlarının ${pct(f.v)}${sfxLoc(pct(f.v))} geçiyor; kategoride ${pct(f.tum)}. Hiçbir konuda kategoriden belirgin farkı yok.${tail}` };
     return { form: 'az-yorum', t: f, v: f.v, a: f.tum, big: `En sık şikâyeti: ${tNeg(f.ad)}.`, sub: `Okunan ${int(p.ornek_dusuk)} adet 1-2 yıldızlı yorumunun ${pct(f.v)}${sfxLoc(pct(f.v))} geçiyor; kategoride ${pct(f.tum)}. Yorum az olduğu için konu konu kategoriyle karşılaştırılmadı.${tail}` };
   }
@@ -246,7 +246,7 @@
     segment: ['KOBİ ve büyük marka', 'Büyük marka: herkesin bildiği ulusal ya da uluslararası markalar ve büyük mağaza zincirlerinin kendi ürünleri. KOBİ: küçük ve orta ölçekli satıcılar; internetten büyüyen yerli markalar da bu grupta.', 'segment'],
     yaklasik: ['yaklaşık yorum', 'Ürünün oranı çarpı okunan yorum sayısı. Bu konunun kaç yorumda geçtiğini yaklaşık gösterir. Oranlar yuvarlandığı için küsuratlı çıkabilir.', 'oran'],
     sevilen: ['olumlu konu oranı', 'Trendyol\'un "Önerilen" sıralamasında okunan yorumların yüzde kaçında bu konunun geçtiği. Kategori oranı, ürünlerin oranlarının basit ortalamasıdır.', 'oran'],
-    alinti: ['örnek yorum', 'Her ürün için okunan yorumlardan 3-4 tanesi kelimesi kelimesine saklandı. Tarihleri yok. Yorumların tamamı ürünün Trendyol sayfasında.', 'alinti'],
+    alinti: ['örnek yorum', 'Her ürün için okunan yorumların bir kısmı kelimesi kelimesine saklandı. Tarihleri yok. Yorumların tamamı ürünün Trendyol sayfasında.', 'alinti'],
   };
   let tipN = 0;
   const tip = (k, inline) => {
@@ -1102,7 +1102,7 @@
           + `<td>${noLow(p) ? `<span class="muted">${esc(noLowShort(p))}</span>` : p.sik[0] ? `${esc(p.sik[0].ad)} <span class="neg num">${pct(p.sik[0].v)}</span>` : ''}</td></tr>`).join('')}
         </tbody></table></section>`;
   const printFoot = (c) => `
-      <p class="print-only prt-foot">${SITE} · ${esc(SITE_URL)}#/kategori/${esc(c.id)} · Şikâyet oranı, okunan 1-2 yıldızlı yorumların yüzde kaçında o konunun geçtiğini gösterir; konular anahtar kelimeyle bulunduğu için oranlar yaklaşıktır.</p>`;
+      <p class="print-only prt-foot">${SITE} · ${esc(SITE_URL)}#/kategori/${esc(c.id)} · Şikâyet oranı, okunan 1-2 yıldızlı yorumların yüzde kaçında o konunun geçtiğini gösterir; ${c.yontem === 'claude' ? 'konular yorumlar tek tek bir yapay zekâ modeline (Claude) okutularak bulundu; oranlar okunan örnekten hesaplandığı için yaklaşıktır.' : 'konular anahtar kelimeyle bulunduğu için oranlar yaklaşıktır.'}</p>`;
   const filterState = {};
   const PSORT = { yorum: (a, b) => b.yazili - a.yazili, puan: (a, b) => b.ort - a.ort, dusuk: (a, b) => a.dusuk - b.dusuk, cok: (a, b) => b.dusuk - a.dusuk };
   // 1-2 yıldız payı, satıcı tipine göre (segmentte ürün yoksa null). Kategori özeti ve #/firsat ortak.
@@ -1807,6 +1807,9 @@
     const exK = exT ? ex.urunler.reduce((a, p) => a + (p.sikayet[exT.id] || 0) * p.ornek_dusuk, 0) : 0;
     const D = Object.values(data).filter(Boolean), Q = D.flatMap((d) => d.urunler.flatMap((p) => p.alinti));
     const qLow = Q.filter((a) => a.yildiz <= 2).length, qProd = D.reduce((a, d) => a + d.urunler.length, 0);
+    // v23: konuların nasıl bulunduğu kategoriye göre değişiyor (yontem: 'claude' ya da anahtar kelime)
+    const aiC = D.filter((d) => d.yontem === 'claude'), aiEksik = aiC.flatMap((d) => d.urunler.filter((p) => p.yontem !== 'claude').map(() => d.ad));
+    const liste = (a) => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + ' ve ' + a[a.length - 1];
     // v22: her bölüm katlanır (<details>); geniş ekranda hepsi açık, telefonda yalnızca adresteki bölüm açık. Başta içindekiler.
     const keys = [];
     const S = (id, title) => { const k = mKey(id); keys.push(k); return `<details class="m-sec" id="${id}" tabindex="-1"${!phoneMQ.matches || k === sec ? ' open' : ''}><summary class="m-sum"><h2>${title}</h2><span class="fold-ic" aria-hidden="true"></span></summary><div class="m-body">`; };
@@ -1834,7 +1837,7 @@
           ${t.tam && t.onerilenN ? `<p>Bu sitedeki ${t.kat} kategoride "Önerilen" sıralamada okunan ${int(t.onerilenN)} yorumun yalnızca ${int(t.onerilen)} tanesi 1-2 yıldızlı (payı ${pct(oran, 1)}). Oysa tüm yazılı yorumlarda 1-2 yıldız payı ${pct(gercek, 1)}. Şikâyet oranları bu yüzden ayrıca okunan ${int(t.ornek)} adet 1-2 yıldızlı yorumdan hesaplandı.</p>` : ''}${E}
         ${S('y-sikayet', `Şikâyet oranı ne demek?`)}
           <p>Bir konunun şikâyet oranı, okunan 1-2 yıldızlı yorumların yüzde kaçında o konudan söz edildiğini gösterir.</p>
-          <ul class="ul"><li>Konular her kategori için hazırlanan anahtar kelimelerle bulundu. Bu yüzden oranlar yaklaşıktır.</li><li>Bir yorum birden fazla konuya girebilir. Bu yüzden oranların toplamı 100 etmez.</li><li>Kategori ortalamasında her ürün, okunan 1-2 yıldızlı yorum sayısı kadar ağırlık taşır.</li></ul>${E}
+          <ul class="ul">${aiC.length ? `<li>${esc(liste(aiC.map((d) => d.ad)))} kategorilerinde her yorum bir yapay zekâ modeline (Claude) tek tek okutuldu ve model yorumu kategorinin konu listesine göre etiketledi. Model yalnızca yorumda gerçekten anlatılan konuyu işaretler; bir kelimenin geçmesi yetmez. Konusu olmayan yorumlar (ör. övgü yazıp 1 yıldız verenler) hiçbir konuya sayılmaz.${aiEksik.length ? ` ${esc(liste([...new Set(aiEksik)]))} kategorisinde ${aiEksik.length} ürünün ham yorumları saklanmadığı için o ürünlerin oranları hâlâ anahtar kelimelerle bulundu.` : ''}</li>` : ''}<li>${aiC.length ? 'Diğer kategorilerde konular' : 'Konular'} her kategori için hazırlanan anahtar kelimelerle bulundu. Her iki yöntemde de oranlar okunan örnekten hesaplandığı için yaklaşıktır.</li><li>Bir yorum birden fazla konuya girebilir. Bu yüzden oranların toplamı 100 etmez.</li><li>Kategori ortalamasında her ürün, okunan 1-2 yıldızlı yorum sayısı kadar ağırlık taşır.</li></ul>${E}
         ${S('y-oran', `Bir oran hangi ürünlerden oluşuyor?`)}
           <p>Kategorinin şikâyet oranı, ürünlerin şikâyet oranlarından hesaplanır. Her ürün için oran, okunan <span class="nowrap">1-2 yıldızlı</span> yorum sayısıyla çarpılır. Çıkan sayı, o konunun üründe yaklaşık kaç yorumda geçtiğidir. Bu sayılar toplanır ve bütün ürünlerde okunan <span class="nowrap">1-2 yıldızlı</span> yorumların toplamına bölünür.</p>
           ${exT ? `<p>Örnek: ${esc(ex.ad)} kategorisinde "${esc(exT.ad)}" ürünlerde yaklaşık ${approx(exK)} yorumda geçiyor. Okunan <span class="nowrap">1-2 yıldızlı</span> yorum ${int(ex.top.ornek)}. ${approx(exK)} ÷ ${int(ex.top.ornek)} = ${pct(exT.tum)}. <a href="${esc(H.konu(ex.id, 'konu', exT.id))}" data-to="dokum">Bu hesabı ürün ürün gör</a>.</p>` : ''}
@@ -1857,7 +1860,7 @@
             <li>Her iki listede en büyük farkı olan en fazla ${GAP.max} konu gösterilir.</li></ul>
           <p>Bu karşılaştırma ürünün gerçek kalitesini ölçmez. Yalnızca 1-2 yıldız veren müşterilerin hangi sorunu ne sıklıkla yazdığını gösterir.</p>${E}
         ${S('y-alinti', `Örnek yorumlar nasıl seçildi, neden az?`)}
-          <p>Yorumların tamamı bu sitede tutulmuyor. Her ürün için okunan yorumlardan yalnızca 3-4 tanesi kelimesi kelimesine saklandı ve her biri bir konuya etiketlendi.${t.tam && Q.length ? ` Bu sitede ${int(qProd)} ürün için ${int(Q.length)} örnek yorum var; ${int(qLow)} tanesi <span class="nowrap">1-2 yıldızlı</span>.` : ''}</p>
+          <p>Yorumların tamamı bu sitede tutulmuyor. Her ürün için okunan yorumların bir kısmı kelimesi kelimesine saklandı ve her biri bir konuya etiketlendi. Anahtar kelimeyle incelenen kategorilerde ürün başına 3-4 örnek var.${aiC.length ? ' Yapay zekâyla incelenen kategorilerde her şikâyet konusu için en fazla 2, her olumlu konu için en fazla 1 örnek saklandı; model bu örnekleri yorumun içinden seçti ve her örneğin yorumda birebir geçtiği ayrıca kontrol edildi.' : ''}${t.tam && Q.length ? ` Bu sitede ${int(qProd)} ürün için ${int(Q.length)} örnek yorum var; ${int(qLow)} tanesi <span class="nowrap">1-2 yıldızlı</span>.` : ''}</p>
           <ul class="ul"><li>Bir örnek yorum yalnızca etiketlendiği konuda gösterilir.</li>
             <li>Bir konunun geçtiği her üründe örnek yorum yok. O zaman site bunu yazar ve ürünün Trendyol sayfasına bağlantı verir; yorumların tamamı orada okunabilir.</li>
             <li>Yorumların tarihi saklanmadı. Örnekler tarihsiz gösterilir.</li>
@@ -1866,7 +1869,7 @@
           <p>"Ne yapmalı?" önerileri yorumlar okunarak yazıldı; ölçüm değildir. Her önerinin altında dayandığı şikâyet ya da müşterinin sevdiği konu yazar. Eşleme önerinin metnine göre elle yapıldı.</p>
           <ul class="ul"><li>Önerinin yanındaki oranlar öneri metninin parçası değildir. O konuların bu sitedeki oranlarıdır ve veriden hesaplanır.</li>
             <li>Bir konuya tıklayınca oranın hangi ürünlerden geldiğini ve örnek yorumları görürsün.</li>
-            <li>Belirli bir konuya dayanmayan öneri "Genel öneri" olarak görünür; yanında rakam yoktur.</li></ul>${E}
+            <li>Belirli bir konuya dayanmayan öneri "Genel öneri" olarak görünür; yanında rakam yoktur.</li>${aiC.length ? `<li>${esc(liste(aiC.map((d) => d.ad)))} kategorilerinde öneri ve ürün notlarındaki yüzdeler yeni oranlara göre güncellendi; her yüzde veriden hesaplanan değerle karşılaştırılarak kontrol edildi.</li>` : ''}</ul>${E}
         ${S('y-kontrol', `Giriş kontrol listesi`)}
           <p>Kategori sayfasının sonundaki liste, kategorinin şikâyet oranı en yüksek 5 konusundan ve o kategori için yazılan önerilerin başlıklarından oluşur. Yeni bir bilgi eklemez. Her maddenin altında dayandığı konu ve oranı bağlantı olarak durur. İşaretler yalnızca senin tarayıcında saklanır; siteye gönderilmez.</p>${E}
         ${S('m-notlar', `"Dikkat" ve "ders" notları`)}
