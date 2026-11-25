@@ -1,0 +1,7147 @@
+{
+ "model": "claude-sonnet-5-5",
+ "batch": "msgbatch_01Dj4RvvCm6pu9PAc7GXmx56",
+ "eksik": [
+  "327241909 Armine Medine İpeği",
+  "51132406 Armine Trend 2206",
+  "778137757 Aker Elegance",
+  "950221597 Modakaşmir Aya"
+ ],
+ "urunler": {
+  "811110897": {
+   "neg": {
+    "n": 100,
+    "oran": {
+     "renk": 0.1,
+     "yanlis": 0.12,
+     "sentetik": 0.08,
+     "kayiyor": 0.03,
+     "ince": 0.08,
+     "sert": 0.07,
+     "defo": 0.28,
+     "baski": 0.01,
+     "yikama": 0.19,
+     "olcu": 0.1,
+     "eksik": 0.02,
+     "fiyat": 0.04,
+     "satici": 0.13
+    },
+    "alinti": [
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "çok kısa bir sürede feci bir şekilde tiftiklendi örtülmez halde şuan"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "hemen tiftik yaptı bir ay kullandım sadece"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "ince ama yakıyoo"
+     },
+     {
+      "konu": "fiyat",
+      "yildiz": 2,
+      "metin": "güzel ama fiyatına değmez"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Rengi istediğim gibi gelmedi ama kumaş olarak güzel"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "ince bişey yani"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "siparişim başka farkı renge geldi, siyah istemiştim"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "yan taraftaki dikişleri açılmıştı"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 2,
+      "metin": "ürün uzunluğu kısa olması beni şaşırttı daha uzun beklerdim"
+     },
+     {
+      "konu": "fiyat",
+      "yildiz": 2,
+      "metin": "fiyatına göre çok pahalı ayrıca uzunluğu daha kısa geldi"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "tüylendi ama durusu güzeldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "tam siyah değil çok soluk"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "Modakaşmir daha kalın ama bu şal daha ince aynı değil"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "bir kısmı bu şekilde defolu geldi"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "ama bu üründe oldu"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "Bir kaç yıkamada kullanma da bozuldu şal tüylendii"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "çok ince bir yapısı var"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ipi cekik geldi biraz duzelttim elimle"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürün çok iplikliydi ama idare eder kullanılır"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 2,
+      "metin": "son iki aldığım kahve ve siyah hiç ona benzemiyor"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "sadece kargo poşetine konuşup yollanmış keşke bi posete koysaydınız"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "kargo firmasini acilen degistirin ürün teslim edildi diyor ama baskasina etmisler ürünüm kayboldu"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "öyle bir boya veriyor ki, ellerim, yüzüm, boynum her yerim simsiyah oldu"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "pamuk değil maalesef. yazın kullanımı zor."
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "rengi bi kaç kulanimdan sonra soldu"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 2,
+      "metin": "şalın eni kısa kumaşı da bi garip kendime çok yakıştırmadım"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "tüyleniyor toz tutuyor daha kaliteli olabilirdi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "defolu geldi tedarik edilmesini talep etmek istiyorum"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürünüm defolu geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Ürün güzel ama defolu malesef"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "ürün iki yıkamaya hemen tiftiklendi hiç önermiyorum"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "siyahının dikişleri tamamen söküktü"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "paketlenmesi özensiz eski paketlenmiş"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "190 cm sipariş vermek ettim kısacık bir şal gönderdiler"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "İlk yıkamada pamuklandı."
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "Yıkar yıkamaz rengi soldu"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "ürün siyah ama solmuş bi siyah canlı bir renk değil"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "İki yıkamada rengi soldu o paraya değmiyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Rengi soluk güzel değil"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "dümdüz kargo poşetine koyup göndermişler"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "üç farklı renk aldım üçüde birbirinden farklı nasıl olabilir"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "ürün neopamuk değil başka bir ürün."
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "tüylenmiş bir ürün olarak geldi kalitesiz"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Ürün kenarları sökülmüş geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Neo pamuk degıl sert kötü bi kumas geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Defolu geldi kargo poşeti elimde olmadığı için iade edemiyorum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "tam siyah gibi değil zaten bozarık duruyo ve kumaşı çok kötü"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "İstediğimiz boyut gelmedi yanlış en ve boy geldi!"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "güneşte kalmış gibi bi rengi var ip ince iç gösteriyor"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "Üeün istedeğim boyutta gelmedi iade etcem"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Siyah sipariş ettim acıkahve göndermişsiniz"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ucu bile farklı ipe bağlayıp yollamışlar"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "bu gelen defoluydu şalın üstünde beyaz fikir vardı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "yırtık geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "şal almıştım yırtık geldi hayal kırıklığı"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "çok kötü sekil asla almıyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "hiç rahat değil hatta pamuk değil insanı rahatsız ediyor"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "kirli şalı ipi çekilmiş şalı nasıl koydunuz"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürün hem defolu geldi koca bir leke vardı üstünde, hem de ipleri söküktü"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürün defolu geldi iade edicem"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "Ürünüm çok fazla tüylenme yaptı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Hem geç geldi hem de yanlış renk gönderilmiş"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "cok ince katlayinca da çok kucuk oluyor surekli ensem acikta kaliyor"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "yazma gibi ve sönüyo"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "siyah verdim çok grimsi bi siyah geldi"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "ürünüm yok ne biçim sistem yapıyorsunuz"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "çok ince kalitesiz"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "polyester katkısı var gibi rahat değil ve nefes aldıran kumaş değil ayrıca kafada ağırlık yapıyor"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "yırtık geldi kötü ürün"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "ikisi de defolu ve defolu sayılabilecek şallardı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Yırtık ürün gönderilmis tam bi hayal kırıklığı"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "Ürünün kumaşı çok ince"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Çok sert hiç yumuşak değil şekil almayan bir şal"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "sacma sapan naylon şal gönderdi"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "çünkü ürünü göndermediniz"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "ürünü siyah diye satıyorsunuz fakat ürün koyu lacivert"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "bir kere kullandım diye iade de edemiyorum"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "toz ve pislik içinde gönderdiler."
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "Tüylendi malı iyi değil"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürün yırtık geldi hiç memnun degiliz"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "gönderdiğiniz şal neo pamuk serisi değil"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "urun yırtık geldi defolu"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Sert bir yapısı vardı yanlış ürün gönderildi sanki"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "o kadar özensiz kiii poşete bile koymamışsınız"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "çabuk tüylenme yaptı bu fiyata değmez"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "kullanılmış çok kötü bir şal geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Siyah istedim gri göndermişler"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Kargo bugün geldi ama şal yırtıktı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "siyah Neo pamuk şal istemişim gidip lacivert kaygan eşarp yollamişsiniz"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ürün yırtık geldi"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "çok tüylenmeye yatkın bir yapısı var üstünde bir baskı dahi yok"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "80x200 ürün sipariş ettim ancak en küçük ölçüde olanı geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "hem kirli geldi hemde boyutunu kucuk gondermisler"
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.31,
+     "yumusak": 0.38,
+     "kaymaz": 0.24,
+     "renk": 0.01,
+     "gorsel": 0.05,
+     "tekrar": 0.26,
+     "hediye": 0.03,
+     "not": 0.19,
+     "fp": 0.1,
+     "kargo": 0.15,
+     "yazlik": 0.18
+    },
+    "alinti": [
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "özellikle kapanma hediyesi için harika bir seçim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "kayma yapmiyor çok hafif sıcak ta tutmuyor çok iyi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "paketlenmesi özenle hazırlanmış"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hızına bayıldım 1,5 günde geldi ve kumaşı da tam istediğim gibiydi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "aşırı rahat yazın çok iyi olur"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 4,
+      "metin": "Fiyatına göre çok güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "hakkediyor bence fiyatınida"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "aşırı kullanışlı ve kumaşı çok güzel"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "başka renklerini de almak istiyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok tok duruyor istediğim gibi önüne şekil verebiliyorum"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "incecik tam yazlık"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat bi kumaşı var"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat kesinlikle alınır"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "incecik ve hiç kaymayan bi şal"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "aşırı rahat penye şaldan bunun sayesinde kurtuldum"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "diğer renkleri de sipariş edicem"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "içinden de hediye küpe çıktı bayıldım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel ve kaliteli hediye bileklik içinde"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "aşırı rahat bir kumaşı var asla iç göstermiyor"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "müşteri memnuniyeti çok iyi bol kazançlar hediye içinde teşekkür ederim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Kız kardeşime aldım çok beğendi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat kolay şekil alıyor ve hızlı geldi"
+     },
+     {
+      "konu": "not",
+      "yildiz": 4,
+      "metin": "toka için de çok teşekkür ederim diğer renklerini de alacağım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumusacik ve cok guzell, tam yazlik ve ürün sorunsuz elime ulasti"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "sekil almasi kolay gunluk kullanim icin rahat cok guzel bir sal"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "hediye için teşekkür ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "asla kaymıyor çok rahat şekil alıyor hem düğünde hem günlük kıllanımda her yerde kullanılır"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "fiyatına göre gerçekten iyi hediyeleriniz içinde teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "ürünüm beklediğimden de çok güzel kalıbı kumaşı kalitesi ve paketlemesi harika"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Çok beğendim baya güzel ve hızlı geldi okul için kullanıyorum mükemmel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Gerçekten çok kaliteli ve çok rahat."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "ince ama iç göstermiyor ve çabuk kirismayacak Bi kumaşı var gönülden tavsiye"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "tam olarak yazlık ınce ama iç göstermiyor tam olarak fıyat performans ürünü"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "elde yıkanirsa yıpranma yapmaz ve sizi bir ömür boyu götürür"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "aynen resimdeki gibi rengi kaymada yapmıyor 200 liraya daha ne isteyebiliriz"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "küçük hediyeniz için teşekkür ederim başka renkleri de alacağım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "gercek anlamda müthiş bir ürün kolay şekil alıyor uğraştırmıyor"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "ne kadar hareket etsem de bozulmuyor uçmuyor kaymıyor pamuklu mükemmel bir yapısı var"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ben çok beğendim kumaşı çok güzel hediye için çok teşekkürler"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Kayma yapmadı çok güzel şekil alıyor kargo hızlıydı satıcının ilgisi için çok teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitesi efsane yumusacik tam yazlik bir kumas 3 rengini daha aldım"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "yanında hediye olarak bileklik göndermişler onun için de çok teşekkür ederim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "şalın kafada duruşuda çok güzel günlük olarak rahatça takılabilir bunaltmayan bir yapısı var"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "kesinlikle cok rahar ve kolayca sekil aliyor."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hizliydi 3 gune geldi rengi kumasi harika incecik bir kumasi var cok rahat"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Gayet güzel yumuşak ve rahat ayrıca hediyeniz için çok teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok güzel kumaşı var tam yazlık bir ürün. Hediye için teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "iğne vs kullanmadım hiç bi şekilde kayma falan yapmadı hiç yokmuş gibi"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 4,
+      "metin": "tam yazlık bı şal istediğin modeli hemen alıyor aşırı rahat"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kullanisli kaymiyor kargoda guzel ve hizliydi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "iki rengini aldımm devamınıda alacağımmmm"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "acı kahve ile lacivertini de sipariş verdim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "baya seviyorum her rengini almaya çalışıyorum"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "şalın yapısı rahatlığı mükemmel tam bı yaz şalı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kızıma aldım dün elimize ulaştı kargo hızlıydı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "rahat rahat alın iki tane daha alacağım"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tamm yazın tak çık şallardan cok begendim gercekten fiyatı da uygun"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "çıkarmadım resmen çok güzel üç rengini de aldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat çok güzel rami rahatlığında kırışmada yapmıyor"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ilaç gibi geldi çok rahat çok beğendim"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "tatlı hediyeniz için de çok teşekkürlerrrr"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "hediye paketinde olması da çok tatlı bı jestti teşekkürler"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzel yumuşacık ve çok rahat fotoğraftaki gibi geldi"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "neredeyse her rengini almışımdır o kadar güzeller ki hemen sekil alip kolayca kullanabiliyorsunux"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "tüylenme yapınca yenisini aldım seviyorum çok rahat ve güzel şekil alıyor"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "paketlemesi vs çok özenliydi ve hediye içinde ayrıca teşekkürler"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "iğne bile takmaya gerek kalmadı buraktığım gibi şekil alıyor"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 4,
+      "metin": "dokusu kumaşı ebatı gayet güzel beğendim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "okul için de kullanılabilir bı ürünnn rahatta alabilirsiniz"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "tam istediğim kumaş istediğim şekli verebilecek ve düzgün duracak"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "aynısı geldi diğer renklerini de alacağım"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "yapısı çok güzel çok rahat şekil alıyor"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "kumaşı hafif asiri kocaman bi sal değil tam istediğim gibi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşı çok iyi başına taktığın an o kaliteyi hisediyorsun"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tam yazlık herkese tavsiye ederim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "diğer renklerini de alicam çok süper ürün"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tam yazlık rahat bir ürün elimden düşüremediğiö bir şal"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bütün şallarımı bu markadan alıyorum hepsi de ayrı güzel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "diğer renklerinide sipariş ettim.çok hafif ve rahat şekil alıyor."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı iyi hediyeniz için çok teşekkür ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok basit şekil alıyor diğer renklerini de alacağım"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "şekil alıyor çok yumuşak satıcı çok iyi mükemmel o kadar özenli paketlemişlerdiki"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "neredeyse her rengini aldım çok kolay şekil alıyor"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "hiç ağırlığı yok her rengini alıcam"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "yazlıkk çok iyii"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Şallarımı hep buradan alırım kaliteli ve fiyatı da gayet iyi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Şal mükemmel dokusu felan çok iyi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat bir sal tam yazlık kumaşı kaliteli ve iç göstermiyor"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzel ve rahat bir şal. kalın değil ve iç göstermemesi çok güzel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "neo serisinin çoğunu kullandım gayet severek kullanıyorum ince bir yapısı var"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Ürün pamuklu olduğu için kayma yapmıyo ve en sevdiğim özelliği hızlı şekil alıyo"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "erken geldı hızlı teslımat oldu kuması harıka"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı mükemmel not çok zarif olmuş teşekkürler"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Petrol mavisini de aldım tam yazlık çok güzel fiyatı da çok uygun"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "başımda hiç yokmuş gibi kolay şekil alıyor istediğiniz şekilde kalıyor rüzgarda vs bile bozulmadi"
+     }
+    ]
+   }
+  },
+  "944739275": {
+   "neg": {
+    "n": 100,
+    "oran": {
+     "renk": 0.18,
+     "yanlis": 0.06,
+     "sentetik": 0.2,
+     "kayiyor": 0.08,
+     "ince": 0.04,
+     "sert": 0.3,
+     "defo": 0.1,
+     "baski": 0.04,
+     "yikama": 0.02,
+     "olcu": 0.01,
+     "eksik": 0.04,
+     "fiyat": 0.01,
+     "satici": 0.1
+    },
+    "alinti": [
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "Satıcı hiçbir şekilde ürünün arkasında durmuyor"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "af kayoyoooo"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Güzel ama rengi bir tık soluk"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "iki ürünümde güzel gelseydi sevinirdim"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "ürün göründüğü gibi ama kalın birz"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Kumaşı kalın gibi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "kumaşı birazcık kalın"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 2,
+      "metin": "Daha uzun olmalıydı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "iğneliyince ipleri çıkıyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "polyester kumaşı kalın biraz pek sevemedim açıkçası"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "ürün çok güzel ama defolu geldi"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "kulağım, bonem ve saçım gözüktükten sonra ne anlamı var"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "üründe hafif çizgiler vardı siyah siyah"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "kumaşı yazın terletir değişik bir kumaş."
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Şal çok güzel ama yırtık geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "baya sert bi kumaşi var"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "pastel renk değil canlı geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Bir yeri yanıktı indirimde aldım diye mi bilmiyorum üzdü beni"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "Kargoya çok geç verildi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Sert bir kumaşı var ve canlı bir rengi yok"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "Pamuklu değil ürün sert bir yapısı var"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Hep ipi kaçmış geldi bu markadan beklemezdim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "asla biçim almıyor elim şali düzeltmekten aşağı inmiyor"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "Bu ürünün etiketi yoktu. Muhtemelen iade ürün."
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Daha yumuşak bi kumaş beklerdim sert kumaşı yazın rahat edilmez"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "çok soluk renkler"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "ürün pamuklu falan değil. terletir"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "Çok çabuk tiftikleniyor gibi oldu rengini de gelince pek beğenmedim"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kayma yapıyo terletme yapıyo iç gösteriyo yani daha ne olsun?"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renkler soluk"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "yazlık olarak kalın boyunda birikme yapıyor beğenmedim maalesef"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Kumaşı çok kötü deseni güzel"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "pamuk değil naylon kumaş milleti kandırmayın kayan kumaş kafada rahat durmuyo"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Konforsuz kötü kumaş seçimi ama desen güzel"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Sipariş etigim şaldan alakasız bir şal gondermissiniz berbat bir kumaşa sahip"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "pembe olanı sipariş verdim ve gelen renge bakar mısınız."
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "sert bir kumaşı var pamuk oranı az dökümlü durmuyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "naylon çok yakıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Rengi asla fotoğrafta görüldüğü gibi canlı değil inanılmaz soluk ve çok ince"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Kumaşı çok sert olduğu için iade 1 kez takabildim"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Çiçek desenleri benı hayal kırıklığına uğrattı desenleri çok kötü"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkleri burdaki gibi canli degil deseni baskisi cok kotu"
+     },
+     {
+      "konu": "fiyat",
+      "yildiz": 1,
+      "metin": "5 kuruş etmez"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Çok sert kumaşı iade ettim"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Ürün sentetik kumaş"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "Kumaşı çok kötü rengi falan güzel ama çok terletiyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "pamuklu diye yazmışlar alakası yok geri iade ettim."
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "takar takmaz kafamı yaktı"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Beğenmedim sert kumaşı vardı iade ettim"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "terletir, yakıcı kumaşşş"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "kumas kalitesi olarak kötü ne yazıkki naylon gibi kuması pamuklu olsaydı efsane olurdu"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "kesinlikle göründüğü gibi değil soluk ve naylon hiç hava almıyor"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Kalın rahat değil takamıyorum"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "kalın aşırı ve polyester Li hiç rahat değil"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "beyaz olan paketin içinden çıkmadı"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "çok kaba ve sert bir kumaşı var"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "iğne delikleri var yırtık parçalar mevcut"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ne renk dedim ne renk gönderilmis"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "sparislerimle alakası olmayan renkler geldi"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Pembe şal neden gelmedi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "aslında kumaşı çok kalın ve renk çok solgun hiç beğenmedim iade ettim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "kesinlikle gorselle alakası yok bana gelen soluk renk burdaki capcanlı"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "iç gösteriyor kumaşıda hoşuma gitmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Renkler canlı değil"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Aldığım ürün pembe desenli şaldı bunu göndernişsiniz inanamıyorum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Fotoda göründüğü gibi değil dijital baskı kalitesiz"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "dikişinde hata var iplikleri sarkıyor"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "ürünü kargo firması bina içinde kaybetti maalesef ulaşmadı bana"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Renkler göründüğü gibi değil"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "bu şal gelmedi gonderilmesini rica ediyorum"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "kumaşı sert ve kalın pamuklu değil bence yazın kullanımı rahat degil"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "ürün pamuklu yazıyor ama polyestet karidimli gekdi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "cok kotu kumaşı cok sert"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Kumaşı çok kalın hiç beğenmedim"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "sipariş ettiğim ürün defolu geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "kumaşı yazlık değil kumaşı kalitesiz"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "Sadece bir kez taktım bu şekilde kumaşı çekildi"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "Beğenmedim kayıyor"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "Çok kayıyor inme olmasına rağmen"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "kumaşı çok kötü yazın takmamak zor şekil almıyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "laylon gibiydi resmen ama rengi güzeldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "ürün defolu çıktı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Ürün renk tonu ve kalitesi görselden farklı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gönderdiler rengi ve kendisinşn alaksı yok bordo diye başka gönderdiler"
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.36,
+     "yumusak": 0.15,
+     "kaymaz": 0.13,
+     "renk": 0.29,
+     "gorsel": 0.2,
+     "tekrar": 0.26,
+     "hediye": 0.1,
+     "not": 0.0,
+     "fp": 0.14,
+     "kargo": 0.2,
+     "yazlik": 0.07
+    },
+    "alinti": [
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Desenleri çok güzel kalitesi de öyle iç göstermiyor"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "her rengi alınır öyle güzel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "şallarımı sürekli mira ipekten alıyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 4,
+      "metin": "yazın çok sık kullandım terletme falanda yapmadı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Bayıldım kalitesine,duruşuna başımda yok gibi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumasi o kadar kaliteli ve guzelki kesinlikle alin"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "zaten her zmaan mira ipekten şal alıyorum"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Çok güzel yumuşacık tam aradığım şal"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "ne kaydı ne de çok esmer gösterddi"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "hem kendime hem kız kardeşlerime hem de arkadaşıma aldım"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi,deseni ve yapısını çok beğendim severek kullanıyorum"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "ınıdırmde hedıye aldım aşırı begenıldı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "zaten sarı ve mavi renginde almıştım severek giyiyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitesi kumaşı bambaşka ben çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "renkleri görsel de ki gibi çok canlı"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "sağlam bir şekilde görseldekinin aynısı geldi"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tam yazlık efil efil kayma yapmıyo"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkler göründüğü gibi canlı çok sevdim"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu kadar uygun olup bu kadar güzel olan ne var ki"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Ürün görselle birebir aynısı kumaşı da yumuşacık"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "renkler birebir aynı hemencik iki tane daha sipariş verdim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri aynı görseldeki gibi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok güzel bir şal kumaşı da çok güzel"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Kuzenime doğum günü hediyesi olarak almıştım"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "sürekli burdan alırım devamlı kullandım ürün"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Daha önce 2 set almıştım. 2 set daha sipariş ettim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok hoş duruyor kumaş ta kaliteli"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "her zman alışveriş yaptığım şal adresim kalite renk kargo paketleme herşey 10 numara"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "şal tam isdediğim gibi geldi çok rahat bir kumaş var fotograftakiyle aynı geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "dokusu bebek gibi rengi canlı, kumaşı güzel daha ne olsun"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "daha önce kırmızı ve kahverengini de almıştım"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "diğer renklerinden de aldım"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "farklı renk ve desende bi şal daha aldım ikisi de muhteşem"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "zaten ilk alışverişim değil bayılıyorum"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "mavisiyle ikisini beraber almıştım bayıldım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel yumuşacık ütü fln ıstemıyo"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargoda çok özenliydi tereddüt etmeden alabilirsiniz"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kaymıyorve kalın bir kumaş değil"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "ablama doğum günü hediyesi olarak aldık çok güzel çok beğendikk"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "ürünü hala kullanıyorum 1 yıldır kaliteli çok beğendim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "aynı göründüğü gibi geldi harika"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Görümceme hediye olarak gayet çok güzel oldu ve çok beğendi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "fiyatida uygun kalitesine gore"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kumaşı da kaymayan cinsten renkler fotoğraftaki gibi canlı"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "yumuşacık, harika bir kumaşı var. kayma yapmaz gibi görünüyor"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "fiyatına göre kalite çok iyi hızlıca geldi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Hızlı ve güzel paketlenmiş şekilde gönderildi satıcı tarafından."
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "paketlemesi sağlam kargoyla hızlı bir şekilde elime ulaştı güzel canlı renkleri var"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "görseldekinin aynısı geldi çok kaliteli renkleri canlı ve çok güzel"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "kumaşı yumuşacık çok güzel şekil alıyor"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaş kalitesini ve renklerin tonunu çok beğendim tekrar sipariş vereceğim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargosu da hızlı geldi tam yazlık rahatsız etmiyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Sağlam paketleme ve hızlı kargo için teşekkür ederim."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargolama çok hızlıydı teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "mükemmel kumaşı şekil alması çok güzel rengide"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "evde her renginden var aldım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok kaliteli rahat bir çok rengini almaya devam ediyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok kaliteli severek kullanıyorum rengide ve çok güzel"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "istediğim gibi şekil alıyor inceliği de çok güzel"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Kızım daha önce almıştı,memnun kalınca bende hediye olarak aldım. Kaliteli bir ürün."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "canlıı renkleri hediye olarak almıştım çok beğenildi"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "ince kumaşıyla da yaz aylarında çok güzel oluyor"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "hediye olarak aldık arkadaşım çok beğendi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Şal gerçekten iyi çıktı kumaşı dokusu güzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri o kadar canlı geldi ki bu fiyata bu kaliteyi beklemiyordum"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "gorseldekinin aynisi geldi kumaşı yumuşak tam yaz rengi"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Tam bir fiyat performans rengi deseni kalitesi bu fiyata çok güzell"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "harika bir kumaş rengi çok güzel kalitenin tek adresi"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Arkadaşıma doğum günü hediyesi olarak almıştım. O çok beğendi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "sadece burdan alıyorum artık renkleri desenleri inceliği rahatlığı herşeyiyle çok güzelsin"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "fotoğraftakiyle aynı çok güzel terletmiyor ve rengi gerçekten canlı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel kargo elime 2 günde ulaştı"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "gerçekten fiyat performans bir ürün. ben çok beğendim tam resimdeki gibi geldi."
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Güzel kolay şekil alıyo beyaz tenliyim kendime yakıştırdım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Şalın kumaşı çok güzel rahat şekil alıyor tavsiye ediyorum aynı renk aynı şekil geldi"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Gerçekten çok kolay şekil alabilen muazzam bir şal gördündüğü gibi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "rengi birebir aynı . Çok güzel tereddüt etmeden alabilirsiniz 🩷 Kargo da ertesi gün geldi."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Hızlı kargo kalitesini beğendim bu fiyata alınacak en güzel şal yapısında"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "Tam yaz şalı gibiydi harikaydı"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Arkadaşıma aldım doğum günü hediyesi çok güzel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Duruslari ve kumaslari okdr iy ki boyle beklemiyodum cok rahatlar"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "gerçekten ücretine göre çok kaliteli bir ürün ben çok memnun kaldım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "fiyatına göre kalitesi harikaaa bayıldımm rengi desenleri çok hoş"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Çok tatlı renkleri çok beğendim alın aldırın fiyat performans"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "almıştım ve zamanında yetişti satıcıya teşekkürler"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok güzel kayma yapmıyo fotoğraftakiyle birebir aynı geldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "görseldekiyle birebir aynı geldi kumaşı da çok güzeldi çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Aşırı güzel kalitesine bayıldım indirimsen aldım nerdeyse bedava 180 e aldım ben"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel bir kumaşı var."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Deseni,renkleri çok güzel göründüğü gibi geldi çok beğendim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Aşırı tatlı ve hoş bir rengi var iki rengini daha aldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Çok güzel ve hafif bayıldım."
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Çok güzel bir şal kayma yapmıyor duruşu falan çok güzel"
+     }
+    ]
+   }
+  },
+  "968548196": {
+   "neg": {
+    "n": 100,
+    "oran": {
+     "renk": 0.26,
+     "yanlis": 0.08,
+     "sentetik": 0.17,
+     "kayiyor": 0.04,
+     "ince": 0.04,
+     "sert": 0.04,
+     "defo": 0.07,
+     "baski": 0.17,
+     "yikama": 0.0,
+     "olcu": 0.0,
+     "eksik": 0.05,
+     "fiyat": 0.02,
+     "satici": 0.08
+    },
+    "alinti": [
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "Satıcı ürünlerin arkasında durmuyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ben güllü modeli istemiştim bana gelen bordolu karışık bir renk"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "Kayar bu şal ama modeli güzel ve canlı"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Ürün güzel ama pamuklu değil"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "güzel ama çok ince"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "sadece dokusundan belli naylon pek hoşuma gidiceğini sanmıyorum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Resimdeki kadar canlı değil"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "baskisoo dijital baskı gibi çok begenemedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Eşarbın rengi çok sarı geldi bana"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kumaşı güzel değil renkleri canlı değil daha çok bordo geliyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Naylon gibi ve kaygan bi yapısı var"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Rengi Fotoğraftaki gibi canlı değil daha soluk geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "kirisan bir şal"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "desenini beğenemedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "baya solgun"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "baskıları cok yapmacık duruyor"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "Dijital baskı oluşunu beğenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "aynı canlılık yok"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "çok baskı baskı duruyodu"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "rengii buradaki kadar canlı değil sevmedim"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "berbat ipligi sökülüyor"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 2,
+      "metin": "Çok geç geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "kırmızı renkli gelcekti ikisinide mavi göndermişler"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kumaşı pamuklu değil naylonlu yaz mevsiminde çok terletir"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kumaş kotu"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "Desenleri alakası yok böyle kalitesi bir baskı zaten kumaş naylon gibi iade direk"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kuması kötü"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renkler cok soluk"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün göndermişler benim istediğimi değil"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Sarı renkler çok kötü duruyor bence"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kumaşını beğenmedim"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "şal üzerindeki desen bulanık bulanık ve şalın etiketi yok"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Rengi görseldeki gibi değil"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "bunun baski olduğu o kadar belli ki hiç begenmedim"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "İçeriği kesinlikle pamuk değil"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "naylonsu ve dıcek desenlerinin baskısı çok kötü begenmedımm"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış sipariş göndermişsiniz hediye ettim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Rengi göründüğü gibi değil çok soluk"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "Cok basit ve cok ince kırış kırış oluyo"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gondermissisiniz uğraşmak istemediğim için iade etmedim"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "çok kötğ bi baskısı ve kötü bir kumaşı var"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "neden böyle soluk duruyor rengi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "iki salim kusurlu geldi onlarda iyi gelseydi sevinirdim"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "naylon gibi çok çabuk kirisiyo"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "İstediğim ürünü neden göndermediniz ki anlamıyorum"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "kumaşını hafif ip kaçmaları vardı"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "çok ince rengi canli değil"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "çok naylonumsu"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Fotoğrafdaki baskı daha kaliteli bana gelen desenler sanki ultra büyük"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Seçtiğim modeller gelmedi kafanıza göre koymuşsunuz"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Çamaşır suyu değmiş gibi bir leke var."
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "sürekli kayıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Aynı canlılık yok maalesef"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış şal gönderilmiş"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Ürün görseldeki gibi gelmedi"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Baskısı kalitesiz geldi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "Kumaşı naylon şekil almıyor baskısı çok kötü iade"
+     },
+     {
+      "konu": "fiyat",
+      "yildiz": 1,
+      "metin": "kumaşı çok kötü verdiğim paraya yazık"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "rengı fotograftakı gıbı canlı ve parlak degıl desenleri soluk"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Aşırı sert kumaşı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Renk fotoğraftaki gibi canlı değil çok soluk"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Fotoğraf da göründüğü kadar asla canlı bi renk değil kumaşı sert"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "İpi çekik yollamışsınız hep bu kadar özensiz bir iş görmedim"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "baskısı o kadar kötüydü ki utandım örtmeye açıkçası"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Gonderılmemıs urunum"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "baskı kalitesi kötü yeri ince çicek resmi dağılmış"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "naylon beğenmedim direk iade"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "Baskısı olmamış resimdeki gibi durmuyor"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Baskısı hoş değildi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "göründüğü gibi değil mat"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Gelmedi ürün"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "ürün asla göründüğü gibi canlı değil"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "kalitesini beğenmedim iade"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "görselle ilgisi yok rengi çok soluk"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "rengi soluk ve polyester gbi yeri ve bu fiyata değmez"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Siparişim gelmedi geldi gözüküyor"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "beğenmedim kumaşını iade ettim"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Kargom gelmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "rengi o kadar soluk ki"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "ürünün rengi çok soluk tam bordo rengi gibi durmuyor ayrıca çok ince tül gibi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "rengi soluk geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ipi çekilmiş di"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "tel kaçan ürünü göndermişsiniz renkler de canlı değil göründüğü gibi"
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.43,
+     "yumusak": 0.11,
+     "kaymaz": 0.1,
+     "renk": 0.21,
+     "gorsel": 0.19,
+     "tekrar": 0.27,
+     "hediye": 0.1,
+     "not": 0.03,
+     "fp": 0.24,
+     "kargo": 0.2,
+     "yazlik": 0.0
+    },
+    "alinti": [
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok kaliteli çok güzel çok beğendim hiç tereddüt etmeden alabilirsiniz"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Çok kolay şekil alıyor ve kaymıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi de duruşu da fotodaki gibiydiii çok canlıııı"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "tam olarak fiyat performans ürünü kesinlikle alın"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "arkadaslarimada hep siparis verdim kumasida cok guzel çok rahat"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Çok güzel yumuşak çok rahat kullanılabilir"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "şık paketlemede güzel eşime aldım çok beğendi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "görseldekiyle aynı ürün geldi. kargo çok hızlı elime ulaştı."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "dokusu uzunluğu renkler çok güzel bundan sonra Mira ipekten alırız"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Fotoğrafın aynısı çok kolay şekil alıyor kumaşı çok güzel"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kumaşı- kalitesi çok iyi, renkleri cıvıl cıvıl- canlı"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 4,
+      "metin": "hem kaygan değil hemde kumaş kalitesi harika"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Kargo sorunsuz ve hızlı geldi Görselin aynısı geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri deseni çok canlı kumaş kalitesi de gayet güzel"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "süper yumuşak dokulu şal arıyordum"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "siparişim sorunsuz çok güzel ambalajlı bir şekilde geldi"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Fiyatına göre çok iyi bi şal çok severek aldım aşırı rahat"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "tüm şallarımı burdan sipariş ediyorum mira ipek kalitesi bütçe dostu"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkler desenler şahane ,kombını kolay kumas guzel fıyat uygun"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "tam istediğim gibi geldi ilerleyen zazamanlarda tüm renklerini almayı düşünüyorum"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Sürekli sipariş veriyorum hayırlı işler bereketli kazançlar diliyorum"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "üstelik hediye de gönderdiler"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 3,
+      "metin": "kargo hızlıydı paketleme özenliydi alın"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaş kalitesi muhteşem rengine olduğu gibi geldi çok güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "tam fiyat ve performansın şahı, kalitesi çok güzel desenler aynı fotodaki gibi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "rengi de fotograf da ki gibi hiç tereddüt etmeden alabilirsiniz"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "üründe baya güzel bir bordo rengi var"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Rengi ve dokusu çok güzel kalitesi de harika"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bu fiyata bu kalite bu doku muhteşem iki yıldır kullandığım şalları renkleri bile solmadı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri canlı satıcıya sonsuz teşekkürler"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "arkadaşıma hediye aldım bayıldı gerçekten bende çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "2 tane sipariş verdim başka renklerinide alicam"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "hızlı teslimat teşekkürler renklerı canlı gayrette uygun oldu"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "hafif çok rahat bir şal diğer renkleri de Alaçam"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "tekrar tekrar sipariş veririm paketlemede güzeldi."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Paketleme gayet iyiydi rengi deseni her şeyi bence çok güzel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Resimdeki gibi çok güzel fiyat performansı gayet güzel"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "pamuklu kaymıyor deseninide çok sevdim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Daha önce de aldığım ve şallarından çok memnun kaldığım için tekrar tercih ettim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "tüm renklerini aldım fiyat olarak aşırı uygun ve üstüne aşırı kaliteli"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi kalitesi çok güzel paketlenmesi de iyi sorunsuz elime ulaştı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri çok güzel canlı duruyor"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "çok rahat ve çok şık duruyor fotoğraftakinin aynısı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "inşallah altı adet alldım hepside birbirinden güzel geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı gerçekten harika ve çok güzel bir şekil alıyor yapılışı kolay ve çok ucuz"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi göründüğünden daha canlı harika bir şal çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaş kalitesi ve dokusu gerçekten çok başarılı. Ayrıca hızlı kargo ve özenli paketleme"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Yumuşaçik. Bi şal. Tavsiye ederim."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Hep şallarımı bu satıcıdan alıyorum çok güzel paketleme yapılmıştı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri çok canlı fotoğraftaki ile aynısı geldi çok kaliteli"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kalitesi çok güzel anneme almıştım bayıldı kumaşına ayrı bayıldı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Bu kadar iyi bir ürün beklemiyordum her renginden aldım"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Fiyatına göre güzel bir ürün kayma yapmaz desenli çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Dokusu,kalitesi,renkleri o kadar güzel ki her rengini alası geliyor insanın"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok kaliteli kumaşı çok güzel ince değil"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "ben bu markanın neredeyse tüm şallarını aldım çok şık ve zarif"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "daha sonra hediye etmek icinde bu çiçekliden aldm üç tane daha"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Mükemmmeel bir şal hem kalitesi hem görünüşü herkes bayıldı"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Ürün çok hızlı ulaştı elime fotoğraftaki gibi çok güzel bir kaç tane daha istedim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "her indirime girdiğinde alıyorum gerçekten çok güzeller"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu fiyata bu kalite müüükkk.teşekkürler bol kazançlar dilerim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "arkadaşıma hediye aldım bayıldı çok kaliteli ve güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu fiyata bu kalite tereddütsüz alabilirsiniz"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Rengi desenli harika bayıldım alın aldırın kızlar kumaşı da rahat"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Kumaşı da çok güzel kayma yapmıyor çok beğendim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "çok güzel hediye aldım çok beğenildi. kendime de alacagım"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 4,
+      "metin": "indirimden 150₺'ye almıştım tam bir f/p"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "üç rengini daha aldım alın aldırrın kesinlikle çok cool duruyor renkleri canlı kumaşı çok güzel"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Taktigim zaman hiç kayma yapmıyor rahatlıkla tavsiye ediyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaş kalitesini ve renklerin canlılığını çok beğendim."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "paketleme gayet iyi ve çok hızlı elime ulaştı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "dokusu gayet güzel ve kaliteli teşekkür ederim lacivert rengini de aldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık ve şık..son derece memnun kaldım kolay sekil alıyor"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "ürün aynı gözüktüğü gibi geldi çok severek kullanıyorum"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "her rengini aldım her modelini aldım gerçekten çok güzel"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ayrıca güzel notunuz için teşekkür ederim"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu fiyata bu kalite gerçekten süper"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "hızla elime ulaştı ve güzel bir paketleme ile geldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Gerçekten görseldeki kadar güzel ve kaliteli çok beğendim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "gorseldekinin aynısı tereddüt etmeden alabilirsiniz çok şık bayıldım"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "özenle şeffaf pakete yerleştirilmiş kumaşı kaliteli geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "rengi de gorseldekinin aynısı geldi bana"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Bu markanın bir çok şalını aldım. Gayet güzel ve kaliteli ürünler."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşın kalitesi şalın rahatlığı deseni o kadar zarif ve şık ki"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "sarı sınıda aldım busatıcınında başka şallarını da alıyorum çok iyi tavsiye ediyorum"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "satıcıya çok teşekkür ederim sorunsuz elime ulaştı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "üç tane sipariş verdim mukemmel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "147 liraya düşünce hemen aldım iyi ki de almışım çok güzel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "diğer renklerini de almak istiyorum bayıldımm"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "beklediğiniz gibi geliyor merak etmeyin"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürün çok kaliteli bayıldımmm. Elime hızlı ulaştı tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalın tok bır kumaş harıka"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı falan çok güzel hızlı kargo için teşekkürler"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "harika ürünü bayılarak kullanıyorum tam istediğim gibi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Muhteşem bı şal dokusu duruşu efsane iyi ki Mira İpek"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok güzel kaymıyor sabit ve desenli oluşu yüzü daha güzel gösteriyor"
+     }
+    ]
+   }
+  },
+  "973174379": {
+   "neg": {
+    "n": 100,
+    "oran": {
+     "renk": 0.33,
+     "yanlis": 0.12,
+     "sentetik": 0.12,
+     "kayiyor": 0.09,
+     "ince": 0.03,
+     "sert": 0.09,
+     "defo": 0.09,
+     "baski": 0.08,
+     "yikama": 0.02,
+     "olcu": 0.01,
+     "eksik": 0.03,
+     "fiyat": 0.01,
+     "satici": 0.08
+    },
+    "alinti": [
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renkleri istediğim gibi krem agirlkli olmadığından iade ettim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Orantısız renkler"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "bu sefer aldığım biraz kalın yinede rengi güzel"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Beyaz deseni ağırlıkta olduğu için bana olmadı"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "bıraz kayiyo siyaha göre daha değişik"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "bu kadar da ince olmaz ya örtünmek için alıyoruz"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Bir kenarında yanık gibi bişey vardı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "rengi göründüğünden çok daha koyu şekilde"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "kırmızıya yakın desenli renkte geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "kumaşların hiç begenemedim kalın kayma yapıyor tuhaf bir kumaş"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Naylonlı ,Kalın ve kısa."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "göründüğü gibi değil ben daha çok şifon tarzı bir kumaş bekliyordum ama öyle değilmiş desenlerde aynı değil"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Naylon kumaşlı kaygan bir şal"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "bu şalı bordo diye almıştım . Kahverengi çıktı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Daha koyu acı kahve tonlarında şal"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "çok yeşil renkler var ben daha kahve alt tonlu bekliyordum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Rengini pek beğenmedim"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Çok sert kumaşı var"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Kahve tonu değil bordo tonlarında geldi ona göre alın"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "çok kalın .."
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "beyazlık kısmı tam ortaya geldiği için şalın o güzel görüntüsü hiç kalmıyo"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "Çok beyazı olduğu için güzel durmuyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Ürün resimdekinden daha açık renk geldi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "İpeksi bir dokusu yok naylon ve kalın"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "çok elektrikleniyor kullanamaz oldum sürekli yapışıyor başıma"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Renk dağılımını begenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "bu ürün gül kurusu gibi bir renk geldi iade ettim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "fotoğraf her şeyi gösteriyor çok umutlanmıştım oysaki"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "kahverengi değil bordo gibi bi renk o yüzden iade"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Kahverengi istedim bordo gönderilmiş"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Rengini daha koyu bekliyordum ayrıca kusurlu geldi"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "renklwr uyumlu değil fiyatina gore bir şal değil"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "Kumaşı çok kalın ya yaz için almıştım hayal kırıklığına uğradım"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "üzerinde kırmızıyla öküz gibi sayı yazılmış satıcı tarafından"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "kumaş kalitesini sevemedim"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Defoluydu mecbur kullanmak zorundaydım"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Çok soluk rengi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "Kumaşı çok kaba"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "deseni o kadar da güzel değil"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "ne pamuk ne saten"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "çok kalitesiz duruyor ve elektriklenme yapıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Almayın derim hiç de görseldeki gibi gelmiyor"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "6 ürün sipariş ettim ama 5 tane geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "rengi verbat ve aşırı ucuz görünüyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "eski sipaiş verdiğim daha pamuk iken şu anda verdiğim daha naylonlu"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "tüylenme yapıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "gerçekte görseldeki kadar hoş durmuyor maalesef iade"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "rengi çok kötüydü ucuz duruyor iade ettim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "rengi cok kotu bır kahverengi kuması da bekledıgım gıbı asla degıl"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Kumasini begenmedjm iade"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "göründüğü gibi gelmedi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "defolu olduğunu bile bile gönderiyorsunuz"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "8 parça sipariş verdim 7 parça geldi bu ürün gelmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "rengi kahverengi dıye secmıstım çok pişmanım"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "göründüğü gibi değil ne rengi ne dokusu"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Ben kahve rengi sipariş verdim bordo geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "gorsellerde beyaz kısımlar var fakat bana gelen çok koyu"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "çok ince bı yapısı var ve kalitesiz"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farklı bir ürün geldi bordo mürdüm karışımı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Ben sizden pembe istemedim kahve istedim gitmişsiniz bana pembe göndermişsiniz"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gönderildi"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "kullanımı berbat takıyorsun karışıyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Yanlış ürün gönderdiler iade"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "defolu geldi"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "15 dklik yıkamada böyle oldu"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "bir birine yapışıyor buruş buruş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün göndermişsiniz bir de iadeyle uğraşmak zorunda kaldim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Ürün yanlış geldi iadeyle uğraşmadım"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürünüm defolu geldi daha önce kullanılmış ve bu ürün yakılmış gibi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Görseldeki renk değil gelen bordo"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "iç gösteriyor iade ettim"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "eksik gönderilmiş pakette yok"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "ip cekmesi var geri iade olur demi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "tam kahve değil kiremit gibi kahve"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "hıç fotograftaki gibi gelmedi vallah çok beğenerek almıştım ama çok koyun geldi"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "inceliğide iyi ama kayıyor Malesef beğenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "İstediğim renk gelmedi bordo geldi"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "kayma yapıyor rengi koyu geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Defolu ürün."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farklı ürün gönderip mağdur ettiniz"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "o kadar sert bir kumaşı var ki"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Kahverengili gözüküyor alakası yok gönderdiğiniz şeyle"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "kumaşı yapısı hiç iyi değil"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Yanlış ürün gönderidldi"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "Cok yapışkan begenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "kahverengi diye aldım asker yeşili gibi koyu yeşil gibi bi renk geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "rengi göründüğü gibi değil mor geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış reng göndermiş."
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.36,
+     "yumusak": 0.09,
+     "kaymaz": 0.09,
+     "renk": 0.18,
+     "gorsel": 0.18,
+     "tekrar": 0.14,
+     "hediye": 0.06,
+     "not": 0.0,
+     "fp": 0.11,
+     "kargo": 0.14,
+     "yazlik": 0.01
+    },
+    "alinti": [
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok kaliteli kumaşı net alınır çok beğendim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "kac tane aldım hepsini de bayılarak kombin yapıyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "harika bir kumaşı ve duruşu var çok beğendim baya tok duruyor kayma da yapmadı"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Anneme hediye olarak aldım her şeyle uyumlu kumaş kalitesi de güzel"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "öğretmenler günü hediyesi olarak aldım ki ürün o kadar güzel ki"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı da dokusu da çok güzel herkese tavsiye ederim ben 3 adet aldım"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "iki tane aldık iykide aldım hanımlar tavsiye ederim beklediğimden de güzel"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık çok rahat kullanılabilir çok güzel güvenerek alabilirsiniz"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kayma yapmıyor diğer renklerini de alıcam"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Kahverengi ve siyah rengini beraber aldım ürün paketlemesi çok iyi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "çok beğendim aynısı geldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "tam fotoğraftaki gibi geldi tavsiye ederim hızlı teslimat içinde çok teşekkür ederim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "çok kısa sürede elime ulaştı."
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Şallarımın ikisi de göründüğü gibi geldi çok güzel çok canlı renkleri var"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi görselde ki gibi canlı aşırı iyi"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Arkadaşıma aldım bu kadar iyi beklemiyorum çok güzel ve kalitesi iyiydi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "ben üç tane şal aldım üçüde gayet güzel göründüğü gibi geliyor"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bu satıcıdan aldığım 13. Şal çok güzel ve kaliteli"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "3 tane sipariş ettim 3 de bir birinden harika çok güzeller bi kaç tane daha sipariş edecem"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hızlı paketleme güzel şallar çok güzel çok beğendim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 4,
+      "metin": "Kumaşı çok rahat deseni tam istediğim gibi tavsiye ederim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi durusu her şeyi harika"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengini de çok beğendim kumaşı da çok iyi herkese tavsiye ediyorum"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "incecik çok güzel çok beğendim tşk ederim 2 adet daha sipariş verdm"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Ürünün rengi kalitesi tam bir fiyat performans ürünü muhteşem"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "hem kaliteli hem uygun çok güzeldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Görsele aynı geldi bence çok güzel kumaşı da güzel rengi o kadar"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitesi güzel olunca başka model de sipariş verdim hemen"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "fiyat performans ürünü alın aldırın"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel görseldeki gibi geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "harika şallar kumaşı renkleri deseni çok güzeller hediye için de"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kayma asla yapmıyor görseldeki gibi geldi paketleme harikaydı"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşak hoş bir şal"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kalitesi çok güzel kayan bir şal değil çok güzeldi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "paketlemesi felan kumaşıda güzel gönül rahatlığıyla alabilirsiniz"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "örtülüşü çok rahat ve kumaşı çok güzel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "göründüğü gibi geldi renkleri harikaaa"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Öğretmenler günü için aldık birebir ne görünüyorsa gelen de o"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşları ince değil kayma yapmaz fiyatı da güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "gönül rahatlığıyla alabilirsiniz kumaşıda çok güzel."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Mükemmel bir şal duruşu kumaşı tam yazlık"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 4,
+      "metin": "gayet uygun kombin yapınca da iyi belli olur"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ürün hem rahat hem güzel çok kaliteli bir ürün"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "kayma yapmıyor ben çok beğendim tavsiye ederim ve kaliteli fiyatına göre çok güzel"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "bu fiyata bu erformans muhtesem renkleri harika"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "sorunsuz ve görseldeki gibi geldi kumaşı da gayet kullanışlı sevdim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bu fiyata bu kalite çok çok iyi fp ürün resmen"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çokta güzel yumuşacık çok beğendim rengini dokusunu tavsiye ediyorum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "çok beğendim rengi olsun kumaşı olsun mükemmel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri canlı göründüğü gibi geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 4,
+      "metin": "Rengini çok beğendim desenleri harika"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Şal fotoğraftaki gibi. Çok sevdim desenini vs. Kaymaz kumaş sanırım."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Şal çok kalite dokusu muhteşem alın aldırın bi kaç renk daha sipariş"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bayıldım kumaşı duruşu harika alınmalı. özel günde bile kullanılır"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok fazla kaygan değil çok iyi duruyo duruşu"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "cok hafif ve cok rahat yapımı vs kırışmıyor da cok memnunum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok kaliteli çok şık duruyor bu ikinci alışımız bile olsa bir daha alır"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürünün kumaşi çok kaliteli renginde çok güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "indirimlerden aldım ben kesinlikle fiyatını hakkediyor çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "paketleme çok güzeldi herhangi bir deforme yoktu göründüğü gibi geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel yumuşak kaymayan harika bir ŞAL"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "rengi dokusu çok güzel bı günde elime ulaştı teşekkürler"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Öğretmenimize hediye olarak aldım çok memnun kaldım tavsiye ederim"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu fiyata kumasıda cok güzel alın aldırınnn"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "bu kadar hızlı geleceğini sanmıyordum çok beğendim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Fiyat olarak çok iyi ve kalitesi duruşu mükemmel her rengini almayı düşünüyorum."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşı rengi çok güzel tam istediğim gibi geldi fotoğraftakinin aynısı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitesi , ürünün malı çok iyi gerçekten ya duruş bu kadar beklemiyordum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "şal çok iyi duruşu rengi desen çok iyi almanızı tavsiye ederim"
+     }
+    ]
+   }
+  },
+  "468684489": {
+   "neg": {
+    "n": 100,
+    "oran": {
+     "renk": 0.27,
+     "yanlis": 0.5,
+     "sentetik": 0.07,
+     "kayiyor": 0.02,
+     "ince": 0.08,
+     "sert": 0.06,
+     "defo": 0.03,
+     "baski": 0.02,
+     "yikama": 0.03,
+     "olcu": 0.03,
+     "eksik": 0.04,
+     "fiyat": 0.01,
+     "satici": 0.12
+    },
+    "alinti": [
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "görseldeki gibi değil açik mavi yerine petrol mavisi geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "siparişinden farklı geldi ama kumaşı guzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Acık mavı olan boyle bıraz koyu geldı"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "normal pamuklu gibi dgl"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "ikiksi de koyu lacivert gelmiş beğenmedim yeri çok güzel ama ince yazlık"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "Daha yumuşak beklemiştim"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "gri ve mavi şallarda delikler vardı"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "Yaz için kalın terletiyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "mavi yerine siyah yollanmis en güzeli de mavi renkti"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "verdiğim sipariş gelmedi paket içinde mavi yerine siyah renk sal çıktı"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "üç tane şalı bir poşete koyup kargolamayan satıcı"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "Uzunluk olarak kısalar."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "yanlis renk gonerilmis ,iade ettim"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 2,
+      "metin": "keşke biraz daha dikkatli olunsaydi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Renkler de aynı renkler değil hatta alakası yok"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Ürün bir renk farklı geldi kumşı iyi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Renkleri farklı geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "Yazın için uygun değil yakıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "görseldeki renkler gelmiyor sipariş verirken bunu dikkate alınız"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "sadece gri aynı renk diğerleri fotoğrafla alakası yok"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "KESKE DOĞRULARINI GÖNDERSEYDİNİZ"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Mavinin tonu tamamen farklı. Eğer elinizde yoksa fotoğrafları güncellemelisiniz."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkler farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "aynı renkler gelmiyor eğer ne renk gelirse gelsin zaten uygun diyorsanız alabilirsiniz"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Diğer renkleriyle alakası yok bunlar kalın"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Farklı renk geldi iade edicektim ama bir tanesini kullandığım için etmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "istediğim gibi gelmedi renkleri harkli geldi"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Renkler aynı sadece gri olan dikişli ikisinde dikişi yok"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "renklerini neden yanlış gönderdiniz ben lacivert giri mavi almıştım siyah geri lacivert geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "resimde görülen lacivert ve mavi haricinde mavinin farklı iki tonu gönderilmiş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim renkleri göndermediği için geri iade ettim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ürünlerin ikisi tiftiklenmiş lacivert olan ayrı bir marka ile gelmiş"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Ürünler farklı renkte geldi."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert yerine siyah gönderildi hediye olarak almıştım iade ile uğraşmak istemedim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "ben lacivert gri mavi seçtim kahve krem gri gelmiş"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "farklı renkler geliyor kumaşıda iyi değil hiç memnun kalmadık"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "şaallardan birisinde boya izi ve defo çikti"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkler gorseldeki gibi değil kumaş kalitesinde çok iyi değil"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "farklı renkler geldi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "kumaşlar sert"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert yerine yeşil geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "3,ü de farklı renk geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Görseldeki ürünleri değil evde takılan yazma göndermişler"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gönderildi"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Şal gelmedi para iadeside almadım"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "aynı renkler gelmedi"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "Ürün tiftiklendi beğenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "kesinlikle görselde ki gibi değil biri beyaz geldi biri krem açik mavi bekliyordum"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renk göründüğü gibi değil daha mavisi daha koyu grisi daha açık tonda"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "Gerçekten çok ince ve insanın boynum görünüyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "mavi yerine siyah göndermişler"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "İstediğim renkler yanlış gelmiş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Renkleri farklı gönderdiler."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert, gri ve siyah yollamışsınız bana."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farklı renk göndermişsiniz Nasıl güveneceğiz sizlere"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "mavi şalın gorseldikiyle alakası bile yok"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Kenarları yanık çıktı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "istediğim ürün gelmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "gri çok açık ton geldi görselde ki gibi deil"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "Bana cok ince geldi, siyah olanda antrasit geldi iade"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "göründüğü gibi renkte gelmedi çok ince"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gönderilmiş iki gri var mavi yok"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "şekil almada zorlanıyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "neden farklı renk gönderiyorsunuz bu ne sorumsuzluk"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "renkleri farklı geldi hiç beğenmedim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Yanlış renkler gönderildi sırf mavi ve lacivert için almıştım"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farklı ürün gönderildi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "aynı renkte ürünler gelmedi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış renkler gönderilmiş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert yerine siyah geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert gri mavi sipariş verdim kahverengi krem gri geldi."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Gri dediniz şal rengi bebe mavi çıktı"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "kötü ince rengi soluk"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "benim seçtiğim renkler dışında kafalarına göre koyulmuş renkler"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Renkleri farklı geldi ve bir tanesi aşşırı kalitesizdi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Renkler yanlış gönderilmiş .Seçtiğim renklerle alakası yok malesef."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış renk ve 1 tane şal geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "İstediğim renklerle hiçbir alakası yok bir tanesi bile aynı gelmedi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "yüzde yüz pamuk değil. naylonumsu bir kumaş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert mavi istememe ramen farkli renk gondeerildi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert yerine siyah geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istenilen ürün gönderilmiyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "mavi olan aşırı açık mavi fotoğrafla alakası yok"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "Ölçüler yanlış geldi verdiğim ölçüler le alakası yok"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "çok ince ve kalitesiz mavinin ve grinin rengi parlak"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Yanliş renk gönderimi sakın almayin hepsi farklı renk"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "renkler farklj geldi girselle alakası yok"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "lacivert istedim gönderdikleri kahverengi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "alakasız farklı renk göndermek nedir"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "Eksik ürün geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "bana farklı renk gondermissiniz mavi yok yerine kahverengi gondermissiniz"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Buz mavi yerine siyah gönderildi bize."
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.38,
+     "yumusak": 0.23,
+     "kaymaz": 0.07,
+     "renk": 0.16,
+     "gorsel": 0.18,
+     "tekrar": 0.07,
+     "hediye": 0.09,
+     "not": 0.07,
+     "fp": 0.17,
+     "kargo": 0.19,
+     "yazlik": 0.1
+    },
+    "alinti": [
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "gerçekten çok rahat ve güzel şallar"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Hem rahat hem kullanışlı indirimdeyken almıştım tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "cok guzel kumasina fln bayıldım herkese tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "harika kumaşı var tam yazlık kafamdan çıkarmıyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitesine renklerine bayıldım aynen göründüğü gibi geliyor çok güzel"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "eşim çok beğendiği için her renklerinden tekrar sipariş ettim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "renkler aynen girseldeki gibi geldi..çok memnun kaldım.. Fiyat olarak da çok uygun"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "yazlık ve aynı renkte geldi çok kaliteli bir ürün"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık, ütü gerektirmeyen bir kumaşı var, sıcak havalarda bunaltmayacaktir"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bayılarak takıyorum bu fiyata harika"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "fiyatına göre çok kaliteli"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "renkler canlı ve tam.istedigim gibiydi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Dokusu, rengi çok güzel aynı göründüğü gibi geldi kullanımı cok rahat"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok ince çok kalın değil çok kullanışlı hafif"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat ve kullanışlı tavsiye ediyorum herkese"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşı çok kaliteli"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Hediye olarak aldım çok beğenildi kumaşı dokusu kaliteli"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "hızlı teslimat ve özenli paketleme için"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "hem yazlık hemde çok güzel yumuşacık"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 4,
+      "metin": "satıcıya teşekkürler sağlam geldi hepsi."
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "diğer renklerini de sipariş vereceğim"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "minik sabun hediye için teşekkürler"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "Ayrıca hediyeniz içinde çok teşekkür ederim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "eksik yada hata yoktu göründüğü gibi geldiler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel ve kalitelidirler,bayıldım.tam istediğim gibi geldiler."
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Bu fiyata böyle şal gerçekten beklemiyordum"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "2 aydır kullanıyorum ve dokusu yumuşak güvenle alabilirsiniz"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "hızlı kargo tonlarda birebir aynı geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "dokusu yumuşacık rahat"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Bu fiyata bu kalite. Erken geldi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "paketlenmesi güzeldi çok beğendim. şallarda çok güzel canlı renkli"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hızlıydı gönül rahatlığıyla alabilirsiniz"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "ben daha öncede 3 lü set almıştım alınır aldırılır"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri harika 👍🏻 ayrıca hediye içinde teşekkür ederim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Bu fyta gayet iyi paketleme de çok güzel olmuş"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Renkler görselle birebir aynı geliyor kalitesi çok güzel"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Kargosu çok hızlıydı ürün gayet güzel kumaşları harika renkleri"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok güzel şekil alıyor çok beğendim favori şalım oldu çok rahat bir kumaşı var"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzeller ve kaliteliler verdigim parayı sonuna kadar hakkeden bir ürün"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel kullanışlı gayret kaliteli"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "tam yazlık ve kolay sekil alıyor."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kaliteli güzel renklerine bayıldım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "gayet güzel ürün kumaşı çok güzel rahatlıkla alabilirsiniz"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "annem için aldık severek kullanıyor ayrıca iki güne elimize ulaştı"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "ütü istemiyor tak cik butun herşeye uyumlu"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ürün çok güzel yumuşak çok beğendim tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok şık ve ince bir kumaşa sahip bayıldım resmen mükemmel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürün gerçekten kaliteli. kargolama ve paketleme oldukça başarılıydı."
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok hafif hemen şekil alıyor çok beğendim sonuna kadar hakediyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Ürünlerin rengi çok güzel canlı günlük kullanılır ben çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bu kadar kaliteli beklemiyordum paketleme ve kargo da çok hızlıydı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "mükemmel kalitede kesinlikle öneriyorum alın aldırın"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 4,
+      "metin": "görseldeki gibi geldi paketlemesi de gayet başarılı beğendim teşekkürler"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık ve çok güzel . aldım pişman değilim"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tam yazlık şallar incecik yazın tercih edebilirsiniz."
+     },
+     {
+      "konu": "fp",
+      "yildiz": 4,
+      "metin": "fiyatına göre kumaş çok iyiii"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Yeri ve Kumaşı çok güzel teşekkür ederiz miraipek"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "ürünler göründüğü gibi birebir aynısı gönül rahatlığıyla alabilirsiniz"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "arkadaşıma hediye aldim kendimede almistim, cok yumusak yaz kis kullaniyor utu istemiyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "cok guzel cok begendim renkleride cok canli"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri dokusu güzel terletmiyor kırısmıyor tavsiye ederim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Eşime aldım çok beğendi kaliteli ve güzel bir ürün"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "tam fiyat performans ürünü bu fiyata katileli ürün ve hızlı kargo"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşları çok güzel naylon değil ve fiyatıda diğer yerlere göre çok uygun"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "fotoğraftakiyle aynısı geldi renklerinde atma yok güzel ve kullanışlı bir ürün"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel gerçekten kaliteli alın derim tavsiye ederim"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "biz üç tane istedik bize bir tane hediye gunderdiler yani elimize 4 geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 4,
+      "metin": "Çok yumuşak kumaşı ve kullanışlı, resimde göründüğü gibi geldi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo da 1 gün sonra geldi her şey için teşekkür."
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık kumaşı var igne kullanmanızıagerek bile kalmıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Özenli paketleme için teşekkür ederim bol kazançlarınız olsun"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "müstakbel kadınvalideme hediye olarak aldım"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "her mevsim rahatlıkla kullanılabilir.hizli kargo"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "bu ikinci alışım nerdeyse herrengini aldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık bu fiyata çok çok iyi geldi"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "rica üzerine istedigim renkleri gönderdiler çok teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "lacivert yerine farklı bir renk istedim sağ olsunlar istediğim rengi göndermişler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "tam bir fiyat performans ürünü,aynı zamanda ürünün paketlemesi güzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Renkleri ve kumaşı çok güzel tam yazlık beğendim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Hediye aldım çok kaliteli bu fiyata bu kalite beklemiyordum"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "şallar çok güzel çok rahat tavsiye ederim almanızı"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "fiyatı oldukça uygun tavsiye ederim kaltiesi güzel"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kayma yapmıyor. çok iyi tereddüt etmeden alın"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "harika bütün renklerini aldım yaz için vazgeçilmezim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "ilkkez gorselde ne gorduysem o geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürün kalitesi ve dokusu harika çok beğendim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık çok beğendim tam görselde ki gibi geldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "beklediğim gibi görselin aynısı geldi çok güzeller"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "elime yüzüme yazlik bir ürün boyutu ideal bir boyut"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 4,
+      "metin": "mavi olanıda fotoğraftakinden canlı kumaş olarak bayıldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Gerçekten kumaşı çok rahat ve çok güzel iyi ki almışım."
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "farkli renkleri tekrar alacam"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bu şallardan alın hemen gerçekten çok kaliteli"
+     }
+    ]
+   }
+  },
+  "763220958": {
+   "neg": {
+    "n": 100,
+    "oran": {
+     "renk": 0.29,
+     "yanlis": 0.57,
+     "sentetik": 0.02,
+     "kayiyor": 0.0,
+     "ince": 0.03,
+     "sert": 0.0,
+     "defo": 0.06,
+     "baski": 0.0,
+     "yikama": 0.01,
+     "olcu": 0.01,
+     "eksik": 0.01,
+     "fiyat": 0.01,
+     "satici": 0.11
+    },
+    "alinti": [
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "gorseldeki renkler gelmedi kumasi guzdl ama keske secilen renkler gpnderilse"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim renkler gelmedi. özellikle koyu kahve rengi için aldım bambaşka renkler geldi"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "tiftiklenme yapar diye iade ettim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "bir renk aynı diğer iki renk farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Renkleri farklı geldi ama kaliteşeri iyi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "farklı renk geldi ama kumaşı falan güzeldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Renklerin hepsinin tonu farklı solmuş kullanılmış gibi hiç beğenmedim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "kalite güzel ama renkler aynı gelmedi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "birinin süsü kırık geldi sökücem hepsini"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "sipariş verdiğim renkle alakasız geldiği için iade etmek durumunda kaldım"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Koyu kahve yok gördüğünüz gibi fotoğrafta bu üçü elime ulaştı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "aynı renkler gelmedi sadece bir tane şalın rengi aynıydı diğerleri farklı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "acı kahve yerine siyah renk göndermişler saçmalık"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Renkler farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Bir tanesi krem rengi geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "kahverengi beklemiştim kırmızı değil"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "bir şans vereyim dedim ve farklı geldi. Yapılan etik değil"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "renkleri görseldeki gibi gelmedi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Renklerı farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Sadece bir tanesi aynı renk"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "renkleri istediğim gibi gelmedi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Renkleri görseldeki gibi gelmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "göründüğü gibi gelmiyor renk farklı paketleme kötü"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "aynı renkler gelmedi maalesef"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ben Krem kahve ürününü seçtim bana beyaz turuncu kahveremgi geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Kahverengi hariç istediğim şallar değil farklı renk"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "biri gri biri turuncu çıktı digeride doğru geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim renk gelmedi"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "10 günü buldu elime ulaşması çokta kalıtelı degıl."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim renkler gelmedi daha farklı renkler geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "kahve tonları istedim fakat farklı renkler geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "iade edip tekrar sipariş vermiştim fakat yine renkler hatalı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gönderip yenisi gönderilecek deyip gönderilmedi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "şal istedim Eşarp yollamışsınız Eşarp renginin bir taneside farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim renkler gelmedi 🙂‍↕️ 2 si aynı renk gelmiş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim görselde ki renkler gelmedi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Farklı renkler gönderilmiş"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "aşırı ince"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Renkler göründüğü gibi değildir"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farklı renk gönderilmiş"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "bana yanlış renkleri yolladım iade etmek istiyorum edemiyorum"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Fotoğraftaki ürünü sipariş verdim ama farklı renkler geldi."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "fotoğraftaki renklerlere gelen renkler çok alakasız dalga geçer gibi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "bambu değil naylon sal geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Açık renkli olanın üstünde leke vardı ,renkleri farklı geldi."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış ürün gönderdiler"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış renkler geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Verdiğim siparişle alakası yok renkler çok farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "iki tane aynı renk koymuşsunuz biraz dikkat etseniz"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "sallardan birinin rengi alakasız geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Fotoğrafdaki gibi gelmedi beğenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Görseldeki ile asla aynı değil renkleri"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renklerde farklı resimdekinden"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Sipariş verdiğim renkler yerine farklı renkler gönderilmiş."
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farklı rnek geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Yanlış ürün göndermişler elinizde yoksa sipariş almayın"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Ortadaki krem rengi asla o renk değil"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Fotodaki renkler gelmedi kötü"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Fotoğraftaki renkler gelmedi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ürünler defolu geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış renk gondermisler"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "istediğim renklerden biri yanlış gelmişti"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Aymı renkte gelmedi bakarak almıştım oysaki"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renkleri göründüğü gibi gelmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "ben sipariş ettim aynı renkler gelmedi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Alakasız renkler göndermişler."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "görseldeki gibi gelmedi renk uyumu farklı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Renkler göründüğü gibi değil ve bir tanesinde özür çıktı"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "Kumaşı naylondu pamuklu değildi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "farkli renklerde siparis vermeme ragmen yanlis urun gonderildi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "benim sectigim ürünle uzaktan yakından alakası yok"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkleri farklı ve kaliteli değil"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "Renkler aynı değil"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "3 ürün de farklı renk geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "tamamen farklı renkler gitti"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Asla buradaki renkleri göndermediler ama kumaş aynı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "tamamen farklı renk kombini geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "acı kahve yerine alakasiz bir renk geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış renk yolladılaar"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Acı kahve görünüyor biri ama farklı renk gelmiş"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 2,
+      "metin": "Paketlemesi çok kötüydü sadece kargo poşeti vardı"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış gönderildi iade ettim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Seçtiğim renkler gelmedi farklı geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "Yanlış ürün gönderildi istediğim renkler gelmedi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "gelen şalların renkleri gorseldeki ile alakasiz"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkler alakasız geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "köyü kahve olan açık bir şekilde geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlis gonderlidi hic begenmedim turuncu ve gri gonderildi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "gelen renklerin fotoğraftakilerle hiç bir şekilde alakası ve delik delikti"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Ürün yanlış geldi almayın satıcıya güvenmeyin"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Fotoğraftaki renklerden alakasız kötü renkler geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "alakasız bir şekilde mavi lacivert petrol mavisi gelmis kuması ince ve kötü"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ben 6 tane sipariş ettim 2 tane geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Görseldekinden baska renk şal gonderdiler"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "Çok kötü çok ince almaya deymez"
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.35,
+     "yumusak": 0.27,
+     "kaymaz": 0.13,
+     "renk": 0.28,
+     "gorsel": 0.24,
+     "tekrar": 0.11,
+     "hediye": 0.11,
+     "not": 0.1,
+     "fp": 0.1,
+     "kargo": 0.13,
+     "yazlik": 0.08
+    },
+    "alinti": [
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık harika kaymayan terletmeyen şallar kesinlikle tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Şu ana kadar aldığım en kaliteli malını beğendiğim şallar abartısız"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ağırlık asla yapmıyor çok memnun kaldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzeler çok kullanışlı çok rahat renkleride çok güzel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "memnun kalmaya devam edersem diğer renklerini de alacağım"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "çok güzel paketlenmiş çok beyendim güzel şekil alan bozulmadan gün boyu kullan renklerde çok canlı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "seçtiğim renkler elime ulaştı teşekkür ederim.stoklicam herkese tavsiye ederim güzelmiş"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık ve rahat şekil alabiliyor fiyatı da çok iyi diğer renklerini de tamamlicam"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "sürekli ütü yapamyan biri olarak bu şalları kullanmak çok rahat"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 4,
+      "metin": "çok güzeller yumuşacık rahat yapılabilir büyüklüğü de güzel"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "hem kış hem yaz , dört mevsim rahat bir şekilde kullanabilirsiniz"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ilk defa sipariş vermiştim ama son olmayacağı kesindir çok rahat hemen şekil alabilen bir şal"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "gorseldeki gibi güzeller beğendim vede hemen geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "göründüğü gibi kalitesi aşırı iyi tam bı fiyat performansı bu fiyata bu kalite harika"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat şallar renklerinede bayıldım kargo da hızlı geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok memnun kaldım çok rahat şallar."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 4,
+      "metin": "yıkayıp ütüledim ama hiç birşey de olmadı çekme fln yaşamadım memnunum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok güzel çok güzel kumaşı var gönül rahatlığı ile alabilirsiniz"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "renkleri birebir aynı geldi teşekkürler"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Ürün gerçekten çok güzel ve çok uygun fiyatta alın aldırın"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "istediğim renkler gelmiş çok beğendim kaliteli teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "ürün çok kaliteli satıcının göndermiş olduğu hediyeler için teşekkür ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok güzel şekil alıyor çok beğendim iyiki aldım"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "hiç kayma yapmıyor en kısa zamanda tekrar alicam"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Anneme aldık çok sevdi çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı cok kaliteli cok begendım"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kusursuz ve çok hızlı geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Çok güzel yumuşak ve kaymıyor beğendim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzel kullanışı çok rahat"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Fiyat ve kalite ürünü hediye almıştım çok beğenildi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri dokulari sekil almalari harika"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Artık şallarımı bu sayfadan alacağımdan emin olabilirsiniz"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat hemen sekil.aliyor baska renklerinide alacam"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "küçük hediyeniz için çok ama çok teşekkür ederim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "arkadaşıma aldım çok beğendi çok güzel gerçekten"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "renkler hersey görselde ki gibi kargo hızlı sorunsuz yumuşak çok kullanışlı"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "küçük hediyeniz içinde çok teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "şalların kumaşı duruşu çok güzel ve çok rahat asla kayma yapmıyor"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "göründüğü gibi geldi çok kullanışlı çok rahat"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Renkleri, şalın dokusu muhteşem"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Çok güzel paketlenme ve hızlı kargo , istediğim aynı renkler geldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "aynı renkleri ile geldi küçük hediyeler için ayrıca teşekkür ederim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "aynı istediğim gibi geldi dokusu çok güzel renklerin mükemmel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "hepside çok güzel göründüğü gibi geldi renkleei çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaş dokusu çok güzel,büyüklüğü gayet iyi renklerini de çok beğendim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 4,
+      "metin": "gayet güzel yumşacıķ renkler görseldekinin ayni çok begendim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "tam istediğim gibi kolayca şekil alıyor ütüye gerek yok"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşları ve duruşu gayet güzel Tereddüt etmeden alınabilir"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "o kadar güzeller ki hayran kaldım emeğinize sağlık"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürünün duruşuna ve kalitesi çok iyi şimdi başka renklerinide sipariş vericem"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Hızlı kargolama,hızlı teslimat.Göründükleri gibi geldi renkleri çok güzel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "gayet güzel renkleri resimle aynı geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Dokusu çok güzel rahatlıkla kullanırım renkleride güzel"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Annem için aldım çok beğendi tam yazlık"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "ürün kaymaz ve ütü gerektirmiyo çok beğendim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "yeğenime aldık..çok beğendi.. kalitesi çok güzel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Çok beğendim istediğim gibi geldi tekrar sipariş verdim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bu fiyata çok kaliteli şal imiş yumuşacık ve bence kaliteli"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu ekonomide alınabilecek en güzel fırsat ürünü kumaşları harika görseldekinin aynısı geldi"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "hem şallar muhteşem hemde hediye olarak bir tane şal fazladan göndermişler"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Renkleri çok güzel istediğim gibi geldi kullanımı da cok rahat hiç kaymıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "okadar güzel ki renkleri çok beğendim"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "Çok güzel yazlık pamuklu çok rahatlıkla kullanabilirsiniz"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "toka hediyenizbve güzel notunuz içinde ayrıca teşekkür ederim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "istediğim renkler gönderilmiş teşekkür ederim özenli paketleme yapılmış kaliteliler"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzeller gayet kullanışlı ve rahat"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel bı kumaşş hediye için teşekkür ederim çok tatlı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri fotograftakinden daha güzel geldi ben çok beğendim kendime de aldım"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Anneme aldım severek kullanıyo"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "cok kisa sürede elime ulaştı, yumuşak ve kaliteli sallar"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık ve aynı fotoğraftaki gibiler ve çok hızlı geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "gönlünüz rahat oldun çok rahatlar"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel ve kaliteli şallar hediyelik aldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok rahat güzel ürün"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "ablama aldım çok beğendi renkler tam olduğu gibi kumaşı ve uzunluğu gayet güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok güzel kumaşı hafif yormuyor Görseldeki Renkler geldi"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "arkadaşima hediye olarak aldım çok beğendı tam yazlık kaliteli"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 4,
+      "metin": "gayet guzel renkleri var kumaşı ince yazlık güzel bir urun"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "çok beğendim renkleri görüldüğü gibi geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "güzel ince ana iç gostermez tam yazlik kumas"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "çok çabuk geldi sipariş etimden daha güzel esnek ve iç gostermeyen kumaş"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri de canlı kumaşları da güzel bu fiyata bence çok iyi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok beğendim kalitesi renkleri harika"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "tam bir fiyat performans ürünü"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Renkleri kumaşları gerçekten göründüğü gibi kaliteli . Ufak hediyeniz için teşekkür ederim."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "tereddüt etmeden alın kaliteli bir ürün"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "şal larim geldi kumaşı cok guzel"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Aşırı rahat hiç ütü istemiyor"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "hizli kargolama da oldu .kumasi dokusu gayet guzel uc sal icinde fiyat gayet iyi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri çok güzel ve günlük kullanımda çok rahat"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "harika beklediğim gibi ve çok hızlı geldi"
+     }
+    ]
+   }
+  },
+  "211986804": {
+   "neg": {
+    "n": 77,
+    "oran": {
+     "renk": 0.05,
+     "yanlis": 0.12,
+     "sentetik": 0.12,
+     "kayiyor": 0.08,
+     "ince": 0.03,
+     "sert": 0.06,
+     "defo": 0.29,
+     "baski": 0.06,
+     "yikama": 0.01,
+     "olcu": 0.01,
+     "eksik": 0.01,
+     "fiyat": 0.03,
+     "satici": 0.13
+    },
+    "alinti": [
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "bir tanesini yine yanlış göndermişler kampanyadan aldığım için sırf iade etmem için uğraşıyor sanki satıcı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Ürün hatalı geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "bazı yerlerinde çizgi hataları var iade etmek istedim yenisini alacaktım ama kargo ücreti çıktığı için vazgeçtim"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "pamuklu değil..mayın..kayan bir yapısı var"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "tam ortada kocaman çizgi şekilde baskısı var"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "3 tane şalım da deforme var çekilmiş değişim yapmanızı istiyorum"
+     },
+     {
+      "konu": "baski",
+      "yildiz": 2,
+      "metin": "Attiginiz görsellerde asla belli değil.Eski şallardaki modeller gibi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ürünün defolu olduğunu bildikleri halde kargolamışlar"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "İçinden ipi çekilmişti iade ile uğraşmadım"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "kayma yok diyordu ama kayma oluyor"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "kumaşı da çok hoş değil"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 2,
+      "metin": "hemen tiftiklendi uzun süre kullanmadım"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "kumaşı ince ve idare eder üstündeki desenler baskı ama canlı değil"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "çok naylonsu memnun kalmadım"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "2 tane farklı model sipariş ettim ikiside aynı geldi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "naylon pamuklu değil"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "sipariş vermiş olduğum ürünün aynısı gelmedi farklı olarak geldi"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "bu ürünü eksik yolladılar. stokta da kalmamış."
+     },
+     {
+      "konu": "baski",
+      "yildiz": 1,
+      "metin": "İç desenı yok beyaz bır goruntu var"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "ama zebra desenli şal geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "çok kötü iğne izi yapıyor hemen"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Ürün defolu geldi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "sert ve naylonumsu bir ürün geliyor"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 2,
+      "metin": "kumaş kalın ve kullanışsız"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "İç taraf astarlı beğenmedim"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "Ürün pamuk ipliği diyo ama alakası yok"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "sürekli çekiliyor resmen ilk takmada çekildi ve desenleri bozuldu"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "iade kodu hatalı diyor sürekli iade olusturamiyorum"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Üç ürün aldım üçüde defolu çok kötü paranıza yazık"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "ürün defolu geldi iade"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "defolu ürün göndermeleri güven sarsıcı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "üründe hatalar var çizgiler dolu beğenmedim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "yanlış ürün gönderdiler"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Kenarında boydan boya bir cizgi seridi var kalitesi cok kötü"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "görselde durduğu gibi durmuyor. iade"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Ürünün kenarlarında iğne izi gibi izler vardı. Yıkadığım için iade edemedim"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "sevmedim kayıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "üçgenleri baya cırtlak turuncu bir renk"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "İç kısmı beyaz, en ufak harekette beyazı görünür."
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "Defolu ürün göndermişler her zamanki gibi"
+     },
+     {
+      "konu": "sert",
+      "yildiz": 1,
+      "metin": "Ürün kalın ve kaba durdu"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "üRüN defoLu"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ipi kaçmış bir sekilde geldi"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 2,
+      "metin": "Kesinlikle pamuk değil. Kumaşı terletiyor rahatsız edici."
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "Ürünüm PTT kargo tarafından hiç elime ulaşılmadı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "3 ürün aldım ve hepsi defolu"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 2,
+      "metin": "sipariş verilen ürün değil farklı ürünün gelmesinin amacı nedir acaba"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "defolu geldi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "ip çekilmiş kenarında diger ucunda da aynı"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "ürün kaygan ve naylon, hiç beğenmedim"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Poşeti açmadım bile hatalı geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Çok alakasız bir renk geldi"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "yanlış urun gondermişsınız"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "nasıl iade edicem defolu ürün gönderiyorsunuz"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 1,
+      "metin": "Kargo elime ulaşmadı nasıl teslim aldı görünüyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "istediğim şal gelmemiş çok farklı bi şal gelmiş"
+     },
+     {
+      "konu": "fiyat",
+      "yildiz": 1,
+      "metin": "çok kötü parayı zere hak etmiyor"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Her yeri defolu geldi paketleyenin görmemesi imkansız"
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.44,
+     "yumusak": 0.16,
+     "kaymaz": 0.17,
+     "renk": 0.24,
+     "gorsel": 0.18,
+     "tekrar": 0.23,
+     "hediye": 0.07,
+     "not": 0.01,
+     "fp": 0.12,
+     "kargo": 0.16,
+     "yazlik": 0.01
+    },
+    "alinti": [
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "3 adet şal aldım denemek için siteyi şuan 2 şal daha sipariş verdim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "harika renkleri kumaşı satıcıya teşekkür ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel hemen şekil alıyor bayıldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık hediyeniz için de teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Paketleme özenli, kargo da hızlıydı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Gerçekten çok kaliteli çok beğendim hayırlı satışlar diliyorum"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "gerçekten cok kaliteli fiyatina göre cok teşekkür ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "duruşu hemen şekil almasi ve rahatlığı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Genellikle bu sayfadan alırım şallarımi esarplarimi dokuları duruşları çok güzel"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok kolay şekil alıyor renkler harika kumaş olarak kaliteli"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Rengiyle, kalitesiyle, duruşuyla harika"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 4,
+      "metin": "şekil alması mükemmel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "satıcı özenli karko vede 24 saat te teslim edildi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı desenleri çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok beğendim kumaşı da kış için uygun"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Denemek için almıştım şimdi diğer renklerinden de alacağım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "rengi gözüktüğü gibi canlı. şekil alması ve kullanımı rahat"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "kolay şekil alıyor desenide rengi dokusu çok güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Fiyatı uygun. Hep böyle uygun olsa da her rengini alsak."
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Arkadaşıma doğum günü hediyesi aldım bayıldı kendimede değişik rengini almıştım"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Arkadaşımın doğum günü için almıştım."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı kalitesi çok iyi yumuşaçık başta çok şık duruyor"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "o kadar güzel ve hemen şekil aliyorki anlatamam"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargom çok hızlı elime ulaştı teşekkür ederim"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "sali ablama hediye aldım çok beğendim kumasi çok güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "bu kadar uygun fiyata bu kadar güzel geleceğini tahmin etmiyordum"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "başka renginde sipariş vericem yıkadım bozulma olmadı hiç kumaşı çok guzel"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "kız kardeşime doğum günü hediyesi aldım renkler muhteşem"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "ürün beklediğimden kaliteli çıktı fiyat performansı çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel Bir kumaşi var renk uyumuda çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "hiçbir defo vs yoktu kalitesi,renkleri ve desenleri çok güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "onada kaliteli kaymaz çabuk şekil alır"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Ürün görseldeki ile aynı paketlemede gayet özenliydi hızlı kargo"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzel rahat bir kumaşı var desen muhteşem"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Anneme aldım gerçekten kalitesi baya iyiydi biz çok beğendik fiyat performans olarak gayet iyi"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Harika mükemmel kolay şekil alıyor"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "farklı modellerde şal aldım hepsi de birbirinden güzel uygun fiyat kaliteli ürün"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "farklı rengini almıştım kalitesi güzel olunca bu rengide aldım çok canlı resmdekinden daha güzel"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşlarına ve renklerine bayıldım😍 kolay bağlıyor ve kırışmıyor? Hızlı kargo için de teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok kaliteli daha önce buradan alışveriş yapmıştım kesinlikle harika şalları var"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "görselde ki ile aynı çok hafif ve renkleri çok canlı çok beğendim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "bu sayfadan iki adet şal.aldim ikiside çok güzel çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "indirime girdiğinde bir başka modelini birdaha alicam satıcıya çok teşekkürler"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "gerçekten beklediğimden güzel geldi çekinerek almıştım kumaş çok kaliteli"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "hemen şekil alıyor çok hafif daha öncede bu satıcıdan şal almıştım memnunum hızlı da geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok güzel ve şık bir şal herkese tavsiye ederim emin olun çok hafif"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "şahane kumaşı gayet kaliteli çok beğendim"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "parasını son kuruşuna helal olsun çok güzel bı şal"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "kendime bir kaç tane daha sipariş edecem tavsiye ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "ütü istemeyen ve çabuk şekil alan bir şal"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "çok güzel tam isteğim gibi geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "dokusu duruşu paketleme güzeldi sağlam geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "takmasıda rahat beğendim renk olarakta aynısı geldi"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "dokusu duruşu çok güzel ekranda göründüğü gibi"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "renkleri canlı desenleri de çok guzel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "görseldekiyle birebir geldi rengi duruşu harika"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Hediye aldım. Mükemmel."
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "arkadaşlarım da gördü aynısını aldı kalıbı duruşu çok güzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri canlı büyüklüğü idealdende büyük kaynaz kumaşı çok iyi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bayıldım kalitesine çok güzel yumuşacık renkler çok canlı"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "HEM FİYATI İYİ HEMDE RESİMDE GÖRÜNDÜĞÜ GİBİ KARGODA HIZLI PAKET ÖZENLİYDİ"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "çok uygun fiyata aldım ve çok beğenerek kullanıyorum."
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 4,
+      "metin": "Kumaşı çok güzel renkleri fotoğrafta ki gibi beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok kaliteli gerçekten çok güzel ütü istemez tak çık"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "kumaşı yumuşak çok beğendim rengi aynı geldi"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "bi kaç tane aldım bayılıyorum"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "çok güzel aynı resimdeki gibi ayrıca rahat"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "beklediğim gibi de 1 gün de elime ulaştı"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "tıpkı göründüğü gibi geldi çok kaliteli ve şık hızlı kargo"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "hemen geldi 3 günde elimdeydi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "aşırı hızlı kargolama ürünün kalitesi mükemmel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri canlı ve hızlı kargo herkese tavsiye ederim ben tekrar sipariş vericem"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "kullanıma rahat şekil alır öneriyorum deseni renkleri güzel"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Severek kullanıyorum fiyat performans ürünü tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel yapımı kolay beklediğimden çok iyi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kaliteli ürünler. kalmayan kumaş. yıkayınca da burusmadi.mukemmmel"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "ikinci alışım bu markadan kumaşı duruşu harika"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "aynı fotoraftaki gibi gönül rahatlığıyla alabilirsiniz kaliteli"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Renkler çok canlı ayrıca hızlı kargo içinde teşekkür ederim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "Diğer serilerini de alıcam herkese tavsiye ederim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "cok guzel renk ve model harika cok begendim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri daha canlı ve şık duruyor"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı sert değil ve aynı zamanda kayma yapmayan güzel şekil tutan kumaşı var"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "görseller aynı hemen şekil alıyor kırışma kayma yapmıyor"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok beyendim çok kaliteli severek kullanıyrum"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Çok güzel yumuşacık, renkleri çok canlı."
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Gerçekten görseldekiyle birebir aynı çok kaliteli geldi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargom çok hızlı geldi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Alın gönül rahatlığıyla çok güzel kumaşı bütün yaz benimle olacak"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "Gelir gelmez hemen boneyle denedim ve kaymadı, şekil alması da kolay"
+     }
+    ]
+   }
+  },
+  "366531659": {
+   "neg": {
+    "n": 49,
+    "oran": {
+     "renk": 0.27,
+     "yanlis": 0.06,
+     "sentetik": 0.04,
+     "kayiyor": 0.27,
+     "ince": 0.2,
+     "sert": 0.02,
+     "defo": 0.22,
+     "baski": 0.0,
+     "yikama": 0.02,
+     "olcu": 0.12,
+     "eksik": 0.02,
+     "fiyat": 0.0,
+     "satici": 0.08
+    },
+    "alinti": [
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "yapisi ince ön kısmı şekil almiyor ütü istiyor"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Bir tanesi kusurlu geldi omun haricinde güzeldi ama iade"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "kumaşı çok ince ve kaliteli değil"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "penyesı kötü kolay şekil almıyor çabuk kırışıyor tok bir penye değil"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "yamuk yumuk duruyor ama arkaya topusuna atarsan iyi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkleri beklediğim gibi değildi"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 2,
+      "metin": "kumaslari inceydi idare eder"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Renkleri daha açık ince bi penye kumaşı beğenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "karamel, karamel değil turuncu. renkleri gerçekten vasat."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkleri çok kötü fiyattan dolayı çokta iyi bir şey beklemiyordum"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "Şalların agzı gozu bir yere kaydı bi degişik uzadılar"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "çok ince önü yapılmıyor"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "Kahve istedim çikolata rengi gönderilmiş"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "şekil almiyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Renkler görseldekiyle aynı değil"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "Kesimi çok kötü orantısız"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "iki tane şalım da defo çıktı ona göre alın"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "ürün ince ve küçük kalitesiz"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "kayıyor agir çok pişmanım aldığıma iyade etme istiyorum"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "penyesi cok kötü tercih etmeyin"
+     },
+     {
+      "konu": "satici",
+      "yildiz": 2,
+      "metin": "kalitesini hiç beğenmedim üzülerek iade edicem"
+     },
+     {
+      "konu": "sentetik",
+      "yildiz": 1,
+      "metin": "farklı kumaş ve likralı örtü yaptığında ürün kendini salıyor"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "Ürünün bej olan rengi resimdeki gibi asla deıl çok çiğ bir bej"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkler ve fotoğrafları aynı değil"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renkler hiç umduğum gibi gelmedi"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 2,
+      "metin": "hemen yüze yapışıyor şekil almıyor önü beğenmedim"
+     },
+     {
+      "konu": "olcu",
+      "yildiz": 1,
+      "metin": "Üŕünler geldi hepsi carpik hic begenmedim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renklerin göründüğü gibi old düşünmüyorum aşırı pişman oldum"
+     },
+     {
+      "konu": "eksik",
+      "yildiz": 1,
+      "metin": "iki adet sipariş verdim ancak tek siparişim geldi."
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "hepsinin içinden yırtık çıktı normal bi yırtık da değil 2 yerde büyük buyuk"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "kesim eğri olan şal var, defolu şal var, istediğim renkle alakası olmayan renkler gelmiş"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "Kesinlikle önü şekil almıyor o kadar ince ki"
+     },
+     {
+      "konu": "yikama",
+      "yildiz": 1,
+      "metin": "İlk yıkamada rengi bozuldu ipleri açıldı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "3 ürün sağlam 1 tanesi yırtık geldi."
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "inanılmaz inceler, uzunlukları kısa enleri fazla kabus gibi"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "2 tanesi delik gelmiş. kontrol edilip gönderilmesi gerekirdi."
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "Bir ürün yırtık geldi bir kaç yerinden"
+     },
+     {
+      "konu": "ince",
+      "yildiz": 1,
+      "metin": "tülbentten hallice cok ince"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "delik 2 tanesinde iki farklı delik vardı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 2,
+      "metin": "renkler alakasız ve ürün hatali çıktı"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 2,
+      "metin": "2 tanesi böyle yırtık, delikli geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 1,
+      "metin": "renkler korkunç çokta basit"
+     },
+     {
+      "konu": "defo",
+      "yildiz": 1,
+      "metin": "GÖNDERMEDEN ÖNCE KEŞKE ÜRÜNLERİ BİR İNCELESEYDİNİZ..!!!!"
+     },
+     {
+      "konu": "kayiyor",
+      "yildiz": 1,
+      "metin": "urun tok durmuyor kayiyor hic begenmedim"
+     },
+     {
+      "konu": "yanlis",
+      "yildiz": 1,
+      "metin": "bejin yerine beyaz yolmişsiniz"
+     }
+    ]
+   },
+   "top": {
+    "n": 100,
+    "oran": {
+     "kalite": 0.44,
+     "yumusak": 0.31,
+     "kaymaz": 0.09,
+     "renk": 0.32,
+     "gorsel": 0.13,
+     "tekrar": 0.15,
+     "hediye": 0.12,
+     "not": 0.1,
+     "fp": 0.1,
+     "kargo": 0.23,
+     "yazlik": 0.07
+    },
+    "alinti": [
+     {
+      "konu": "yazlik",
+      "yildiz": 3,
+      "metin": "Yaz sıcaklarında en iyisi penye giderdi çok memnun kaldım"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hızlı paketleme cok iyiydi sallarda çok güzel hafif rahat"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "hem ürünün kalitesi hem paketleme her şey çok güzeldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Penyesi aşırı rahat. Paketlemesi de çok şirindi."
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Anneler günü için anneme hediye aldım. Çok beğendi."
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık çok güzel renkleri bayıldım"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri aynı göründüğü gibi geldi mali da kaliteli yumuşacık"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürünler hem çok kaliteli hemde istediğimiz renklerde ayarladılar."
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "istediğin gibi şekil verebiliyorsun bayıldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "o kadar hafifki yaz icin tam bir kurtarici renklerinin güzelligi şaka gibi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "çok memnun kaldım gerçekten çok canlı renkleri var"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çoook beğendim hem sağlam hem güzel alın bence"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "fiyatı çok çok iyi kaliteside çok güzel"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 4,
+      "metin": "Tam istediğim gibi geldi gerçekten gönül rahatlığıyla alabilirsiniz"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 4,
+      "metin": "sevdiğim renkleri bir arada olunca kumuslar kaliteli sevdim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Ürün çok kaliteli ve yumuşak. Renkleri de tam istediğimiz gibi."
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "kullanışlı pratik ve istediğiniz tonda ve renkli geliyor"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "küçük notunuz için teşekkür ederim"
+     },
+     {
+      "konu": "kaymaz",
+      "yildiz": 5,
+      "metin": "çok kolay şekil alıyor ütü ihtiyacına gerek yok"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "başka renklerde sipariş edeceğim"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "Yumuşacık. Ve asla kaymıyor. Günlük kombinlerde kurtarıcı"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Çok güzel ve kaliteli çok hoşuma gitti tonları da resimdeki gibi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "özenle paketlenmişti not için teşekkür ederim"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "çok memnun kalıp dört renk daha aldım ürünün yeri kumaşı güzel rahat"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "dokusu çok güzel kayma yapmıyor. Farklı renklerinide aldım"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "hem duruşu güzel hem malzemesi güzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "özellikle belirttiğim renkleri koymuşsunuz teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "ürünler gerçek çok iyi kumaşı da öyle"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri göründüğü gibi kalitesi de güzel.paketlemesi de özenliydi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "cok kaliteli emeğinize sağlik tekrar şipariş vereceğim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hızlıca geldi paketleme ve dokusu güzeldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "kumaşı yumuşacık fotoğraftaki ile aynı geldi gerçekten çok kaliteliler"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "arkadaşıma hediye aldım çok güzel kaliteli kumaşı var"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "paketleme kalite harika."
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "diğer renkleri de en kısa sürede sipariş edeceğim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Paketlenmesi içindeki tatlı not dokusu hepsi çok çok iyi"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "rica ettiğim renkleride eksiksiz gondermissiniz çok teşekkür ederim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok hafif penyesi kaliteli terleme 0"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo hızlı şallarım çol güzel renklerine bayıldım"
+     },
+     {
+      "konu": "fp",
+      "yildiz": 5,
+      "metin": "diğer penye şallar gibi kaymıyor duruşu görünüşü çok güzelll"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Çok güzeller istediğimiz renkler geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "kumaş olarak muhteşem hafif çok kullanışlı"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık kayma yapmıyor kolay şekil alıyor"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargolaması iyi kumaşları iyi gönül rahatlığıyla alabilirsiniz"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renklerine bayıldım tavsiye ederim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Renkler bire bir aynı penye kumaş istediğim gibi"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "mükemmel özenle paketlenmişti teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "hepsi birbirinden güzel ve hepsi çok kaliteli renkleri parlak"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri ve kumaşı çok güzel, resimdeki renkler geldi eksiksiz bir şekilde"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "Kumaşları çok güzell anneme aldım çok kaliteli"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "yumuşacık ve çok rahat alınmalı"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "Süperr anneme aldım çok beğendi"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "hem kızıma aldım hem yeğenime aldım kaliteli"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "gerçekten yumuşacık ve herhangi bir sorun yaşanmadı, bu fiyata kaçırılmaması gereken bir ürün"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "Kargo ve paketlemeden memnun kaldım.Şallarda güzel kaliteli kumaşı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "harika geldi renkleri herşeyi mükemmel"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "Satıcıya ricamı kabul edip istediğim rengi gönderdiği için çok teşekkür ederimmm"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "çok güzel çok kaliteli fiyat performans ürünü renklerine bagildim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "tam istediğim gibi geldi çok güzel herkese tavsiye ederim hem daha hem yumuşak"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "gundelik kullanım için hafif yazma dan daha rahat"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "açık rengi arkadaşıma hediye ettim tenim esmer diyo o da çok beğendi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "bana yakışmaz renkler diye düşünürken bana çok yakıştı"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 4,
+      "metin": "ikinci sipariş veriaim gerçekten çok güzel ben beğeniyorum renkleri solma yapmiyor"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Çok güzel yumuşacık hiç kaymıyor renkleri de bir harika"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "cok guzel cok kaliteli begenerek aldim tavsiye ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "tek katta bile ic göstermiyor,dikişi duruşu guzel,galiba bundan sonra başka firmadan almam"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "yumuşacık hissiyatı çok güzel yokmuş gibi hafifler ama bir o kadar da kaliteliler"
+     },
+     {
+      "konu": "not",
+      "yildiz": 5,
+      "metin": "notunuz içinde teşekür ediyorum güzel paketleme"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "kargo da çok hızlı bir şekilde elime ulaştı severek takıyorum almanızı tavsiye ederim aşırı rahat"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tam yazlık bir şal pastel tonlarda olmasina da bayıldım resimde göründüğü gibi geldi"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "Yumuşacık kaliteli çok beğendim"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "renkleri güzel diğer renklerini de aldım"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "öyle güzel ve yumuşak bir penye ki atkı oluyor, şal oluyor"
+     },
+     {
+      "konu": "tekrar",
+      "yildiz": 5,
+      "metin": "hafif ve serin gerçekten yazın vazgeçilmezim olur"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kargoda çok hızlı hemen elime ulaştı"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "hızlı teslimat ve gayette güzel kumaş"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kaliteside güzel tavsiye ederim"
+     },
+     {
+      "konu": "kargo",
+      "yildiz": 5,
+      "metin": "renkler görseldeki gibiydi, istediğim renkleri seçtim düzenlediler sağ olsunlar"
+     },
+     {
+      "konu": "yazlik",
+      "yildiz": 5,
+      "metin": "tam yazlık cok teşekkür ederim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitede cok güzel aldığınız para sonuna kadar helal"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "şalın dokusu uzunlugu genişliği herşey mükemmeldi"
+     },
+     {
+      "konu": "hediye",
+      "yildiz": 5,
+      "metin": "hədiyyə üçün ayrıca tesekurler"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "o kadar yumuşak ki kesinlikle tavsiye ederim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "tam fotoğraftaki gibi geldi ben çok beğendim kaliteli"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "çok beğendim yumuşacık ilgilenen emeği geçen herkese"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "bütün renklerini alma fikri çık aklımdan"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 4,
+      "metin": "Yumuşacık ve şekil alıyor renkleri de çok hoş tekrar tercih edeceğim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kumaşı çok güzel kaliteli yumuşacık baya sevdim"
+     },
+     {
+      "konu": "gorsel",
+      "yildiz": 5,
+      "metin": "Çok beğendim tam istediğim gibi geldi"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "istediğim renkler geldi ve çok güzeller bayılarak kullanıyorum.."
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "ortaokula okula başlayan kızım için aldım alın derim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "takması çok kolay sanki başım da şal yok Cok hafif ve güzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "Harika renkleri var dokusuna kalitesini çok beğendim"
+     },
+     {
+      "konu": "kalite",
+      "yildiz": 5,
+      "metin": "kalitesi ve dokusu çok guzel"
+     },
+     {
+      "konu": "renk",
+      "yildiz": 5,
+      "metin": "birebir seçtiğimiz renkleri yollamanız şahane teşekkür ederim"
+     },
+     {
+      "konu": "yumusak",
+      "yildiz": 5,
+      "metin": "üstümde yok gibi incecik ama iç göstermiyo"
+     }
+    ]
+   }
+  }
+ }
+}
